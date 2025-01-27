@@ -77,80 +77,32 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "628691288d318100",
     "type": "split",
     "children": [
       {
-        "id": "7c5ba8e2b3b7a8b3",
+        "id": "49c12006073bad79",
         "type": "tabs",
         "children": [
           {
-            "id": "89d1c3d5caf0ee41",
+            "id": "01125309edf6ca04",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Web Application Development/3. Advanced Client Side Development.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 3. Advanced Client Side Development"
-            }
-          },
-          {
-            "id": "8965e42356c885b8",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Web Application Development/3. Advanced Client Side Development.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from 3. Advanced Client Side Development"
-            }
-          },
-          {
-            "id": "61a1601d4eab4049",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c6bd75505986976a",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Web Application Development/3. Advanced Client Side Development.md"
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 3. Advanced Client Side Development"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,22 +112,23 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "173b9dd341b7069b",
   "lastOpenFiles": [
+    "Pasted image 20250127231847.png",
+    "Pasted image 20250127231516.png",
+    "Pasted image 20250127231438.png",
+    "Pasted image 20250127231351.png",
+    "Pasted image 20250127231200.png",
+    "Pasted image 20250127230726.png",
+    "Pasted image 20250127230128.png",
+    "Pasted image 20250127230020.png",
+    "Pasted image 20250127203622.png",
+    "Pasted image 20250127203606.png",
     "Pasted image 20250127173428.png",
-    "Pasted image 20250127173057.png",
-    "Pasted image 20250127172845.png",
-    "Pasted image 20250127172756.png",
-    "Pasted image 20250127163048.png",
-    "Pasted image 20250127162833.png",
-    "Pasted image 20250127112052.png",
-    "Pasted image 20250127111840.png",
-    "Pasted image 20250127111329.png",
-    "Pasted image 20250127104314.png",
-    "Pasted image 20250127104253.png",
     "Data Management Systems/2. DB Constraints and Triggers.md",
     "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
     "OOD/9. Behavioral State Machine.md",
