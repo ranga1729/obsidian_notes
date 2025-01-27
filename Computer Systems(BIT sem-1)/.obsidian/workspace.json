@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "8b6b579262fa5110",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ecfd4fc3839209a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fba0f81df684263",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Intro/1.2 Evolution of the Computer.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "080e426a8e77c663",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce81ee91a3984e4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "25c13a6febac4cdb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "793dc8c56aef08eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8448feae353f240f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6b709f4e54d79457",
+    "type": "split",
+    "children": [
+      {
+        "id": "696e301756508072",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3aaca7c31ea31bcb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Intro/1.2 Evolution of the Computer.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fe540a68f0ad455",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Intro/1.2 Evolution of the Computer.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a603dc7c65e3ed51",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5c1f1cb2409db91c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Intro/1.2 Evolution of the Computer.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3fba0f81df684263",
+  "lastOpenFiles": [
+    "6. Input & Output devices/Test.md",
+    "1. Intro/1.2 Evolution of the Computer.md",
+    "1. Intro/1.1 Overview of Computer Systems.md",
+    "6. Input & Output devices",
+    "Pasted image 20231207114931.png",
+    "Pasted image 20231207111913.png",
+    "Pasted image 20231207105555.png",
+    "Pasted image 20231207105544.png",
+    "Pasted image 20231207105520.png",
+    "Pasted image 20231207043436.png",
+    "Pasted image 20231207043008.png",
+    "Pasted image 20231207042950.png",
+    "Pasted image 20231207042934.png",
+    "Pasted image 20231207041332.png",
+    "1. Intro"
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "main": {
+    "id": "70f34df6882cf7b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "073774a501c6cd14",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e847111da67e9757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FFF_TRIP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FFF_TRIP"
+            }
+          },
+          {
+            "id": "4192fa9fff8c53af",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
+          },
+          {
+            "id": "1f68b7a5d5702881",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FFF TRIP.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FFF TRIP"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28c4dfb07159285a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d3e321d1f199076",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddb211c1457f0f3b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "349707b8f1ca5ab1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "task",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "17f46637bc3785d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "aa18a28125a03124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Draft 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Draft 1"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "1211f243cccb4db5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e634600d08c40e9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3ffda2cd64d42fd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Other/Skip Lists.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Skip Lists"
+            }
+          },
+          {
+            "id": "e1904df9361bd3d3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Other/Skip Lists.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Skip Lists"
+            }
+          },
+          {
+            "id": "40281ca71bcd65eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0597d487b5716306",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Other/Skip Lists.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Skip Lists"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "349707b8f1ca5ab1",
+  "lastOpenFiles": [
+    "FFF TRIP.md",
+    "FFF_TRIP.md",
+    "Draft 1.md",
+    "Draft 0.md",
+    "2024-10-25.md",
+    "2024-10-24.md",
+    "2024-10-23.md",
+    "2024-10-22.md",
+    "2024-10-21.md",
+    "2024-10-18.md",
+    "Other/Skip Lists.md",
+    "2024-10-14.md",
+    "2024-10-16.md",
+    "2024-10-15.md",
+    "Untitled 2.md",
+    "Untitled 1.md",
+    "2024-10-11.md",
+    "Stash list/Stash list.md",
+    "2024-10-03.md",
+    "2024-10-02.md",
+    "2024-10-01.md",
+    "Other/7. GIT.md",
+    "2024-09-30.md",
+    "React/11. useEffect() hook.md",
+    "2024-09-27.md",
+    "Untitled.md",
+    "Pasted image 20240929125241.png",
+    "Stash list",
+    "C Kuppiya",
+    "Pasted image 20240907171742.png",
+    "first-flow.gif",
+    "fourth-flow.gif",
+    "Questions and answers",
+    "Pasted image 20240726151614.png",
+    "Pasted image 20240726151427.png",
+    "third-flow.gif",
+    "Untitled.canvas",
+    "Excalidraw",
+    "walletChain",
+    "Pasted image 20240708153336.png",
+    "Pasted image 20240708153301.png",
+    "Pasted image 20240704234747.png",
+    "React/13. RBAC vs ABAC",
+    "C#/8. Unit Testing",
+    "C#/7. SOLID Principles",
+    "C#/6. LINQ",
+    "Diary"
+  ]
+}

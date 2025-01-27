@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "6f71290408537aed",
+    "type": "split",
+    "children": [
+      {
+        "id": "53ff84d47ade1a02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45caeb77f4bd3c45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Intro/1. Intro to WWW.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9bc1b24f1284e33",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad1a6ccea6eb8022",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b99dc36f5ca44dba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b537194b42d77b6c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "substring",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5e6db8bd58ec33c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0a6e0d0abadd93d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "051266c148d2ad6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "61c8baac81b1bcbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Intro/1. Intro to WWW.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "333f5e6eae2af1a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Intro/1. Intro to WWW.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0c72d40201b047b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f94a52b61d5a300e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Intro/1. Intro to WWW.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "45caeb77f4bd3c45",
+  "lastOpenFiles": [
+    "5. Bootstrap/2. Grid System.md",
+    "5. Bootstrap/1. Intro.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.24 Example Transformation.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.23 XSLT Functions.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.22 Loops.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.21 Conditionals.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.20 XSL Templates.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.19 Examples for XSLT.md",
+    "4. XML/5. XML Stylesheet(XSLT)/4.18 XML Stylesheet(XSL) Intro.md",
+    "4. XML/4. XPath/4.17 Examples.md",
+    "4. XML/4. XPath/4.16 XPath Functions.md",
+    "4. XML/4. XPath/4.15 Predicates.md",
+    "4. XML/4. XPath/4.14 Node Tests.md",
+    "4. XML/4. XPath/4.13 Axis.md",
+    "4. XML/4. XPath/4.12 XML Path Language(XPath).md",
+    "4. XML/3. XSD/4.11 Convert DTD to a XSD.md",
+    "4. XML/3. XSD/4.10 Complex Types.md",
+    "4. XML/3. XSD/4.9 Simple Types.md",
+    "4. XML/3. XSD/4.8 XML Schema Definition(XSD).md",
+    "4. XML/2. DTD/4.7 XML Namespaces.md",
+    "4. XML/2. DTD/4.6 Specifying DTD in Documents.md",
+    "4. XML/2. DTD/4.5 DTD.md",
+    "4. XML/1. Intro/4.3 XML Validation.md",
+    "4. XML/1. Intro/4.2 XML Syntax.md",
+    "4. XML/1. Intro/4.1 XML Overview.md",
+    "3. JavaScript/3.1 Primitive data types.md",
+    "Pasted image 20240602151732.png",
+    "Pasted image 20240602105452.png",
+    "Pasted image 20240602094914.png",
+    "5. Bootstrap",
+    "Pasted image 20240506023202.png",
+    "4. XML/5. XML Stylesheet(XSLT)",
+    "4. XML/4. XPath",
+    "4. XML/2. DTD",
+    "4. XML/3. XSD",
+    "4. XML/1. Intro",
+    "Pasted image 20240418001654.png",
+    "desktop.ini",
+    "Pasted image 20240416183159.png",
+    "Pasted image 20240410165702.png",
+    "Pasted image 20240402230553.png",
+    "Excalidraw",
+    "Pasted image 20240402210130.png",
+    "Pasted image 20240402205910.png",
+    "2. CSS",
+    "1. Intro"
+  ]
+}

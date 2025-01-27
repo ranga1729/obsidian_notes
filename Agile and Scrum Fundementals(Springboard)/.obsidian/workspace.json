@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "352762c90d7cbec3",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7c113c928213f49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a87f16aa9d04be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Introduction to Agile and Scrum/6. Artifacts, Events and Benefits.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e9d2f04f8906b5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ae55cb2d87a2264",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b84373d733515437",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7dac59d58b68f97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ab7327917f533477",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0afaf8b59f02a418",
+    "type": "split",
+    "children": [
+      {
+        "id": "454a625ea1661413",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f711fc60290dc2cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Introduction to Agile and Scrum/6. Artifacts, Events and Benefits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "91360238d25ad5da",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Introduction to Agile and Scrum/6. Artifacts, Events and Benefits.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f35bb9396257a47a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "468dc198d3f49cb8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Introduction to Agile and Scrum/6. Artifacts, Events and Benefits.md"
+              }
+            }
+          },
+          {
+            "id": "f0b67f1cd3169161",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 312.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-tts:Text to Speech": false
+    }
+  },
+  "active": "07a87f16aa9d04be",
+  "lastOpenFiles": [
+    "1. Introduction to Agile and Scrum/3. Working Agile.md",
+    "1. Introduction to Agile and Scrum/2. Methodologies Overview.md",
+    "1. Introduction to Agile and Scrum/1. Agile Principles.md",
+    "Excalidraw/Drawing 2024-02-29 16.34.30.excalidraw.md",
+    "2. Agile planning/4. Creating good user stories.md",
+    "1. Introduction to Agile and Scrum/7. Scrum vs. Kanban.md",
+    "1. Introduction to Agile and Scrum/6. Artifacts, Events and Benefits.md",
+    "1. Introduction to Agile and Scrum/5. The 3 Roles of Scrum.md",
+    "1. Introduction to Agile and Scrum/4. Scrum Overview.md",
+    "Pasted image 20231201115713.png",
+    "Pasted image 20231201225022.png",
+    "Pasted image 20231217224037.png",
+    "Pasted image 20240103140645.png",
+    "Pasted image 20240103141422.png",
+    "Pasted image 20240103141810.png",
+    "Pasted image 20240103204702.png",
+    "Pasted image 20240103204820.png",
+    "Pasted Image 20240104013058_137.png",
+    "Pasted Image 20240104013145_144.png",
+    "3. Daily Execution/5. The Sprint Retrospective.md",
+    "3. Daily Execution/6. Using Measurement Effectively.md",
+    "3. Daily Execution/7. Getting ready for the next sprint.md",
+    "3. Daily Execution/8. Agile Anti-Patterns and Health Check.md",
+    "3. Daily Execution/2. The Daily Stand Up.md",
+    "3. Daily Execution/4. The Sprint Review.md",
+    "3. Daily Execution/3. Using Burndown Charts.md",
+    "3. Daily Execution/1. Workflow of Daily Plan Execution.md",
+    "2. Agile planning/6. Building the Product Backlog.md",
+    "2. Agile planning/5. Effectively using story points.md",
+    "2. Agile planning/7. Backlog Refinement.md",
+    "2. Agile planning/9. Sprint Planning.md",
+    "2. Agile planning/3. Kanban and Agile planning tools.md",
+    "2. Agile planning/2. Agile roles and the need for training.md",
+    "1. Introduction to Agile and Scrum/8. The organizational Impact of Agile.md",
+    "2. Agile planning/1. Destination unknown(Up-Front planning Vs. Iterative Planning).md",
+    "Excalidraw/Drawing 2024-01-13 00.01.52.excalidraw.md",
+    "3. Daily Execution",
+    "2. Agile planning",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Excalidraw",
+    "1. Introduction to Agile and Scrum"
+  ]
+}

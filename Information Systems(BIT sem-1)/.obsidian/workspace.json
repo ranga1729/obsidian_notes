@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "e8ecbe4900b1163d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6275eb009f8eefa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35accf7fa3d0fe06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6. Information System Acquisition/3. IS Acquisition Options.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d5aa4ed744cbd731",
+    "type": "split",
+    "children": [
+      {
+        "id": "290446d566832b24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47a64460ea699ba1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e737eab9949ce861",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "investigation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "81cde8fcfaf2a412",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 384.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8106033e05c1e7d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2d016408984fad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d114c6a3a06de49b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6. Information System Acquisition/3. IS Acquisition Options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "27e61eae34c0c37a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6. Information System Acquisition/3. IS Acquisition Options.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd980cd05a8310b7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5624c1b019b9f434",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6. Information System Acquisition/3. IS Acquisition Options.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "35accf7fa3d0fe06",
+  "lastOpenFiles": [
+    "2. IS for Organizations and Globalization/1. Organizations and Information Systems.md",
+    "6. Information System Acquisition/1. IS Acquisition Process.md",
+    "4. Electronic Business Systems/2. Functional Information Systems.md",
+    "4. Electronic Business Systems/1. Organizational Structure and Information systems..md",
+    "5. Specialized Systems and New Technologies/1. Business Intelligence(BI) Systems.md",
+    "2. IS for Organizations and Globalization/2. IT Investments in Organizations.md",
+    "6. Information System Acquisition/3. IS Acquisition Options.md",
+    "6. Information System Acquisition/2. Valuing Information systems acquisition.md",
+    "4. Electronic Business Systems/3. Cross-Functional Systems.md",
+    "3. Electronics and Mobile Commerce/1. Electronics Commerce.md",
+    "1. IS Concepts and Technologies/1. Information System Concepts.md",
+    "Excalidraw/Drawing 2024-02-15 20.01.23.excalidraw.md",
+    "7. Security, Ethical, Privacy and other challenges/3. Information System Security.md",
+    "7. Security, Ethical, Privacy and other challenges/4. Ergonomics.md",
+    "7. Security, Ethical, Privacy and other challenges/2. Privacy Issues.md",
+    "7. Security, Ethical, Privacy and other challenges/1. Ethical Issues in Data Handling.md",
+    "5. Specialized Systems and New Technologies/2. Assistive Technology Systems.md",
+    "3. Electronics and Mobile Commerce/2. Mobile Commerce.md",
+    "Pasted image 20240206003050.png",
+    "Excalidraw/Drawing 2024-02-06 00.24.54.excalidraw.md",
+    "Pasted image 20240206002422.png",
+    "Pasted image 20240206002313.png",
+    "Pasted image 20240206000805.png",
+    "Pasted image 20240206000519.png",
+    "Pasted image 20240206000224.png",
+    "Pasted image 20240205235630.png",
+    "Pasted image 20240205234611.png",
+    "Pasted image 20240205232512.png",
+    "Pasted image 20240205210413.png",
+    "Excalidraw/Drawing 2024-02-05 20.48.49.excalidraw.md",
+    "7. Security, Ethical, Privacy and other challenges",
+    "Excalidraw/Drawing 2024-02-05 02.52.06.excalidraw.md",
+    "Excalidraw/Drawing 2024-02-04 23.10.06.excalidraw.md",
+    "6. Information System Acquisition",
+    "Excalidraw/Drawing 2024-01-30 20.14.09.excalidraw.md",
+    "5. Specialized Systems and New Technologies",
+    "Excalidraw/Drawing 2024-01-30 14.51.14.excalidraw.md",
+    "Excalidraw",
+    "4. Electronic Business Systems",
+    "Untitled.md",
+    "3. Electronics and Mobile Commerce",
+    "2. IS for Organizations and Globalization",
+    "1. IS Concepts and Technologies"
+  ]
+}

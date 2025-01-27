@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "bb67310374d686eb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ecb6a867cbb45bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "445b0dadbaad26e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8b8f4e4fb6f2b6c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Programming paradigms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae4fc2c9584d4680",
+    "type": "split",
+    "children": [
+      {
+        "id": "51c879a0a9c6a947",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a7298a43b2e706a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d3480640eee2447",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e64edcdcf8419cea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b841d55403a91a1b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2650d2f287c1189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23fbbc9137bf1bb3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Programming paradigms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f3c0c3121fcef09",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Programming paradigms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9f445bff4ebc332a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98b598b1016249d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Programming paradigms.md"
+              }
+            }
+          },
+          {
+            "id": "c0c76e49b3a7663a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8b8f4e4fb6f2b6c0",
+  "lastOpenFiles": [
+    "2. OOP Concepts.md",
+    "1. Programming paradigms.md",
+    "6. Code Examples.md",
+    "5. Constructors.md",
+    "4. Polymorphism.md",
+    "3. Inheritance.md",
+    "Enums.md",
+    "Unions.md",
+    "Pasted image 20230929131745.png",
+    "Pasted image 20230928194809.png",
+    "Pasted image 20230926152658.png",
+    "Pasted image 20230926143931.png",
+    "Pasted image 20230926143514.png",
+    "Pasted image 20230926143157.png",
+    "Pasted image 20230926143123.png",
+    "Pasted image 20230926135927.png",
+    "Pasted image 20230926135846.png",
+    "Pasted image 20230924225242.png",
+    "Intro.md"
+  ]
+}

@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "a7e29168ecab69de",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed50c5f516ed76c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae3859c98d0bdff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Mechanics of Writing/2.1 Capitalization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "044593b169a0b92f",
+    "type": "split",
+    "children": [
+      {
+        "id": "c81f275c6fe66201",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4562d20e9125fc85",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56321e6ad2cd2542",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fb8c58116fe6c290",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2169598628fdde3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9389950856c7f858",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f20b65f02728e520",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Mechanics of Writing/2.1 Capitalization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf8ef9d2a34dcff3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Mechanics of Writing/2.1 Capitalization.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cfaaf9a7b7dd4bf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e3c38a8c761c76a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Mechanics of Writing/2.1 Capitalization.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ae3859c98d0bdff3",
+  "lastOpenFiles": [
+    "2. Mechanics of Writing/2.3 Punctuations.md",
+    "2. Mechanics of Writing/2.1 Capitalization.md",
+    "3. Writing for a Purpose/3.1 Purpose of Writing & Audience.md",
+    "2. Mechanics of Writing/2.2 Cohesive Devices.md",
+    "1. Handwriting and Typing/1.1 Handwriting.md",
+    "8. Summarizing and Paraphrasing/8.2 Summarizing.md",
+    "8. Summarizing and Paraphrasing/8.1 Quoting, Paraphrasing and Summarizing.md",
+    "7. Reading for a Purpose/7.4 Non-Fiction.md",
+    "Pasted image 20240331013302.png",
+    "Pasted image 20240331012925.png",
+    "Pasted image 20240331012825.png",
+    "Pasted image 20240331012732.png",
+    "Pasted image 20240331012633.png",
+    "Pasted image 20240331012535.png",
+    "Pasted image 20240331012446.png",
+    "Pasted image 20240331012406.png",
+    "Pasted image 20240331012326.png",
+    "Pasted image 20240331011926.png",
+    "7. Reading for a Purpose/7.3 Fictions.md",
+    "Excalidraw/Drawing 2024-03-31 01.11.58.excalidraw.md",
+    "Excalidraw",
+    "7. Reading for a Purpose/7.2 Scanning.md",
+    "7. Reading for a Purpose/7.1 Skimming.md",
+    "6. Presentations and Public Speaking/6.2 Useful Phrases in Describing Bars and Charts.md",
+    "8. Summarizing and Paraphrasing",
+    "7. Reading for a Purpose",
+    "6. Presentations and Public Speaking/6.1 Present Effectively.md",
+    "5. Small Talk and General Communication Skills/5.3 Interviews.md",
+    "Untitled.md",
+    "6. Presentations and Public Speaking",
+    "5. Small Talk and General Communication Skills/5.2 Effective Telephone Communication skills.md",
+    "5. Small Talk and General Communication Skills/5.1 Small Talk.md",
+    "4. Listening for a Purpose/4. Effective Listening Skills.md",
+    "5. Small Talk and General Communication Skills",
+    "3. Writing for a Purpose/3.6 Cover Letter.md",
+    "3. Writing for a Purpose/3.5 CV.md",
+    "3. Writing for a Purpose/3.4 Formal Report Writing.md",
+    "3. Writing for a Purpose/3.3 Active and Passive voice.md",
+    "3. Writing for a Purpose/3.2 Essay.md",
+    "4. Listening for a Purpose",
+    "3. Writing for a Purpose",
+    "2. Mechanics of Writing",
+    "Welcome.md",
+    "1. Handwriting and Typing"
+  ]
+}

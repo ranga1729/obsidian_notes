@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "2881530f2b13a223",
+    "type": "split",
+    "children": [
+      {
+        "id": "213407908d921f3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173b9dd341b7069b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.1 Disk Storage and Basic File Structures"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f948326bfa10c0d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "802b3641e09f4414",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dee0f840fe6e1933",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "34298dc2144b53f6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aa78426703ee5a3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "628691288d318100",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c5ba8e2b3b7a8b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89d1c3d5caf0ee41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Application Development/3. Advanced Client Side Development.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 3. Advanced Client Side Development"
+            }
+          },
+          {
+            "id": "8965e42356c885b8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Application Development/3. Advanced Client Side Development.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Advanced Client Side Development"
+            }
+          },
+          {
+            "id": "61a1601d4eab4049",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6bd75505986976a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Application Development/3. Advanced Client Side Development.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3. Advanced Client Side Development"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "173b9dd341b7069b",
+  "lastOpenFiles": [
+    "Pasted image 20250127173428.png",
+    "Pasted image 20250127173057.png",
+    "Pasted image 20250127172845.png",
+    "Pasted image 20250127172756.png",
+    "Pasted image 20250127163048.png",
+    "Pasted image 20250127162833.png",
+    "Pasted image 20250127112052.png",
+    "Pasted image 20250127111840.png",
+    "Pasted image 20250127111329.png",
+    "Pasted image 20250127104314.png",
+    "Pasted image 20250127104253.png",
+    "Data Management Systems/2. DB Constraints and Triggers.md",
+    "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
+    "OOD/9. Behavioral State Machine.md",
+    "OOD/8. Behavioral modeling using Interaction diagrams.md",
+    "OOD/7. Structural modeling using Class diagram.md",
+    "OOD/6. Business Process Modeling with Activity Diagram.md",
+    "OOD/4. Business Process Identification With Use-Case Modeling.md",
+    "OOD/3. Computer Aided System Engineering(CASE).md",
+    "Untitled 1.md",
+    "OOD/2. Object Oriented Software Development Process.md",
+    "OOD",
+    "Web Application Development/Web Application Security/Secure Web Applications/15. Sanitizing Variables.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/14. Handling errors safely.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/13. Configure PHP Security.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/12. Securing Server and Client Machines.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/11. OWASP.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/10. Invalidate Redirects and Forwards.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/9. Failure to Restrict URL Access.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/8. Insecure cryptographic storage.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/7. Security Misconfiguration.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/6. Broken Authentication and Session Management.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/5. Cross-site Scripting(XSS).md",
+    "Web Application Development/Web Application Security/Secure Web Applications/4. Injections.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/3. Sessions.md",
+    "Web Application Development/Web Application Security/Secure Web Applications/2. HTTP Authentication - Storing Usernames and Passwords.md",
+    "Data Management Systems/DB Constraints and Triggers",
+    "Data Management Systems",
+    "Web Application Development/Web Application Security/Secure Web Applications/1. Setting, Accessing and Destroying a Cookie.md",
+    "Web Application Development/Web Application Security/Secure Web Applications",
+    "Web Application Development/Web Application Security",
+    "Web Application Development/Advanced Client Side Programming",
+    "Web Application Development"
+  ]
+}

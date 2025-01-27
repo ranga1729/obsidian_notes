@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "0732551316ee8748",
+    "type": "split",
+    "children": [
+      {
+        "id": "45341f5fc97a3598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e0daed2ff6264bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. What is UX & Why we need it/6. How to assess the success of UX Efforts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0ab8568136c9e361",
+    "type": "split",
+    "children": [
+      {
+        "id": "0e030100e56b3fab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1a2b60cfe2baf1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bb0e89563be7b3c5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e8fe86025b410a7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f6ee3946505f173",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b6819c554219f3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dffb4a93d19a13f0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. What is UX & Why we need it/6. How to assess the success of UX Efforts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b7ac052f280bc19",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. What is UX & Why we need it/6. How to assess the success of UX Efforts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d013225bafcc6cf8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca6e1f41e02b10f4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. What is UX & Why we need it/6. How to assess the success of UX Efforts.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "5e0daed2ff6264bb",
+  "lastOpenFiles": [
+    "1. What is UX & Why we need it/4. Other Stakeholders.md",
+    "2. When Do we need UX/3. The scientific approach to UX.md",
+    "2. When Do we need UX/1. UX Life Cycle.md",
+    "2. When Do we need UX/2. The UX project.md",
+    "4. Project/2. Interview Guide.md",
+    "4. Project/3. Analyzing the interview.md",
+    "4. Project/5. The Prototype.md",
+    "4. Project/Video.md",
+    "Excalidraw/Drawing 2024-01-29 00.44.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-29 00.44.03.excalidraw.png",
+    "Excalidraw/Drawing 2024-01-28 21.25.03.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-28 21.25.03.excalidraw.png",
+    "Pasted Image 20240129004658_019.png",
+    "Excalidraw/Drawing 2024-01-29 00.44.09.excalidraw.md",
+    "4. Project/1.The project.md",
+    "Excalidraw/Drawing 2024-01-28 23.22.02.excalidraw.md",
+    "Pasted Image 20240129004041_511.png",
+    "Pasted Image 20240129002556_344.png",
+    "Pasted Image 20240128215319_272.png",
+    "Pasted Image 20240128215204_264.png",
+    "Pasted Image 20240128214658_205.png",
+    "Pasted Image 20240128214434_178.png",
+    "Pasted Image 20240128214304_159.png",
+    "Excalidraw/Drawing 2024-01-28 20.46.41.excalidraw.md",
+    "Excalidraw",
+    "4. Project/4. The Brainstorm.md",
+    "Untitled.md",
+    "2. When Do we need UX/4. Qualitative and Quantitative Research.md",
+    "4. Project",
+    "Untitled.canvas",
+    "1. What is UX & Why we need it/9. CzX and UX.md",
+    "2. When Do we need UX",
+    "1. What is UX & Why we need it/8. EX and UX.md",
+    "1. What is UX & Why we need it/7. CS and UX.md",
+    "1. What is UX & Why we need it/6. How to assess the success of UX Efforts.md",
+    "Untitled 1.canvas",
+    "1. What is UX & Why we need it/5. UX and Organizational success.md",
+    "1. What is UX & Why we need it/3. The object and Stakeholder of an Experience.md",
+    "1. What is UX & Why we need it/2. Brief History of UX.md",
+    "1. What is UX & Why we need it/1. What is UX.md",
+    "1. What is UX & Why we need it"
+  ]
+}

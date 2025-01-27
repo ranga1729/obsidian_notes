@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "15f1910426f08ab5",
+    "type": "split",
+    "children": [
+      {
+        "id": "995731a56f2db7b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5129c483e84fa8d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Analyzing performance of Arrays and Objects/2. Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2d52a5216c044517",
+    "type": "split",
+    "children": [
+      {
+        "id": "7fb59901962f11e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c02c2f205f3cedd9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74a09b62fdf85c18",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8032a2f58ac5900d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "92b1187cffa7b868",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dbea14ed54fa4d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5f1f0f7dcaf3a19d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2. Analyzing performance of Arrays and Objects/2. Arrays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "da23a97cead6ed45",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2. Analyzing performance of Arrays and Objects/2. Arrays.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ad1a1ac4a189f528",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3a47944f732b19ff",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2. Analyzing performance of Arrays and Objects/2. Arrays.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5129c483e84fa8d3",
+  "lastOpenFiles": [
+    "2. Analyzing performance of Arrays and Objects/1. Big O of objects.md",
+    "1. Big O Notation/1. Big O Notation.md",
+    "0. Vibhavi/3. AVL Tree.md",
+    "0. Vibhavi/2. Binary Search Tree.md",
+    "0. Vibhavi/4. HashMap.md",
+    "0. Vibhavi/6. Heap.md",
+    "12. Quick Sort/1. Intro & implementation.md",
+    "6. Searching Algorithms/3. Binary Search.md",
+    "11. Merge Sort/2. Merge Sort.md",
+    "11. Merge Sort/1. Intro.md",
+    "4. Problem Solving patterns/5. Divide and Conquer.md",
+    "0. Vibhavi/1. Stack.md",
+    "0. Vibhavi/5. Queue.md",
+    "Vibhavi/4. HashMap.md",
+    "Vibhavi/3. AVL Tree.md",
+    "Vibhavi/1. Stack.md",
+    "Vibhavi/2. Binary Search Tree.md",
+    "Vibhavi/Stack",
+    "Vibhavi",
+    "15. Singly Linked Lists/2. Nodes.md",
+    "15. Singly Linked Lists/1. Intro.md",
+    "14. Data Structures Intro/Data Structures.md",
+    "13. Radix Sort/4. Big O.md",
+    "13. Radix Sort/3. Radix sort.md",
+    "13. Radix Sort/2. Helper methods.md",
+    "13. Radix Sort/1. Intro.md",
+    "10. Bubble, Insertion, Selection/Bubble, Insertion, Selection Comparison.md",
+    "9. Insertion Sort/1. Insertion Sort.md",
+    "Pasted image 20240224100358.png",
+    "15. Singly Linked Lists",
+    "14. Data Structures Intro",
+    "Pasted image 20240223234129.png",
+    "Pasted image 20240223223343.png",
+    "Pasted image 20240223220524.png",
+    "Pasted image 20240223215320.png",
+    "Pasted image 20240223215258.png",
+    "Pasted image 20240223215214.png",
+    "Pasted image 20240223215151.png",
+    "Pasted image 20240223214935.png",
+    "Pasted image 20240223214816.png",
+    "13. Radix Sort",
+    "12. Quick Sort",
+    "10. Bubble, Insertion, Selection",
+    "11. Merge Sort",
+    "9. Insertion Sort",
+    "8. Selection sort"
+  ]
+}

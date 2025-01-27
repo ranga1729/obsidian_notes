@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "0b86766b9227f210",
+    "type": "split",
+    "children": [
+      {
+        "id": "2421091b4468f86a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4aa8fa1181506a3a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20231201115713 1.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4b9ee07ac533b304",
+    "type": "split",
+    "children": [
+      {
+        "id": "34fbd70a2a81e8d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40e4611a4ad8fb4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c78d160e02a80775",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b4f3f2c0867c2ee9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "775f69ce0c25f8b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6e9ac08242fa37d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ab285a09f02cece",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pasted image 20231201115713 1.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d62ac458c990bc40",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pasted image 20231201115713 1.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "33e3996fb74a2fd1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e89abefbb993fb2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pasted image 20231201115713 1.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "4aa8fa1181506a3a",
+  "lastOpenFiles": [
+    "2024-09-10.md",
+    "2024-09-11.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "2. Software Process/2.7 Coping with Changes.md",
+    "3. Agile Software Development/3.2 Agile Methods.md",
+    "3. Agile Software Development/3.1 Intro.md",
+    "2. Software Process/2.8 Process Improvement.md",
+    "2. Software Process/2.6 Process Activites.md",
+    "2. Software Process/2.5 Reuse-Oriented Software Engineering(Integration and Configuration).md",
+    "2. Software Process/2.4 Incremental Development.md",
+    "2. Software Process/2.3 Waterfall Model.md",
+    "2. Software Process/2.2 Software Process Models.md",
+    "1. Introduction to Software Engineering/1.2 Software Engineering Ethics.md",
+    "1. Introduction to Software Engineering/1.1 Professional Software Development.md",
+    "2. Software Process/2.1 Software Process.md",
+    "3. Agile Software Development/3.6 Scaling Agile Methods.md",
+    "3. Agile Software Development/3.5 SCRUM.md",
+    "3. Agile Software Development/3.4 Agile Project Management.md",
+    "3. Agile Software Development/3.3 eXtreme Programming(XP).md",
+    "4. Requirement Engineering/4.1 Functional & Non-functional Requirements.md",
+    "4. Requirement Engineering/4.4 Requirement Specification.md",
+    "Pasted image 20240630195909.png",
+    "Pasted image 20240630195820.png",
+    "Pasted image 20240630192941.png",
+    "Pasted image 20240630192724.png",
+    "Pasted image 20240630191749.png",
+    "Pasted image 20240630191351.png",
+    "Pasted image 20240630191137.png",
+    "Pasted image 20240630183722.png",
+    "Pasted image 20240630183541.png",
+    "Pasted image 20240630141128.png",
+    "4. Requirement Engineering/4.3 Requirement Elicitation.md",
+    "4. Requirement Engineering/4.2 Requirement Engineering Process.md",
+    "4. Requirement Engineering/4.0 Intro.md",
+    "4. Requirement Engineering",
+    "1. Introduction to Software Engineering/1.0 Intro.md",
+    "desktop.ini",
+    "3. Agile Software Development",
+    "2. Software Process",
+    "Excalidraw",
+    "1. Introduction to Software Engineering"
+  ]
+}
