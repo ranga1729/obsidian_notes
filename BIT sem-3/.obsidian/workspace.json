@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "3.2 Indexing"
             }
-          },
-          {
-            "id": "ee7f3ce0590249ed",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-01-28 20.12.17.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-01-28 20.12.17.excalidraw"
-            }
           }
         ]
       }
@@ -146,9 +134,31 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "013d1b9333717535",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "64a9fe4c5427cfe6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Data Management Systems/3.2 Indexing.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 3.2 Indexing"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,12 +180,13 @@
   },
   "active": "3e4e1599ba577681",
   "lastOpenFiles": [
+    "Pasted image 20250129174801.png",
+    "Excalidraw/Drawing 2025-01-28 20.12.17.excalidraw.md",
+    "Data Management Systems/3.2 Indexing.md",
     "Pasted image 20250128232710.png",
     "Pasted image 20250128231550.png",
     "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
-    "Data Management Systems/3.2 Indexing.md",
     "Pasted image 20250128202948.png",
-    "Excalidraw/Drawing 2025-01-28 20.12.17.excalidraw.md",
     "Pasted image 20250128202803.png",
     "Excalidraw",
     "Pasted image 20250128175528.png",
@@ -185,7 +196,6 @@
     "External_hashing_divide_stage.webp",
     "Pasted image 20250128121027.png",
     "Pasted image 20250128120039.png",
-    "Pasted image 20250128115951.png",
     "OOD/9. Behavioral State Machine.md",
     "OOD/8. Behavioral modeling using Interaction diagrams.md",
     "OOD/7. Structural modeling using Class diagram.md",
