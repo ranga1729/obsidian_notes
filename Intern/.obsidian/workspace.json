@@ -1,50 +1,24 @@
 {
   "main": {
-    "id": "70f34df6882cf7b4",
+    "id": "e00262670310dbce",
     "type": "split",
     "children": [
       {
-        "id": "073774a501c6cd14",
+        "id": "65304bff6501ce82",
         "type": "tabs",
         "children": [
           {
-            "id": "e847111da67e9757",
+            "id": "1891dd5ee195996e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FFF_TRIP.md",
+                "file": "2. ASP.NET Core Basics/2.2 Dependency Injection(DI).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FFF_TRIP"
-            }
-          },
-          {
-            "id": "4192fa9fff8c53af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "1f68b7a5d5702881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FFF TRIP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FFF TRIP"
+              "title": "2.2 Dependency Injection(DI)"
             }
           }
         ]
@@ -53,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "28c4dfb07159285a",
+    "id": "41eb6068ef2aa072",
     "type": "split",
     "children": [
       {
-        "id": "2d3e321d1f199076",
+        "id": "a446740b7a338d6d",
         "type": "tabs",
         "children": [
           {
-            "id": "ddb211c1457f0f3b",
+            "id": "d4c4198e7fedec05",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -74,12 +48,12 @@
             }
           },
           {
-            "id": "349707b8f1ca5ab1",
+            "id": "c0f0ffa3a159f86f",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +65,7 @@
             }
           },
           {
-            "id": "17f46637bc3785d1",
+            "id": "3b2e269fe41a20db",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -99,42 +73,29 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
-          },
-          {
-            "id": "aa18a28125a03124",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Draft 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Draft 1"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 300,
+    "collapsed": true
   },
   "right": {
-    "id": "1211f243cccb4db5",
+    "id": "949b29adc7ce0b36",
     "type": "split",
     "children": [
       {
-        "id": "e634600d08c40e9a",
+        "id": "74111751bafceb86",
         "type": "tabs",
         "children": [
           {
-            "id": "a3ffda2cd64d42fd",
+            "id": "b0b281ec492cf310",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Other/Skip Lists.md",
+                "file": "EasyBakcup.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,25 +105,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Skip Lists"
+              "title": "Backlinks for EasyBakcup"
             }
           },
           {
-            "id": "e1904df9361bd3d3",
+            "id": "fe6264b8aa7469e5",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Other/Skip Lists.md",
+                "file": "EasyBakcup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Skip Lists"
+              "title": "Outgoing links from EasyBakcup"
             }
           },
           {
-            "id": "40281ca71bcd65eb",
+            "id": "b6f98eaa4783b15b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -175,22 +136,22 @@
             }
           },
           {
-            "id": "0597d487b5716306",
+            "id": "df9212f62a485449",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Other/Skip Lists.md"
+                "file": "EasyBakcup.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Skip Lists"
+              "title": "Outline of EasyBakcup"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -200,58 +161,19 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "ddb211c1457f0f3b",
+  "active": "1891dd5ee195996e",
   "lastOpenFiles": [
-    "FFF TRIP.md",
-    "FFF_TRIP.md",
-    "Draft 1.md",
-    "Draft 0.md",
-    "2024-10-25.md",
-    "2024-10-24.md",
-    "2024-10-23.md",
-    "2024-10-22.md",
-    "2024-10-21.md",
-    "2024-10-18.md",
-    "Other/Skip Lists.md",
-    "2024-10-14.md",
-    "2024-10-16.md",
-    "2024-10-15.md",
-    "Untitled 2.md",
-    "Untitled 1.md",
-    "2024-10-11.md",
-    "Stash list/Stash list.md",
-    "2024-10-03.md",
-    "2024-10-02.md",
-    "2024-10-01.md",
-    "Other/7. GIT.md",
-    "2024-09-30.md",
-    "React/11. useEffect() hook.md",
-    "2024-09-27.md",
-    "Untitled.md",
-    "Pasted image 20240929125241.png",
-    "Stash list",
-    "C Kuppiya",
-    "Pasted image 20240907171742.png",
-    "first-flow.gif",
-    "fourth-flow.gif",
-    "Questions and answers",
-    "Pasted image 20240726151614.png",
-    "Pasted image 20240726151427.png",
-    "third-flow.gif",
-    "Untitled.canvas",
-    "Excalidraw",
-    "walletChain",
-    "Pasted image 20240708153336.png",
-    "Pasted image 20240708153301.png",
-    "Pasted image 20240704234747.png",
-    "React/13. RBAC vs ABAC",
-    "C#/8. Unit Testing",
-    "C#/7. SOLID Principles",
-    "C#/6. LINQ",
-    "Diary"
+    "2. ASP.NET Core Basics/2.1 ASP.NET vs  ASP.NET Core.md",
+    "2. ASP.NET Core Basics/2.2 Dependency Injection(DI).md",
+    "1. C-sharp Fundamentals/1.3 LINQ.md",
+    "2. ASP.NET Core Basics",
+    "1. C-sharp Fundamentals/1.2 Data types.md",
+    "1. C-sharp Fundamentals/1.1 OOP in C-sharp.md",
+    "EasyBakcup.md",
+    "1. C-sharp Fundamentals",
+    "Untitled.md"
   ]
 }
