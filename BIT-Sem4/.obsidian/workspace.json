@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "847fbce58007bdf0",
+    "id": "a2878d27d17782a2",
     "type": "split",
     "children": [
       {
-        "id": "d1fd769e60fb33ca",
+        "id": "7cca6d51995edae2",
         "type": "tabs",
         "children": [
           {
-            "id": "817cd58ef5993569",
+            "id": "c3193ec8490df3a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pandas/13. apply() function.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "13. apply() function"
+              "title": "New tab"
             }
           }
         ]
@@ -27,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "55f65c90af740557",
+    "id": "2fda824c2c2de9b1",
     "type": "split",
     "children": [
       {
-        "id": "c73ac16211c60151",
+        "id": "83f2a86efce2ee06",
         "type": "tabs",
         "children": [
           {
-            "id": "7cbde2236f05684b",
+            "id": "924f7184a83d3627",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +44,7 @@
             }
           },
           {
-            "id": "bf79f141d11dfe5c",
+            "id": "d4edf500cc5a4650",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +61,7 @@
             }
           },
           {
-            "id": "060d26732bad1ed4",
+            "id": "f94d94f614cb9dc9",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,20 +77,19 @@
     "width": 300
   },
   "right": {
-    "id": "dd3b564822ec3acd",
+    "id": "d4b4311d23f8b939",
     "type": "split",
     "children": [
       {
-        "id": "ca593b89732e00bc",
+        "id": "97dafb351cc7b610",
         "type": "tabs",
         "children": [
           {
-            "id": "45904c2f5a252df8",
+            "id": "498cc8012f9db388",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pandas/6. query() method.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,46 +99,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 6. query() method"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "188a258062b1530d",
+            "id": "37e874e2d5298fa6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pandas/6. query() method.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 6. query() method"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "ea383c09ba094283",
+            "id": "4d80fa9276f5d0eb",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "94baf82f481ced63",
+            "id": "81d71386a17ba934",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pandas/6. query() method.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. query() method"
+              "title": "Outline"
             }
           }
         ]
@@ -163,46 +161,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "817cd58ef5993569",
+  "active": "924f7184a83d3627",
   "lastOpenFiles": [
-    "ML/8. Types of Transformers.md",
-    "ML/7. Transformers - Overview.md",
-    "Pasted image 20241208220608.png",
-    "Pasted image 20241208220246.png",
-    "Pasted image 20241208220226.png",
-    "NIPS-2017-attention-is-all-you-need-Paper.pdf",
-    "ML/6. Lemmatization.md",
-    "ML/5. Stemming.md",
-    "ML/1. Supervised Learning.md",
-    "ML/4. Tokenization.md",
-    "Pasted image 20241206123420.png",
-    "Pasted image 20241206123316.png",
-    "Pasted image 20241206123239.png",
-    "Pandas/2. Accessing Series and DataFrames.md",
-    "ML/3. Deep learning.md",
-    "ML/2. Unsupervised Learning.md",
-    "Pandas/3. Modifying Series and DataFrames.md",
-    "Pandas/13. apply() function.md",
-    "Pandas/15. isnull() & notnull().md",
-    "Pandas/8. isin() method.md",
-    "Pandas/4. Conditional Selection.md",
-    "Analysis/Plan.md",
-    "Analysis",
-    "Pandas/16. Removing duplicate values.md",
-    "Pandas/1. Series and DataFrames.md",
-    "Pandas/17. Reading external data.md",
-    "Pasted image 20241202093709.png",
-    "Pasted image 20241202093351.png",
-    "Pasted image 20241202093325.png",
-    "Pasted image 20241202093210.png",
-    "ML",
-    "Pandas/14. map() function.md",
-    "Pandas/12. Functions.md",
-    "Pandas/11. Scalars.md",
-    "Pandas/10. Mathematical Operations.md",
-    "Pandas/9. between() method.md",
-    "Pandas/5. Boolean indexing.md",
-    "Pandas/6. query() method.md",
-    "Pandas/7. loc() method with Boolean indexing.md"
+    "Agile/Untitled",
+    "UI Design",
+    "IT Project Management",
+    "Agile"
   ]
 }

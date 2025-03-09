@@ -4,47 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "073774a501c6cd14",
+        "id": "26ce722dfb596150",
         "type": "tabs",
         "children": [
           {
-            "id": "e847111da67e9757",
+            "id": "64ac871782dbf3ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FFF_TRIP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "FFF_TRIP"
-            }
-          },
-          {
-            "id": "4192fa9fff8c53af",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.7"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.7"
-            }
-          },
-          {
-            "id": "1f68b7a5d5702881",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FFF TRIP.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FFF TRIP"
+              "title": "New tab"
             }
           }
         ]
@@ -204,10 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ddb211c1457f0f3b",
+  "active": "64ac871782dbf3ce",
   "lastOpenFiles": [
-    "FFF TRIP.md",
     "FFF_TRIP.md",
+    "FFF TRIP.md",
     "Draft 1.md",
     "Draft 0.md",
     "2024-10-25.md",
