@@ -1,1 +1,6 @@
-{}
+{
+  "cssTheme": "",
+  "showRibbon": true,
+  "showViewHeader": true,
+  "nativeMenus": false
+}
