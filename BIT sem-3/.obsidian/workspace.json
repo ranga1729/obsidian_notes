@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-02-28 21.49.47.excalidraw"
             }
-          },
-          {
-            "id": "b26af83bc2ce16d3",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "structural",
+                "query": "COMPOSITION",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "628691288d318100",
@@ -187,26 +175,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dd90a2aa80b26800",
+  "active": "c350ef28f85395e2",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-02-28 21.49.47.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-01 00.21.28.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 00.22.49.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-31 22.21.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-02-28 21.49.47.excalidraw.md",
     "Excalidraw/Drawing 2025-01-28 20.12.17.excalidraw.md",
-    "d22a5711-2d48-495d-b86e-f31c37afcbf2_2000x1123.jpg",
-    "Disk+Storage+Devices+Different+sector+organizations+on+disk.jpg",
-    "Pasted image 20250201103511.png",
-    "Unified_Process_Model_for_Iterative_Development.svg.png",
     "Untitled 3.md",
     "Untitled 2.md",
     "Untitled 1.md",
+    "Unified_Process_Model_for_Iterative_Development.svg.png",
     "Untitled.md",
-    "OOD/9. Behavioral State Machine.md",
-    "OOD/8. Behavioral modeling using Interaction diagrams.md",
+    "External_hashing_divide_stage.webp",
+    "Pasted image 20250110150149.png",
+    "OOD/2. Object Oriented Software Development Process.md",
     "OOD/7. Structural modeling using Class diagram.md",
     "OOD/6. Business Process Modeling with Activity Diagram.md",
-    "OOD/2. Object Oriented Software Development Process.md",
     "OOD/4. Business Process Identification With Use-Case Modeling.md",
+    "Excalidraw/Drawing 2025-01-31 22.21.07.excalidraw.md",
+    "d22a5711-2d48-495d-b86e-f31c37afcbf2_2000x1123.jpg",
+    "Disk+Storage+Devices+Different+sector+organizations+on+disk.jpg",
+    "Pasted image 20250201103511.png",
+    "OOD/9. Behavioral State Machine.md",
+    "OOD/8. Behavioral modeling using Interaction diagrams.md",
     "OOD/3. Computer Aided System Engineering(CASE).md",
     "Data Management Systems/3.2 Indexing.md",
     "Data Management Systems/4. DDBS.md",
@@ -219,13 +210,10 @@
     "COMMs",
     "Web Application Development/Web Application Security/Secure Web Applications/14. Handling errors safely.md",
     "Web Application Development/Web Application Security/Secure Web Applications/13. Configure PHP Security.md",
-    "Web Application Development/Web Application Security/Secure Web Applications/12. Securing Server and Client Machines.md",
     "Pasted image 20250201103208.png",
     "Pasted image 20250201014718.png",
     "Pasted image 20250201014116.png",
     "Pasted image 20250201014050.png",
-    "Pasted image 20250201002453.png",
-    "Pasted image 20250201002239.png",
     "Excalidraw",
     "OOD",
     "Data Management Systems/DB Constraints and Triggers",

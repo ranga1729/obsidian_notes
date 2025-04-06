@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "65304bff6501ce82",
+        "id": "c17cb56719e01ae5",
         "type": "tabs",
         "children": [
           {
-            "id": "1891dd5ee195996e",
+            "id": "a9111907d8a4f2fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview Questions 3.md",
+                "file": "6. Linux and DevOps/2. Linux File system hierarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interview Questions 3"
+              "title": "2. Linux File system hierarchy"
+            }
+          },
+          {
+            "id": "f0dd3141e76c804d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. ASP.NET Core Basics/2.2 Dependency Injection(DI).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2 Dependency Injection(DI)"
+            }
+          },
+          {
+            "id": "f189f9bffb07f6d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "JS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "JS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,37 +189,51 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "publish:Publish changes...": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "1891dd5ee195996e",
+  "active": "f0dd3141e76c804d",
   "lastOpenFiles": [
-    "2. ASP.NET Core Basics/2.2 Dependency Injection(DI).md",
-    "Interview Questions 3.md",
     "2. ASP.NET Core Basics/2.1 ASP.NET vs  ASP.NET Core.md",
-    "1. C-sharp Fundamentals/1.3 LINQ.md",
-    "1. C-sharp Fundamentals/1.2 Data types.md",
+    "test.md",
+    "6. Linux and DevOps/2. Linux File system hierarchy.md",
+    "JS.md",
+    "Plan.md",
+    "Pasted image 20250331213139.png",
+    "6. Linux and DevOps/1. Linux basics CLI commands.md",
+    "Pasted image 20250329191556.png",
+    "Pasted image 20250329191542.png",
+    "JpuraPulse.md",
+    "6. Linux and DevOps/1. Summary.md",
+    "6. Linux and DevOps",
+    "Untitled Diagram.svg",
     "1. C-sharp Fundamentals/1.1 OOP in C-sharp.md",
-    "2. ASP.NET Core Basics/2.3 Middleware and Request pipelines.md",
-    "EasyBakcup.md",
+    "RTL.md",
+    "Pasted image 20250310005644.png",
+    "middleware-pipeline.jpg",
+    "Interview Questions 4(ReactJS).md",
+    "Interview Questions 3.md",
     "Interview Questions 2.md",
     "Interview Questions 1.md",
+    "EasyBakcup.md",
+    "5. Security/5.1 Authentication and Authorization with JWTs.md",
+    "5. Security",
+    "4. Core React Concepts/4.3 React Hooks.md",
+    "4. Core React Concepts/4.2 Component Life Cycle.md",
+    "4. Core React Concepts/4.1 Functional VS Class components.md",
+    "4. Core React Concepts",
+    "1. C-sharp Fundamentals/1.2 Data types.md",
+    "Internship Questions(DSA).md",
+    "2. ASP.NET Core Basics/2.3 Middleware and Request pipelines.md",
+    "2. ASP.NET Core Basics/2.2 Dependency Injection(DI).md",
+    "1. C-sharp Fundamentals/1.3 LINQ.md",
     "3. EF Core/3.3 Conventions.md",
     "3. EF Core/3.1 Intro.md",
-    "RTL.md",
-    "3. EF Core/3.2 Fluent API.md",
-    "Plan.md",
-    "Pasted image 20250310005644.png",
-    "Untitled Diagram.svg",
     "3. EF Core",
-    "middleware-pipeline.jpg",
     "Pasted image 20250310004038.png",
     "Pasted image 20250310001354.png",
     "Pasted image 20250310001020.png",
     "Pasted image 20250309230855.png",
-    "Pasted image 20250309230841.png",
-    "1. C-sharp Fundamentals/1.4 Asynchronous.md",
     "2. ASP.NET Core Basics",
     "1. C-sharp Fundamentals"
   ]
