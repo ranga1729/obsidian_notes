@@ -11,12 +11,14 @@
             "id": "c350ef28f85395e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-02-28 21.49.47.excalidraw.md"
+                "file": "Data Management Systems/4. DDBS.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-02-28 21.49.47.excalidraw"
+              "icon": "lucide-file",
+              "title": "4. DDBS"
             }
           }
         ]
@@ -76,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "628691288d318100",
@@ -177,9 +178,11 @@
   },
   "active": "c350ef28f85395e2",
   "lastOpenFiles": [
+    "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
+    "Data Management Systems/2. DB Constraints and Triggers.md",
+    "Excalidraw/Drawing 2025-02-28 21.49.47.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 00.21.28.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 00.22.49.excalidraw.md",
-    "Excalidraw/Drawing 2025-02-28 21.49.47.excalidraw.md",
     "Excalidraw/Drawing 2025-01-28 20.12.17.excalidraw.md",
     "Untitled 3.md",
     "Untitled 2.md",
@@ -201,8 +204,6 @@
     "OOD/3. Computer Aided System Engineering(CASE).md",
     "Data Management Systems/3.2 Indexing.md",
     "Data Management Systems/4. DDBS.md",
-    "Data Management Systems/2. DB Constraints and Triggers.md",
-    "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
     "Web Application Development/Web Application Security/Secure Web Applications/2. HTTP Authentication - Storing Usernames and Passwords.md",
     "Web Application Development/Web Application Security/Secure Web Applications/4. Injections.md",
     "COMMs/Essentails.md",
