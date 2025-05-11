@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/0. CI - CD.md",
+                "file": "DevOps/1. Docker/1.1 Intro to Containerization.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. CI - CD"
+              "title": "1.1 Intro to Containerization"
             }
           }
         ]
@@ -168,13 +168,14 @@
     "DevOps/2. Kubernetes/1. Why Kubernetes.md",
     "DevOps/1. Docker/4. Important docker commands.md",
     "DevOps/1. Docker/3. Port mapping.md",
+    "DevOps/1. Docker/2. Docker Images and Containers.md",
     "DevOps/1. Docker/1.1 Intro to Containerization.md",
+    "DevOps/0. CI - CD.md",
     "Pasted image 20250430101452.png",
     "Pasted image 20250430090414.png",
     "Pasted image 20250425213706.png",
     "Pasted image 20250425213210.png",
     "Pasted image 20250425213108.png",
-    "DevOps/1. Docker/2. Docker Images and Containers.md",
     "Pasted image 20250425212751.png",
     "Pasted image 20250425212621.png",
     "Pasted image 20250425212514.png",
@@ -182,7 +183,6 @@
     "Pasted image 20250425211848.png",
     "RTL.md",
     "6. Linux and DevOps/2. Linux File system hierarchy.md",
-    "DevOps/0. CI - CD.md",
     "DevOps/1. Docker",
     "2. ASP.NET Core Basics/2.2 Dependency Injection(DI).md",
     "DevOps/2. Kubernetes",
