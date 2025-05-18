@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "55b44e9e266f115c",
+        "id": "853c4c754ca358f6",
         "type": "tabs",
         "children": [
           {
-            "id": "6be4b6c86800ba7b",
+            "id": "78b22caf91443f58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agile/6.2 Multi level planning.md",
+                "file": "IT Project Management/12. Project Procurement Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6.2 Multi level planning"
-            }
-          },
-          {
-            "id": "5f2365cccf254d16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agile/7. Sprinting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Sprinting"
+              "title": "12. Project Procurement Management"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4b4311d23f8b939",
@@ -182,44 +166,44 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5f2365cccf254d16",
+  "active": "78b22caf91443f58",
   "lastOpenFiles": [
-    "Pasted image 20250511214910.png",
-    "Pasted image 20250511214759.png",
-    "Agile/6.5 Release Planning(Longer term planning).md",
-    "Agile/7. Sprinting.md",
-    "Pasted image 20250511203831.png",
-    "Pasted image 20250511203148.png",
-    "Pasted image 20250511203054.png",
-    "Pasted image 20250511201805.png",
-    "Pasted image 20250511201128.png",
-    "Agile/6.2 Multi level planning.md",
-    "Agile/6.4 Product Planning.md",
-    "Pasted image 20250511183745.png",
-    "Agile/6.3 Portfolio Planning.md",
-    "Pasted image 20250511162602.png",
-    "Agile/6.1 Scrum Planning Principles.md",
-    "Agile/5. Scrum Roles.md",
-    "Agile/2. Agile Principles.md",
-    "Agile/1. Intro.md",
-    "UI UX Design/8.2 Usability Testing.md",
-    "UI UX Design/8.1  Evaluating Designs Intro.md",
-    "UI UX Design/7.1 Conceptual Designs to Concrete Designs.md",
-    "UI UX Design/7. Designing prototypes.md",
-    "UI UX Design/6.4 Interpreting and Presenting Findings.md",
-    "UI UX Design/6.3 Analytical Frameworks.md",
-    "UI UX Design/6.2 Qualitative Analysis.md",
-    "UI UX Design/6.1 Quantitative vs Qualitative Analysis.md",
-    "UI UX Design/6. Data analysis and interpretations Intro.md",
-    "UI UX Design/5.2 Data Gathering.md",
-    "UI UX Design/5.1 Discovering Requirements.md",
-    "UI UX Design/4.3 Other Interfaces.md",
-    "UI UX Design/4.2 New styles of WIMP.md",
-    "UI UX Design/4.1 Types of Menus.md",
-    "UI UX Design/4.0 Types of Interfaces in UXD.md",
-    "UI UX Design/3.4 Emotional Aspects of Designs.md",
-    "Pasted image 20250511114202.png",
-    "Pasted image 20250511114151.png",
+    "IT Project Management/11. Project Risk Management.md",
+    "IT Project Management/10. Project Communication Management.md",
+    "IT Project Management/9. Project Resource Management.md",
+    "IT Project Management/8. Project Quality Management.md",
+    "IT Project Management/7. Project Cost Management.md",
+    "IT Project Management/6.4 Project Schedule Management.md",
+    "IT Project Management/6.3 Critical Chain Scheduling.md",
+    "IT Project Management/6.2 Critical Path & Critical Chain.md",
+    "IT Project Management/6.1 Intro to Critical Chain Project Management.md",
+    "IT Project Management/5. Project Scope Management.md",
+    "IT Project Management/4. Project Integration Management.md",
+    "IT Project Management/3. Project Management Process Groups.md",
+    "IT Project Management/2. Project Management and IT Context.md",
+    "IT Project Management/1.5 The Project Management Profession.md",
+    "IT Project Management/1.4 The Role of the Project Manager.md",
+    "IT Project Management/1.3 Project Portfolio Management.md",
+    "IT Project Management/1.2 What is Project Management.md",
+    "IT Project Management/1.1 Introduction.md",
+    "IT Project Management/12. Project Procurement Management.md",
+    "Pasted image 20250518142911.png",
+    "Pasted image 20250518134655.png",
+    "Pasted image 20250518134000.png",
+    "Pasted image 20250518104101.png",
+    "Pasted image 20250518102906.png",
+    "Pasted image 20250518102646.png",
+    "Pasted image 20250517185942.png",
+    "Pasted image 20250517185103.png",
+    "Pasted image 20250517182757.png",
+    "Excalidraw/Drawing 2025-04-28 16.10.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-10 12.15.16.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-03 18.48.54.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-03 15.25.18.excalidraw.md",
+    "Excalidraw/Drawing 2025-04-03 15.19.19.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-26 12.52.12.excalidraw.md",
+    "Excalidraw/Drawing 2025-05-17 16.21.45.excalidraw.md",
+    "Pasted image 20250517140838.png",
     "Excalidraw",
     "Agile/Untitled",
     "UI UX Design",
