@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT Project Management/12. Project Procurement Management.md",
+                "file": "Network/7.3 Network Management Requirements.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Project Procurement Management"
+              "title": "7.3 Network Management Requirements"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "d4b4311d23f8b939",
@@ -168,6 +169,23 @@
   },
   "active": "78b22caf91443f58",
   "lastOpenFiles": [
+    "Pasted image 20250602124447.png",
+    "Pasted image 20250602124215.png",
+    "Pasted image 20250602124040.png",
+    "Pasted image 20250602123709.png",
+    "Pasted image 20250602123656.png",
+    "Network/8. Software Defined Networks.md",
+    "Pasted image 20250602121007.png",
+    "Pasted image 20250602120927.png",
+    "Pasted image 20250530145317.png",
+    "Pasted image 20250530145252.png",
+    "Pasted image 20250530145208.png",
+    "Pasted image 20250530135756.png",
+    "Network/7.3 Network Management Requirements.md",
+    "Network/7.2 VPN.md",
+    "Network/7.1 Firewalls.md",
+    "IT Project Management/12. Project Procurement Management.md",
+    "Network",
     "IT Project Management/11. Project Risk Management.md",
     "IT Project Management/10. Project Communication Management.md",
     "IT Project Management/9. Project Resource Management.md",
@@ -186,24 +204,8 @@
     "IT Project Management/1.3 Project Portfolio Management.md",
     "IT Project Management/1.2 What is Project Management.md",
     "IT Project Management/1.1 Introduction.md",
-    "IT Project Management/12. Project Procurement Management.md",
-    "Pasted image 20250518142911.png",
-    "Pasted image 20250518134655.png",
-    "Pasted image 20250518134000.png",
-    "Pasted image 20250518104101.png",
-    "Pasted image 20250518102906.png",
-    "Pasted image 20250518102646.png",
-    "Pasted image 20250517185942.png",
-    "Pasted image 20250517185103.png",
-    "Pasted image 20250517182757.png",
     "Excalidraw/Drawing 2025-04-28 16.10.19.excalidraw.md",
     "Excalidraw/Drawing 2025-04-10 12.15.16.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 18.48.54.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 15.25.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 15.19.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-26 12.52.12.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-17 16.21.45.excalidraw.md",
-    "Pasted image 20250517140838.png",
     "Excalidraw",
     "Agile/Untitled",
     "UI UX Design",
