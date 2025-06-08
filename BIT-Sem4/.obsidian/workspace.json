@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network/7.3 Network Management Requirements.md",
-                "mode": "source",
+                "file": "UI UX Design/1.1 Human Computer Interaction(HCI).md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7.3 Network Management Requirements"
+              "title": "1.1 Human Computer Interaction(HCI)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d4b4311d23f8b939",
@@ -169,21 +168,23 @@
   },
   "active": "78b22caf91443f58",
   "lastOpenFiles": [
+    "Network/8. Software Defined Networks.md",
+    "Network/7.3 Network Management Requirements.md",
+    "Network/7.2 VPN.md",
+    "Network/7.1 Firewalls.md",
+    "IT Project Management/3. Project Management Process Groups.md",
+    "IT Project Management/1.5 The Project Management Profession.md",
+    "IT Project Management/1.4 The Role of the Project Manager.md",
     "Pasted image 20250602124447.png",
     "Pasted image 20250602124215.png",
     "Pasted image 20250602124040.png",
     "Pasted image 20250602123709.png",
     "Pasted image 20250602123656.png",
-    "Network/8. Software Defined Networks.md",
     "Pasted image 20250602121007.png",
     "Pasted image 20250602120927.png",
     "Pasted image 20250530145317.png",
     "Pasted image 20250530145252.png",
     "Pasted image 20250530145208.png",
-    "Pasted image 20250530135756.png",
-    "Network/7.3 Network Management Requirements.md",
-    "Network/7.2 VPN.md",
-    "Network/7.1 Firewalls.md",
     "IT Project Management/12. Project Procurement Management.md",
     "Network",
     "IT Project Management/11. Project Risk Management.md",
@@ -197,10 +198,7 @@
     "IT Project Management/6.1 Intro to Critical Chain Project Management.md",
     "IT Project Management/5. Project Scope Management.md",
     "IT Project Management/4. Project Integration Management.md",
-    "IT Project Management/3. Project Management Process Groups.md",
     "IT Project Management/2. Project Management and IT Context.md",
-    "IT Project Management/1.5 The Project Management Profession.md",
-    "IT Project Management/1.4 The Role of the Project Manager.md",
     "IT Project Management/1.3 Project Portfolio Management.md",
     "IT Project Management/1.2 What is Project Management.md",
     "IT Project Management/1.1 Introduction.md",
