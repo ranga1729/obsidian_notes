@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EAD/1. note 1.md",
+                "file": "EAD/2. example.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. note 1"
+              "title": "2. example"
             }
           }
         ],
@@ -197,8 +197,10 @@
   },
   "active": "b111510347d3ea95",
   "lastOpenFiles": [
-    "Network/7.1 Firewalls.md",
+    "EAD/0. basic.md",
+    "EAD/2. example.md",
     "EAD/1. note 1.md",
+    "Network/7.1 Firewalls.md",
     "EAD",
     "Excalidraw/Drawing 2025-03-26 12.52.12.excalidraw.md",
     "Excalidraw/Drawing 2025-05-17 16.21.45.excalidraw.md",
@@ -233,8 +235,6 @@
     "Pasted image 20250530145208.png",
     "IT Project Management/12. Project Procurement Management.md",
     "Network",
-    "IT Project Management/11. Project Risk Management.md",
-    "IT Project Management/10. Project Communication Management.md",
     "Excalidraw",
     "Agile/Untitled",
     "UI UX Design",
