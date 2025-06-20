@@ -11,10 +11,14 @@
             "id": "674153922d7b0600",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "4. Networking/4.3 Global Networking.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.3 Global Networking"
             }
           },
           {
@@ -31,7 +35,8 @@
               "title": "3.1 Regions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -84,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,9 +194,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "674153922d7b0600",
+  "active": "993159aff7ceffa3",
   "lastOpenFiles": [
+    "4. Networking/4.3 Global Networking.md",
     "5. Storage and Databases.md",
+    "4. Networking/4.1 Connectivity to AWS.md",
+    "4. Networking/4.2 Subnets and Network Access Control Lists.md",
     "3. Global infrastructure and reliability/3.1 Regions.md",
     "3. Global Infrastructure and Reliability.md",
     "7. Monitoring and Analytics/7.3 AWS Trusted Advisor.md",
@@ -208,9 +215,6 @@
     "5. Storage and Databases/5.4 Amazon Elastic file System(Amazon EFS).md",
     "5. Storage and Databases/5.3 EBS Vs S3.md",
     "5. Storage and Databases/5.1 Instances stores and Amazon Elastic Block Store(EBS).md",
-    "4. Networking/4.3 Global Networking.md",
-    "4. Networking/4.2 Subnets and Network Access Control Lists.md",
-    "4. Networking/4.1 Connectivity to AWS.md",
     "3. Global infrastructure and reliability/3.4 Provision AWS Resources.md",
     "3. Global infrastructure and reliability/3.3 Edge Locations.md",
     "3. Global infrastructure and reliability/3.2 Availability Zones.md",

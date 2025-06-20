@@ -1,0 +1,170 @@
+Here are the crucial and most important topics from your sources, structured to enhance your understanding for the exam:
+
+### I. Core Concepts of Agile Software Development
+
+- **What is Agile?**
+    
+    - Agile is defined as "the ability to both create and respond to change in order to profit in a turbulent environment". It is a **philosophy coupled with a set of guidelines** for software development.
+    - It's an alternative to traditional project management, proposing **methods or processes that support the agile philosophy**.
+    - **Rationale for Agile**: Traditional projects often fail (an average of 70% due to missed timelines, cost overruns, and customers not getting what they asked for). Agile helps manage changes in requirements, design, implementation, technology, and team dynamics.
+    - **Why Agile is Important**: It aims for **customer satisfaction** through rapid delivery of useful software and by welcoming changing requirements, even late in development. It emphasizes **working software as the principal measure of progress**.
+    - **Agile Development Focuses on**: **Personal, Technical, and Organizational successes**.
+        - **Personal Success**: Increased technical quality for developers, greater influence on estimates and schedules, greater autonomy, improved satisfaction for project managers, and influence for architects/domain experts.
+        - **Technical Success**: Achieved through practices like programmers working together, continuous code review and integration, finishing features completely, and creating simple, evolving designs.
+        - **Organizational Success**: Achieved by delivering value, decreasing costs, cancelling bad projects early, improving communication, and making software easier to maintain.
+- **Agile Manifesto**
+    - **Origin**: Authored at a ski lodge in Utah in 2001 by seventeen people.
+    - **Significance**: It's a set of **values** rather than tangible artifacts like templates or rules.
+    - **Core Values**:
+        - **Individuals and interactions over processes and tools**.
+        - **Working software over comprehensive documentation**.
+        - **Customer collaboration over contract negotiation**.
+        - **Responding to change over following a plan**.
+    - **Principles behind the Agile Manifesto**:
+        - Highest priority: **satisfy the customer through early and continuous delivery of valuable software**.
+        - Welcome changing requirements, even late in development.
+        - Deliver working software frequently (weeks rather than months).
+        - Business people and developers must **work together daily**.
+        - Build projects around **motivated individuals**, trusting them.
+        - **Face-to-face conversation** is the most efficient and effective communication.
+        - Working software is the **primary measure of progress**.
+        - Promote **sustainable development**.
+        - **Continuous attention to technical excellence and good design**.
+        - **Simplicity** (maximizing the amount of work not done) is essential.
+        - Best architectures, requirements, and designs emerge from **self-organizing teams**.
+        - Regularly **reflect on how to become more effective**, then adjust.
+- **Agile Principles (Detailed)**
+    - **Variability & Uncertainty**:
+        - **Embrace helpful variability**: Product development requires variability to create unique products, unlike manufacturing which shuns it.
+        - **Employ iterative and incremental development**: Agile uses multiple passes to improve solutions and builds products in smaller, learning pieces. In Scrum, sprints are time-boxed iterations creating working product increments.
+        - **Leverage variability through inspection, adaptation, and transparency**: Scrum inspects what and how it's building, relying on transparency (all information available) for communication and trust.
+        - **Reduce all forms of uncertainty simultaneously**: Agile addresses end uncertainty (what to build), means uncertainty (how to build), and customer uncertainty (who) concurrently through iterative development and constant feedback.
+    - **Prediction and Adaptation**:
+        - **Keep options open**: Decisions are delayed until the **Last Responsible Moment (LRM)** when more information is available.
+        - **Accept that you can't get it right up front**: Agile acknowledges that initial requirements and plans are unlikely to be perfect and are refined as learning occurs.
+        - **Favor an adaptive, exploratory approach**: Knowledge is gained through activities like prototyping, proof of concept, or experiments when faced with uncertainty.
+        - **Embrace change in an economically sensible way**: Agile assumes change is normal and aims to keep the cost-of-change curve flat for as long as possible.
+        - **Balance predictive up-front work with adaptive just-in-time work**: Scrum finds a balance, minimizing excessive upfront prediction while maximizing adaptation based on fast feedback.
+    - **Validated Learning**:
+        - **Validate important assumptions fast**: Minimize assumptions and quickly discover mistakes.
+        - **Leverage multiple concurrent learning loops**: Scrum utilizes feedback loops (e.g., pair programming, Test-Driven Development) to continuously learn and adapt.
+        - **Organize workflow for fast feedback**: Work is structured so feedback-generating activities happen soon after the original work.
+    - **Work In Process (WIP)**:
+        - **Use economically sensible batch sizes**: Avoid batching all similar work in one phase.
+        - **Recognize inventory and manage it for good flow**: Manage requirements as inventory to avoid waste from changes.
+        - **Focus on idle work, not idle workers**: Prioritize removing bottlenecks in the workflow over keeping everyone 100% busy.
+        - **Consider cost of delay**: Acknowledge the financial cost of delaying work.
+    - **Progress**:
+        - **Measure progress by validating working assets**: Progress is determined by delivering and validating valuable, working software, not by adherence to a predefined plan or phase completion.
+        - **Adapt to real-time information and replan**: Continuously adjust plans based on new information.
+        - **Focus on value-centric delivery**: Highest-value features are continuously built and delivered first.
+    - **Performance**:
+        - **Go fast but never hurry**: Be nimble, adaptable, and speedy to deliver fast, get feedback fast, and realize value sooner.
+        - **Build in quality**: Quality is continuously built in and verified by the cross-functional Scrum team in every sprint, reducing the need for significant late testing.
+        - **Employ minimally sufficient ceremony**: Eliminate unnecessary formality and documentation, keeping processes lean.
+
+### II. Agile Methodologies: Scrum & Extreme Programming (XP)
+
+- **Scrum**
+    - **Definition**: An **Agile methodology** that is an iterative, incremental process for software development, controlling chaos of changing requirements. It's a **team-based approach** where the whole team works as a unit in short, **time-boxed iterations** (usually 1 week to 1 month).
+    - **Origin**: Conceived by Jeff Sutherland and Ken Schwaber in the early 90s, formalized in 1995, borrowing the term from rugby's "The New New Product Development Game".
+    - **Rules**: Teams (7-9 cross-functional members excluding PO/SM), Time-boxes, Feedback and learning through frequent delivery, Predictability, Collective and adaptive planning, Productivity and quality via waste reduction.
+    - **Scrum Framework Practices**:
+        - **Scrum Roles**:
+            - **Product Owner (PO)**: Represents stakeholders, shares product vision/goals, identifies/prioritizes requirements, is the "GO TO" person for clarifications, provides feedback, negotiates with stakeholders. Responsibilities include managing economics, participating in planning (portfolio, product, release, sprint), grooming the product backlog (creating, refining, estimating, prioritizing), defining and verifying acceptance criteria, and collaborating with the development team and stakeholders. A single person must be the PO, but they can delegate to a "Product Owner Team".
+            - **Scrum Master (SM)**: A **facilitator** who helps everyone understand and embrace Scrum values, principles, and practices. Acts as a **coach** to both the development team and product owner. Functions as a **servant leader**, **process authority** (ensuring adherence, but no hiring/firing), **interference shield** (protects the team), **impediment remover**, and **change agent**. It is **highly discouraged** for the same person to serve as both Scrum Master and Product Owner.
+            - **Development Team**: A **diverse, cross-functional collection** of individuals (architects, programmers, testers, DBAs, UI designers) responsible for designing, building, and testing the product. They are **self-organizing** and possess **T-shaped skills** (deep expertise in one area, broad in others). Responsibilities include sprint execution, daily inspection and adaptation, product backlog grooming, and inspecting/adapting the product and process.
+        - **Scrum Artifacts**:
+            - **Product Backlog**: A **prioritized (ordered) list** of all features, functions, requirements, enhancements, and fixes needed for the product. The Product Owner is responsible for its determination and management.
+            - **Sprint Backlog**: The set of product backlog items the development team commits to complete in a sprint, along with the plan to deliver them.
+        - **Scrum Activities/Events**:
+            - **Sprints**: Short, time-boxed iterations (usually 1 week to 1 month) during which a cross-functional, self-organizing team completes a set amount of work. They are **time-boxed, short duration, consistent duration, with no goal-altering changes**, and end with a **Definition of Done**. Once committed, the sprint scope, deliverables, and duration cannot be changed.
+            - **Sprint Planning**: A just-in-time activity at the beginning of each sprint to determine the most important subset of product backlog items to build. The full Scrum team collaborates to define the sprint goal, select product backlog items, and acquire confidence in their commitment, forming the sprint backlog. Capacity planning (in story points or effort-hours) is crucial here.
+            - **Sprint Execution**: The work the Scrum team performs to meet the sprint goal, accounting for the majority of the sprint time. It involves flow management (deciding parallel work, swarming, task organization), daily Scrum meetings, and various technical practices (e.g., TDD, CI).
+            - **Daily Scrum (Stand-up Meeting)**: A **15-minute, time-boxed daily inspect-and-adapt activity** for the development team to synchronize activities and plan for the next 24 hours, discussing what was done, what will be done, and any impediments.
+            - **Sprint Review**: Occurs near the end of the sprint, focusing on inspecting the **product itself**. The team demonstrates the completed increment to stakeholders to gather feedback, resulting in a groomed product backlog and an updated release plan.
+            - **Sprint Retrospective**: An important inspect-and-adapt activity focusing on the **process used**. The full Scrum team discusses "what worked well," "what didn't work well," and "what should be improved" to generate concrete actions for the next sprint and improve camaraderie.
+    - **Scrum Team Structures**:
+        - **Feature Teams vs. Component Teams**: Scrum favors **Feature Teams**, which are cross-functional and cross-component, capable of delivering end-customer features. Component teams focus on a single component.
+        - **Multiple-Team Coordination**: For larger products, Scrum scales by having multiple teams. Coordination techniques include **Scrum of Scrums** (where individuals from development teams coordinate inter-team work) and **Release Trains** (a cross-team synchronization mechanism with fixed departure times for features).
+    - **Planning in Scrum (Multi-Level Planning)**:
+        - **Portfolio Planning**: Determines which products/projects to work on, in what order, and for how long. It's a never-ending activity involving internal stakeholders, product owners, architects, and technical leads. Strategies include optimizing for lifecycle profits, calculating cost of delay, estimating for accuracy, balancing arrival/departure rates, and managing "in-process" products (preserve, deliver, pivot, terminate).
+        - **Product Planning (Envisioning)**: Creates the initial product backlog and a **product vision** (a clear description of stakeholder value), along with a high-level product backlog and roadmap. It should be economically sensible, targeting realistic confidence, focusing on a short horizon, and paying for validated learning.
+        - **Release Planning**: Involves making scope, date, and budget trade-offs for incremental deliveries. It helps answer "When will we be done?", "Which features can I get?", and "How much will it cost?". It confirms release constraints (scope, date, budget, where at least one should be flexible), grooms the product backlog, refines **Minimum Releasable Features (MRFs)**, and may involve sprint mapping.
+            - **Fixed-Date Release Planning**: Aims to determine which features can be completed by a fixed date, using team velocity and sprints.
+            - **Fixed-Scope Release Planning**: Determines how many sprints are needed to complete a fixed set of features.
+            - Progress is communicated using **Fixed-Scope-Release Burndown Charts** (showing unfinished work) and **Fixed-Scope-Release Burn Up Charts** (showing progress towards a goal).
+        - **Sprint Planning**: (See Sprint Activities above).
+        - **Daily Planning**: (See Sprint Activities - Daily Scrum above).
+    - **Monitoring Progress in Scrum**: Primarily done using **Burn-down charts** (for iterations and releases) and **VELOCITY** (a key metric, representing the number of total story points completed per iteration).
+- **Lean**
+    - **Origin**: Term coined 1992, applied to software development in 1993, inspired by Toyota's management approach ("The Machine That Changed the World").
+    - **Five Core Pillars of Lean Thinking**: Value, Value Stream, Flow, Pull, Perfection.
+    - **Seven Principles of Lean**: **Eliminate Waste**, **Amplify Learning**, Decide as Late as Possible, Deliver as Fast as Possible, Empower the Team, **Build Integrity In**, See the Whole.
+- **Kanban**
+    - **Origin**: A practice adopted from Lean manufacturing, developed by Taiichi Ohno at Toyota to improve and maintain production levels, using physical cards to limit work-in-progress (WIP).
+    - **Principles**: Start with what you do now, Agree to pursue incremental/evolutionary change, Respect the current process, roles, responsibilities & titles.
+    - **Five Core Properties**: **Visualize the workflow**, **Limit Work In Process (WIP)**, Manage Flow, Make Process Policies Explicit, Improve Collaboratively.
+- **Extreme Programming (XP)**
+    - **Definition**: An agile methodology that improves software quality and responsiveness to changing customer requirements through **frequent releases in short development cycles**.
+    - **Key Characteristics**: XP teams perform analysis, design, coding, testing, and deployment nearly simultaneously and with rapid frequency, producing potentially shippable software at the end of each iteration. Each iteration includes planning, a product demo, and a retrospective.
+    - **XP Life Cycle**:
+        - **Planning**: Includes **on-site customers** (business experts responsible for making business decisions, clarifying vision, creating stories, and release planning), and **programmers** who provide estimates and suggestions. The **planning game** blends these perspectives.
+        - **Analysis**: On-site customers sit with the team full-time as "living requirements documents", defining requirements and creating **customer tests** (with testers) for complex business rules.
+        - **Design and Coding**: Uses **incremental design and architecture** in small steps. **Test-Driven Development (TDD)** inextricably links testing, coding, design, and architecture. **Pair programming** is a core practice. Teams use version control, maintain automated builds, practice **continuous integration** (integrating code every few hours), adhere to coding standards, and have **shared code ownership**.
+        - **Testing**: All team members contribute to quality. TDD produces automated unit and integration tests. Customers review work in progress and create examples. Testers perform **exploratory testing** (to find bugs and assess nonfunctional characteristics like performance and stability) and help with root-cause analysis. XP automates repetitive testing instead of manual regression testing.
+        - **Deployment**: Software is kept ready for deployment at the end of any iteration, typically deployed to internal stakeholders weekly.
+    - **The XP Team**: Composed of **cross-functional, diverse, self-organizing people** who sit together in an open workspace.
+        - **Key Roles**: On-site customers, Programmers, Testers, Coaches (XP leaders who lead by example and facilitate team interactions).
+        - **Other Potential Members**: Technical Writer, Analyst, Product Manager, Domain Experts, Interaction Designers, Graphic Designers, Business Analysts, Designers/Architects, Technical Specialists, Project Manager.
+        - **Team Size**: Typically 4 to 10 programmers (5 to 20 total members), with 4 to 6 programmers being a good starting point for new teams.
+
+### III. Requirements and User Stories
+- **Requirements Handling in Scrum**: Requirements are handled through the **Product Backlog**. The most important or highest priority items are worked on first.
+- **User Stories**:
+    - **Definition**: Very slim and high-level requirements artifacts. They are small features or parts of features that have customer value.
+    - **When to Use**: Used in Scrum and XP for planning and detailing work.
+    - **Writing User Stories**: Written in the **voice of the customer**.
+    - **Template**: "As a , I can , so that ".
+    - **Epics**: Large user stories that are too big to implement in a single iteration and need to be disaggregated into smaller user stories.
+    - **INVEST in Good Stories**: A mnemonic for good story characteristics.
+- **Non-functional Requirements**: Handling these and knowledge acquisition is an intended learning outcome. In XP, testers explore nonfunctional characteristics like performance and stability. Solutions involve designing, automating, and performing non-functional tests during sprints.
+- **Definition of Ready (DOR)**: A checklist used to assure the quality of a User Story, ensuring it's clear enough to draft a test case.
+
+### IV. Estimation and Velocity
+- **Estimation Concepts**: Estimating product backlog items.
+- **Planning Poker**: A technique used for sizing/estimating product backlog items, often using a sequence like 0, 1, 2, 3, 5, 8, 13.
+- **Velocity**:
+    - **Definition**: A **key metric** in Scrum, typically representing the **number of total story points completed per one iteration**.
+    - **Usage**: Used to calculate a velocity range, forecast velocity, and aids in release planning (e.g., determining what can be done in fixed-date releases). Velocity is also used to acquire confidence in sprint commitments.
+
+### V. Testing in Agile (Scrum & XP)
+- **Differences from Traditional Testing**:
+    - In traditional (e.g., Waterfall), testing is a separate phase. In Agile, **testing is performed alongside development** and is continuous and parallel within each sprint.
+    - Quality is not "tested in" at the end by a separate QA group, but is **continuously built in and verified by the cross-functional Scrum team** throughout each sprint.
+- **Critical Factors in Agile Testing**: **Test Automation**, **Exploratory Testing**, **Test Expertise within the team** (developers contribute to testing, independent testing is discouraged), and coordinated testing across **Multiple Teams**.
+- **Agile Quality Assurance Tools**: The entire team is responsible for quality, and QA is based on **"Inspection and Adaptation"** of Scrum artifacts.
+- **Test Planning in Scrum**: Testing activities are planned and controlled within a Sprint, guided by the Product Backlog, Sprint Backlog, and Task Board.
+    - **Definition of Done (DoD)**: A crucial checklist used by the team to decide if a feature is ready for the Sprint Review, including test types, test coverage, and quality criteria.
+- **Types of Testing in Agile**:
+    - **Unit Testing**: "Developer testing" applied to individual components (classes, functions).
+        - **The Test First Approach (Test-Driven Development - TDD)**: Tests are designed and automated _before_ any product code is written. The code is then written until all tests pass. This accelerates the feedback loop and helps check new functionality.
+        - **Unit Testing Frameworks**: Tools like JUnit, CppUnit, NUnit simplify test code.
+        - **Test Doubles (Placeholders)**: Stubs, Spies, Mocks, Fakes, and Dummies are used to replace dependent components that may not exist yet, preventing testing blocks.
+        - **Management**: Involves agreeing on frameworks, central storage, naming conventions, coverage measurement, static code analysis, and test code reviews.
+    - **Integration Testing**: Ensures independently designed components work together, identifying defects in interactions. It covers both **explicit (direct API calls)** and **implicit (shared resource) dependencies**. Levels include Class Integration (Vertical, Horizontal, Compound), Subsystem Integration, and System Integration.
+        - **Continuous Integration (CI)**: A key practice where code is installed and integrated incrementally and automatically as soon as it's finished. It involves automated compilation, static code analysis, deployment, and running unit, integration, and system tests, with results displayed on a dashboard.
+    - **System Testing**: Checks the product from the user's perspective, including user interfaces and interoperability with existing systems.
+        - **Manual System Testing**: Includes **Exploratory Testing** (unstructured testing for new features) and **Session-Based Testing** (time-boxed with recorded objectives). **Acceptance Testing** (customer-selected approval tests) determines if the system is acceptable.
+        - **Automated System Testing**: Difficult due to complex environments and GUI focus. Approaches include Record/Playback, **Keyword-Driven Testing** (domain-specific vocabulary for test procedures), and **Behaviour-Driven Testing (BDT)** (using natural language and Given-When-Then scenarios). Test First can be applied to keyword-based or BDT tests.
+    - **Non-functional Testing**: Checks how well and at what quality level the system performs (e.g., Load, Performance, Security, Usability, Maintainability). Challenges include long-term tests slowing CI and difficulty in automation. Non-functional requirements should be addressed early.
+    - **Automated Acceptance Testing**: Product Owners can use existing automated unit or integration tests, or automated system tests, to cover acceptance criteria.
+
+### VI. Other Important Concepts
+- **User Stories, Epics, User Story Writing**: (Addressed in III. Requirements and User Stories)
+- **Timeboxing**: A core characteristic of Sprints, meaning each sprint has a fixed, maximum duration.
+- **Self-organizing Teams**: A hallmark of Agile and Scrum, where teams have control over their work and how it's performed.
+- **Cross-functional Teams**: Agile and Scrum teams are composed of individuals with diverse skills capable of performing all necessary work.
+- **Technical Debt**: Programmers in XP need to be aware of technical debt and its impact on development time and future maintenance costs.
+- **Managers in Scrum**: While not a formal role, functional managers play an important part in an agile organization by fashioning (forming), nurturing, aligning/adapting the environment for, and managing the value-creation flow of Scrum teams.
+- **Planning Poker**: (Addressed in IV. Estimation and Velocity)

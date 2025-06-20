@@ -1,0 +1,356 @@
+### **1. Human-Computer Interaction (HCI)**
+- **Definition and Evolution**:
+    - HCI is a field of research and practice that **emerged in the early 1980s**.
+    - It has **expanded rapidly** and now aggregates a collection of **semi-autonomous fields** in human-centered informatics.
+    - A formal definition states HCI is a “discipline concerned with the **design, evaluation and implementation of interactive computing systems for human use** and with the study of major phenomena surrounding them” (ACM SIGCHI, 1992).
+- **History and Necessity**:
+    - Until the late 1970s, only IT professionals interacted with computers.
+    - The **emergence of personal computing**, personal software, and personal computer platforms presented the practical need for HCI.
+    - Cognitive science provided the concepts, skills, and vision to address these needs.
+    - In the past, computers were expensive and used only by technical people. Now, they are **cheap and used by non-technical people** from diverse backgrounds.
+    - Interacting with technology is an **essential part of everyday life** for most people.
+    - People are often busy and may spend little time learning new systems.
+    - Therefore, computer systems **should be easy to use, easy to learn, and error-free**. Designing such systems is a major concern of HCI.
+- **Components of HCI**:
+    - **Human**: Refers to the end-user and members of an organization.
+    - **Computer**: Encompasses hardware and software.
+    - HCI is fundamentally a process of **information transfer** between User to Machine and Machine to User.
+- **Goals of HCI**:
+    - To **create usable software-enabled products** and user-interfaces.
+    - To **enhance the usability** of existing products.
+    - To **identify problems and tasks** (e.g., in the workplace) that can be addressed with software products.
+- **Interdisciplinary Nature**:
+    - HCI is an interdisciplinary field involving **computer scientists, engineers, psychologists, social scientists, and design professionals**.
+    - Historically, HCI had a narrow focus, but it has **greatly expanded in scope** to include cars, home appliances, furniture, and even clothing.
+- **Modern HCI – Three Paradigms**:
+    - **Paradigm One (Man-machine coupling)**:
+        - Period: Industrial revolution to World War II.
+        - Goal: **Optimize the fit between technology and man to minimize human error**.
+        - Questions: "How can we fix problems that arise in interaction?".
+    - **Paradigm Two (Dual Processor approach)**:
+        - Period: 1960 to 1980.
+        - Roots: **Cognitive science**.
+        - Goal: To **bridge the gap between machine processor and human processor**.
+        - Questions: "What mismatches come up in communication between computer and people?", "How can we accurately model what people do?", "How can we improve the efficiency of computer use?".
+    - **Paradigm Three (Phenomenological matrix)**:
+        - Embraces the **complexity of interaction**.
+        - Focus: Humans are part of a matrix, drawing on **social sciences and User Experience Design**.
+        - Questions: "What existing situated activities in the world should we support?", "How do users appropriate technologies?", "How can we support those appropriations?", "How can we support interaction without constraining too strongly by what can computers do or understand?", "What are the values at the site of interaction and how can we support those in design?".
+- **Evolution of HCI 'Interfaces'**:
+    - **1950s**: Interface at the **hardware level** for engineers (e.g., switch panels).
+    - **1960s-70s**: Interface at the **programming level** (e.g., COBOL, FORTRAN).
+    - **1970s-90s**: Interface at the **terminal level** (e.g., command languages).
+    - **1980s**: Interface at the **interaction dialogue level** (e.g., GUIs, multimedia).
+    - **1990s**: Interface at the **work setting** (e.g., networked systems, groupware).
+    - **2000s**: Interface becomes **pervasive** (e.g., RF tags, Bluetooth, mobile devices, consumer electronics, interactive screens, embedded technology).
+- **Examples of Critical User Interface Engineering Problems**:
+    - **Three Mile Island accident (1979)**: A partial meltdown revealing critical UI problems in the reactor control system. A light on the control panel falsely indicated a valve was closed when it was stuck open, leading operators to misdiagnose the problem for hours.
+    - **USS Vincennes incident**: A civilian plane was shot down due to bad design (mentioned as homework to investigate).
+    - **Fabuloso cleaner**: Colorfully packaged cleaner with a record of mistaken identity, leading to accidental ingestion, highlighting deadly results of bad design.
+
+### **2. User Experience Design (UXD)**
+- **Relationship with HCI**: HCI is a broad field that overlaps with UX design, and **HCI was the forerunner to UX design**.
+- **Terminology**: "User Experience Design" is often used interchangeably with "User Interface Design" and "Usability," but **usability and UI design are important subsets of UX design**.
+- **Definition of UX**: "User experience" **encompasses all aspects of the end-user's interaction with the company, its services, and its products**.
+- **Focus of UX**:
+    - A deep understanding of **users (what they need, value, abilities, limitations)**.
+    - Takes into account **business goals and objectives**.
+    - Promotes improving the **quality of the user’s interaction** with and perceptions of your product and related services.
+    - Don Norman, inventor of the term “User Experience,” states, "A product is more than the product. It is a cohesive, integrated set of experiences" covering all stages from initial intentions to final reflections, first usage to help, service, and maintenance.
+- **UI vs. UX Design**:
+    - **UX and UI are often used interchangeably but mean very different things**.
+    - **User Interface (UI) Design**: Focuses on the **series of screens, pages, and visual elements** (like buttons and icons) that enable a person to interact with a product or service. It is a **human-centered approach to design the aesthetic experience of a product**.
+    - **User Experience (UX) Design**: Focuses on the **internal experience** a person has as they interact with **every aspect of a company’s products and services**. It is a **human-centered approach to product design**.
+    - A successful product is a result of **good UI and UX working together**. "A UI without UX is like a painter slapping paint onto a canvas without thought, while UX without UI is like the frame of a sculpture with no paper mache on it".
+- **Work of a UX Engineer/Designer**:
+    - Considers the **Why, What, and How of product use**.
+        - **Why**: Clarifies needs, emotions, meaning, and the experience involved in an activity. UX design starts from "Why".
+        - **What**: Reflects the functionality—the things people can do through an interactive product (e.g., making a call, buying a book).
+        - **How**: Addresses acting through an object on an operational, sensory-motor level (e.g., buttons pressed, knobs turned, menus navigated).
+    - UX designers often come from diverse backgrounds like visual design, programming, psychology, and interaction design.
+    - Tasks include user research, creating personas, designing wireframes and interactive prototypes, and testing designs.
+- **UX is User-Centred**:
+    - UX engineers often act as **users’ advocates**, keeping users' needs central.
+    - **User-Centered Design (UCD)** is an iterative process starting with an understanding of users and their context.
+    - **UCD Process**:
+        1. Understand the context of use.
+        2. Identify and specify user requirements.
+        3. Develop design solutions.
+        4. Evaluate outcomes against user context and requirements.
+        5. Iterate these four phases until satisfactory.
+    - **Advantages of UCD**:
+        - Leads to **increased sales and lower customer service costs** because products are more likely to meet user expectations.
+        - Leads to **safer products** by tailoring them to specific contexts and tasks, reducing human error.
+        - Helps designers **recognize the diversity of cultures and human values**.
+
+### **3. Design Principles and Understanding Users**
+- **Design Principles**: Used to aid thinking when designing for user experience.
+    - Visibility
+    - Feedback
+    - Constraints
+    - Consistency
+    - Affordance
+    - **Applying Principles in Practice**: Trade-offs can arise (e.g., more constraints can reduce visibility). Consistency can be problematic; sometimes inconsistent interfaces are easier to use.
+- **Understanding Users**: Crucial for designing interactive products that provide good user experiences and match user needs. Key factors to consider:
+    - **Privacy and Security Issues**: Require careful language, appropriate default settings, icon design, and layered interfaces.
+    - **Education and Computer Literacy Level**: Impact how users interact and learn systems.
+    - **Business Needs**: Influence design due to globalization and commercialization, driving e-commerce, e-marketing, e-channeling, and e-learning.
+    - **Gender Differences**: Men and women communicate, problem-solve, and process information differently, affecting perception and user experience of software. Females may prefer soft, tactile, artistic, communicative approaches, valuing collaboration and non-violent rewards (e.g., in video games).
+    - **Age Difference**:
+        - **Children**: Preferences differ by age group (toddler to teenager). Younger children have evolving dexterity, low literacy, short attention spans, preferring colorful interfaces with images. They need easy handling and parental control. Teenagers prefer challenge and competition and can learn independently.
+        - **Elderly**: Communication (e-mail) is a main reason for getting online. Declining motor and cognitive skills impact interaction (trouble finding info, multiple windows, pointing devices challenging, stronger negative reactions to errors). Designs should allow for variability.
+    - **Government Rules, Policies, etc.**: Accessibility policies (e.g., EEOC for disability), e-government website design for finding information, and advanced identification cards are considerations.
+    - **Technology Diversity**: Includes RFID tags, wearable computing, mobile computing, ubiquitous and context-aware computing, and social computing (networks, video games).
+    - **Emergencies**: Design visual analytics and advanced interfaces for situational awareness during terrorism or natural disasters.
+    - **Personal/Individual Needs**: Designing to reduce isolation (social computing, online communities) and accommodate personal preferences/values.
+    - **Cultural Differences / Multi-Cultural Interaction**:
+        - Different cultures interact with computers differently, leading to problems often ignored by designers, forcing users to adapt.
+        - Requires careful attention to **language, colors, layouts, visual depictions, and cultural sensitivity**.
+        - Increases complexity of empirical evaluations.
+        - Specifics include: Language/Localization, Date and time formats, Left-to-right vs. right-to-left input/reading, Numeric and currency formats, Characters, Weights and measures, Telephone numbers and addresses, Names and titles, Capitalization and punctuation, Social-security/ID/passport numbers, Aesthetics (color, patterns, shapes, textures), Sorting sequences, Etiquette, policies, tone, formality, metaphors, and Symbols (food, animals, objects having unintended meanings).
+    - **Human Diversity / Accommodating Human Diversity**:
+        - Humans are diverse in abilities/disabilities, and inaccessibility in computing negatively impacts lives.
+        - **Accessibility**: Design applications to be accessible to disabled or otherwise abled people, often assisted by multimodal systems.
+        - **Types of Disabilities and Design Considerations**:
+            - **Visual disabilities** (long-sightedness, blindness, colorblindness): Cater for Braille keyboards, speech software, screen magnifiers, and avoid lines/small symbols. For **color blindness** (common red/green deficiency like protanopia, deuteranopia, tritanopia), use proposed color palettes.
+            - **Auditory disabilities** (hearing impairment to deafness): Provide written versions of audio (transcriptions) and captions in videos.
+            - **Motor disabilities** (mobility/hand/arm problems): Use speech inputs (speech recognition), Sticky Keys (keyboard from one hand), and Eye Tracking devices.
+            - **Cognitive disabilities** (limitations in mental functioning, communication, social skills, learning disabilities like dyslexia, autism): Focus on **readable content** with simpler language. Visualize information structure (sitemaps). For dyslexia, use scanning and hypertext anchors. Include spelling checkers for spelling disabilities.
+        - Examples of tools for disabilities: Braillesurf (speech, Braille, large text), BrookesTalk (web-searching, speech, screen-magnification), EIAD (touch-screen, simplified language interfaces).
+
+### **4. Conceptual Interaction and Models**
+- **Interaction Design Goal**: To create products that enable the user to achieve their objective(s) in the best way possible. It is a component within UX design.
+- **Understanding the Problem Space**:
+    - A common mistake is focusing on physical design without understanding the problem.
+    - Understanding the problem space is **critical for arriving at workable, safe, and trusted solutions**.
+    - Designers should articulate the nature of the problem space **before designing physical aspects**. This involves understanding current practices, why change is needed, and how change improves experience. It is a team effort involving different perspectives.
+- **Importance of Involving Users**:
+    - The best way to ensure the end product is usable.
+    - Aids **expectation management**, ensuring realistic user expectations.
+    - Helps with hands-on training and fosters a **sense of ownership**.
+- **Proof of Concepts**: Important for designing new ideas, acting as a **feasibility check** and enabling designers to articulate basic building blocks.
+- **Conceptualizing Interaction**:
+    - Requires clarity about **underlying assumptions** (something taken for granted that needs investigation) and **claims** (something stated as true but open to question).
+    - This process involves understanding existing problems, their causes, evidence, and how proposed designs might solve them.
+- **Conceptual Models**:
+    - A **high-level description of how a system is organized and operates**.
+    - They are abstract representations depicting a distinct logical view or perspective.
+    - Help designers **straighten out their thinking** before focusing on detailed interface elements.
+    - By echoing common conceptual models (e.g., calendars for appointment management), designers **build on existing knowledge and frameworks**, making new products easier to learn.
+    - **Classic Example: The Xerox Star** was based on a conceptual model of an office, where dragging a document was like moving paper, and putting it in a folder was like placing a physical document.
+- **Interface Metaphors**:
+    - A **central component of a conceptual model**.
+    - A **mapping process from a familiar object to an unfamiliar object**, providing a similar structure.
+    - Used as a tool in design to understand new topics or create new ideas about familiar subjects.
+    - **Most well-known: The desktop metaphor** represents the user interface similar to physical office interactions.
+    - Other popular examples: **Book metaphor** (hypertext), **Filing cabinet** (online documentation), **Office metaphor** (document collections), **Library metaphor** (large archives), **Traffic metaphor**, and **Animated agent metaphor** (guidance).
+- **Interaction Types**: Ways a person interacts with a product.
+    - **Instructing**: Users issue commands (typing, selecting, touch, speaking).
+    - **Conversing**: Users have a dialog with the system.
+    - **Manipulating**: Users interact with objects in virtual or physical space (physical controllers, gestures, smart toys/robots).
+    - **Exploring**: Users move through a virtual environment or physical space.
+    - **Responding**: Systems initiate a request for a user to respond.
+
+### **5. Cognitive, Social, and Emotional Aspects of Design**
+- **Cognition**:
+    - **Definition**: Mental processes related to the **acquisition, storage, manipulation, and retrieval of information**, encompassing thinking, knowing, remembering, judging, problem-solving, language, imagination, perception, and planning.
+    - **Experiential vs. Reflective Cognition**:
+        - **Experiential cognition**: Intuitive perception, action, and reaction (e.g., driving a car, reading a book).
+        - **Reflective cognition**: Involves mental effort, attention, judgment, and decision-making, leading to new ideas (e.g., designing, learning, writing a report).
+    - **Specific Cognitive Processes**: These are interdependent.
+        - **Attention**: Focusing on specific stimuli, selecting relevant information from possibilities. Ease depends on clear goals and information presentation.
+        - **Perception**: Acquiring information via senses and transforming it into experiences. Information should be readily perceived as intended (e.g., grouping items with spaces).
+        - **Memory**: Recalling knowledge to act appropriately. It's a filtering process, and **people are generally better at recognizing things than recalling them**.
+        - **Learning**: Closely connected to memory. Can be **incidental** (without intention, like recognizing faces) or **intentional** (goal-directed, like studying for an exam). "Learning by doing" is also significant.
+        - **Reading, Speaking, and Listening**: The ease varies by person, task, and context. Applications often support these (e.g., interactive books, speech-recognition systems, natural-language interfaces).
+        - **Problem-Solving, Planning, Reasoning, and Decision-Making**: These are reflective cognitive processes. When confronted with information overload, people tend to use **simple heuristics** (e.g., buying recognized or low-priced brands) instead of exhaustive processing. Design should provide **just enough information in the right form** to facilitate good choices.
+- **Cognitive Frameworks**: Explain and predict user behavior based on cognition theories.
+    - **Mental Models**: A person’s thought process for how something works. Used to reason about technology, and develop with learning. Users create them quickly, but they are often incomplete, confusable, or based on inappropriate analogies.
+        - **Bridging Mental Models and Conceptual Models**: Design technologies to be more **transparent** (clear instructions, online help, affordances). Anchor the conceptual model in user experience by researching expectations, using familiar terminology, leveraging interface patterns, testing early, and iterating. New conceptual models can be introduced gradually, leveraging familiar natural world models or perceived affordances.
+    - **Gulfs of Execution and Evaluation**: Describe gaps between the user and the interface.
+        - **Gulf of Execution**: The distance from the user's intention to the physical system's capabilities.
+        - **Gulf of Evaluation**: The distance from the physical system's output to the user's interpretation.
+        - Designers aim to **bridge these gulfs to reduce cognitive effort**.
+    - **Information Processing**: Views the mind as an information processor, with information entering and exiting through ordered stages where processes act on mental representations.
+    - **Distributed Cognition**: Studies cognitive phenomena across individuals, artifacts, and internal/external representations. Focuses on **how information is propagated through different media** across a system of individuals and artifacts, rather than just within an individual's head.
+    - **External Cognition**: Explains cognitive processes when interacting with external representations (e.g., graphical images, multimedia). Key aspects include **externalizing to reduce memory load**, **computational offloading** (using a physical tool with an external representation to solve problems), and **annotating and cognitive tracing** (explanation/modification and manipulation of external representations).
+    - **Embodied Interaction**: Conceives interactions with technology as embodied, seen in wearable technology, haptic technology, and tangible user interfaces.
+- **Social Interactions**: A fundamental aspect of everyday life.
+    - **Remote Conversations**: Communicating at a distance via electronic tools (e.g., telephone calls, emails, video conferencing, online chats).
+    - **Co-Presence and Social Engagement**: Supporting people interacting in the same physical space using technologies (e.g., smartboards, surfaces) to enable collaboration.
+- **Emotional Interactions**:
+    - Concerned with how designs make people feel (happy, sad, annoyed, frustrated, motivated).
+    - **Emotional design** aims to create designs that evoke emotions for positive user experiences. UX designers must focus on user responses in addition to requirements, as emotions are constantly changing.
+    - **Three Levels of Cognitive Responses (to be addressed by UX designers)**:
+        - **Visceral**: Users’ gut reactions or first impressions.
+        - **Behavioral**: Users subconsciously evaluate how easily a design helps them achieve goals.
+        - **Reflective**: Users consciously judge performance and benefits (including value for money) after encountering the design.
+    - **Expressive Interfaces**: Use features like emojis, sounds, colors, shapes, icons, and virtual agents to create emotional connections and elicit feelings of ease, comfort, and happiness.
+    - **Affective Computing**: Concerned with how computers recognize and express emotions like humans, and how affect influences personal health. **Emotional AI** analyzes facial expressions and voice to infer emotions and forecast behaviors.
+    - **Persuasive Technologies**: Techniques to draw user attention to information in an attempt to change behavior or thoughts (e.g., pop-up ads, warnings, reminders, personalized messages).
+
+### **6. Interfaces Focused in User Experience Design**
+- **User Interface (UI) in UXD**: The point where human users interact with computing systems. A central concern is **interoperability across different devices** with varying form factors.
+- **Interface Types**: A diverse range focusing on function, interaction style, input/output device, or platform.
+- **Key Interface Types**:
+    - **Command Line Interfaces**: Largely superseded by graphical interfaces.
+    - **Graphical User Interfaces (GUIs)**: Enabled visual design, use of color, typography, imagery. Adapted for mobile and touchscreens (swiping, touching).
+    - **WIMP Interfaces (Windows, Icons, Menus, Pointers)**: The default style for PCs and desktops.
+        - **Windows**: Independent screen areas that can contain text/graphics, be moved/resized, overlap/tile. Include scrollbars and title bars.
+        - **Widgets**: Elements of the WIMP interface like buttons, toolbars, palettes, dialog boxes. They have appearance, interaction, and semantics.
+        - **Icons**: Small pictures representing objects or actions.
+        - **Pointers**: Critical for pointing and selecting (e.g., mouse, trackpad).
+        - **Point and Click Interfaces**: Used in multimedia, web browsers, hypertext, requiring minimal typing.
+        - **Menus**: Offer choices of operations. Can be pop-up, pull-down, drop-down, fall-down, or contextual (pop-up, pie menus). Can have cascading menus or keyboard accelerators.
+            - **Advantages**: Effective for users with little training, no need to remember commands.
+            - **Disadvantages**: May require screen switching, issues with response time/display rate, ineffective item sequencing.
+        - **New Style of WIMP**: Simultaneous windows, Ribbons replacing toolbars, pointers coexisting with touch, file management evolving, and gestures becoming Post-WIMP interactions.
+    - **Multimedia Interfaces**: Combine different media (graphics, text, video, sound, animation) with links, allowing rapid access to multiple information representations.
+    - **Virtual Reality (VR) and Augmented Reality (AR)**:
+        - **VR**: Creates a simulated environment, immersing the user inside an experience to interact with 3D worlds.
+        - **AR**: Superimposes three-dimensional virtual images over real objects, typically using head-mounted or handheld displays.
+    - **Web Interfaces**: Allow user interaction with content/software on a remote server via a web browser.
+    - **Mobile Interfaces**: Pervasive on devices like phones, fitness trackers, and watches, often customized for real-time data access in various work settings.
+    - **Embedded Interfaces**: Found in appliances (e.g., washing machines, microwaves), often with LED displays and increasing internet connectivity for specific, short-term tasks.
+    - **Voice-Based Interfaces (VUI)**: Involve spoken language interaction with apps to inquire about information or issue commands.
+    - **Pen-Based Interfaces**: Enable writing, drawing, selecting, and moving objects on interfaces using light pens or styluses.
+    - **Touch Interfaces**: Detect user touch on displays. Single touchscreens are common, while multitouch surfaces support a wider range of dynamic actions like swiping, flicking, pinching, and tapping.
+    - **Gesture-Based Interfaces**: Capture and recognize user arm/hand movements using cameras and machine learning for input.
+    - **Haptic Interfaces**: Provide tactile feedback through vibration and forces applied via embedded actuators in devices or clothing.
+    - **Multimodal Interfaces**: Enhance information experience by combining different modalities (e.g., touch, sight, sound, speech) to support flexible, efficient, and expressive HCI.
+    - **Shareable and Tangible Interfaces**: Designed for multiple people, allowing simultaneous input by collocated groups (e.g., large wall displays, interactive tabletops).
+    - **Wearable Interfaces**: Worn on the body (e.g., smartwatches, fitness trackers, smart glasses), often with head/eye cameras for recording and digital info access.
+    - **Robots and Drones**:
+        - **Robots**: Used in manufacturing, hazardous locations, search/rescue. Controlled via console interfaces, joysticks, keyboards, cameras, and sensor-based interactions.
+        - **Drones**: Remotely controlled unmanned aircraft capable of streaming photos.
+    - **Brain-Computer Interfaces (BCI)**: Provide a communication pathway between a person's brain waves and an external device by detecting electric signals from neurons via electrodes on the scalp.
+    - **Smart Interfaces**: Combinations of multiple interfaces (e.g., smartphone, smart home) that are intelligent, internet-connected, automated, and context-aware, learning user behavior via AI.
+    - **Natural Interfaces (NUI)**: Designed for people to interact with computers similarly to how they interact with the physical world (e.g., speaking, stroking surfaces, gesturing, smiling).
+
+### **7. Data Gathering**
+- **Purpose**: Central to discovering requirements and evaluation. It collects sufficient, accurate, and relevant data for design.
+- **Discovering Requirements**:
+    - Involves exploring the problem space and defining what to develop.
+    - Focuses on understanding target users, their capabilities, how a product supports daily lives, current tasks/goals/contexts, and performance constraints.
+    - Captured via **user stories**: "As a , I want so that ".
+    - **Types of Requirements**:
+        - **Functional Requirements**: What the product will _do_.
+        - **Data Requirements**: Type, volatility, size, persistence, accuracy, and value of data.
+        - **Environment Requirements**: Circumstances of product operation (physical, social, organizational, technical).
+        - **User Characteristics**: Key attributes of the intended user group (abilities, skills, education, preferences, disabilities, novice/expert levels).
+        - **Usability Goals and User Experience Goals**: Define desired qualities like effectiveness, efficiency, safety, learnability, memorability, utility, comfort, aesthetics, and enjoyment.
+- **Issues in Data Gathering (Five Key Issues for Success)**:
+    - **Goal Setting**: Important to set specific goals for the study.
+    - **Identifying Participants (Sampling)**: Choosing people from the target population (study population). Can use **probability sampling** (random, systematic, stratified, cluster) or **non-probability sampling** (convenience, snowball, purposive).
+    - **Relationship between Data Collector and Provider**: Achieved through informed consent (e.g., consent form).
+    - **Triangulation**: Drawing data from different sources, times, places, or people, or using different techniques/theories. This includes investigator triangulation (different researchers) and methodological triangulation (different gathering techniques).
+    - **Pilot Studies**: Small trial runs to check the viability of proposed methods, equipment, instructions, and questions.
+- **Recording Data**: Approaches depend on study goals, data use, context, time, resources, and sensitivity. Common methods: taking notes, photographs, video, or audio.
+- **Main Techniques for Data Gathering**:
+    - **Interviews**: "Conversation with a purpose".
+        - **Unstructured/Open-ended**: Exploratory, like conversations.
+        - **Structured**: Predetermined, standardized questions, often closed.
+        - **Semi-structured**: Combines features of both, with a basic script and probes.
+        - **Focus Groups**: Group interviews to identify conflicts or raise diverse issues.
+    - **Questionnaires**: Well-established for demographic data and opinions. Can have closed or open-ended questions, and done online.
+    - **Observations**: Users are observed directly or indirectly to understand their context, tasks, and goals.
+        - **Degree of Participation**: Passive observer (outsider) vs. Participant observer (insider).
+        - **In the Field**: Use frameworks (Person, Place, Thing; or Space, Actors, Activities, etc.).
+        - **Ethnography**: Traditionally for social sciences, involves participant observation to understand people's actions and interactions in context.
+        - **In Controlled Environments**: Often in usability labs, more formal, use scripts. The **think-aloud technique** asks users to verbalize thoughts.
+        - **Indirect Observation**: When direct observation is not feasible. Includes **Diaries** (participants log activities) and **Interaction Logs, Web Analytics, Data Scraping** (software records user activity).
+- **Engaging Users with Probes**: Designed to prompt user interaction to learn about users and their contexts.
+    - **Cultural Probes**: Variation of diary studies, using items like postcards, maps, disposable cameras to gather data.
+    - **Design Probes**: Objects whose form relates to a specific question/context.
+    - **Technology Probes**: Toolkits or devices with sensors to monitor activity.
+    - **Provocative Probes**: Challenge existing norms to provoke discussion.
+- **Contextual Inquiry**: Core of Contextual Design, involving **one-on-one field interviews** where the user is the "Master" (does the work) and the interviewer is the "apprentice" (learns).
+- **Brainstorming**: Generic technique to generate, refine, and develop ideas, widely used for alternative designs. Suggestions include diverse participants, not banning silly ideas, using catalysts, keeping records, sharpening focus, and warm-up exercises.
+- **Augmenting Requirements**: User stories can be augmented with prototypes, working systems, screenshots, and diagrams.
+    - **Personas**: **Rich descriptions of typical users** based on research, used to represent user types and help designers understand user needs, experiences, behaviors, and goals. They are considered a powerful design tool. Guidelines for creation include collecting extensive data, describing values, interests, and behavior patterns, and developing scenarios for their use.
+    - **Scenarios**: **Informal narrative descriptions** of human activities or tasks that explore contexts, needs, and requirements. They do not necessarily describe software use but help stakeholders participate fully by using user vocabulary. Scenarios can be textual, audio, video, or animations.
+
+### **8. Data Analysis and Interpretation**
+- **Introduction**: Influenced by goals and gathered data. Can be **qualitative, quantitative, or mixed**. Begins with initial reactions, pattern identification, and data cleansing (looking for anomalies).
+    - **Common Mistakes**: Investigator bias, making claims beyond data support.
+- **Quantitative vs. Qualitative Data**:
+    - **Quantitative data**: In the form of **numbers** or easily translated into numbers (e.g., age, number of software apps). Represented by graphs/charts.
+    - **Qualitative data**: In the form of **words and images** (descriptions, quotes, photos). Focuses on the **nature of something**, represented by themes, patterns, and stories.
+    - **Important**: There's a false assumption that certain data gathering methods only produce one type of data. **Qualitative data can be converted into numbers** (e.g., counting words), though its meaningfulness must be considered.
+- **Qualitative Analysis Approaches**:
+    - **Identifying Themes (Inductive Analysis)**: Gaining an overall impression, looking for interesting features/repeated observations. Then systematically looking for themes and checking consistency. **Thematic analysis** is an umbrella term to identify, analyze, and report patterns. **Affinity diagrams** ("Space Saturate and Group") are used to gather large amounts of data and organize them into groups or themes based on relationships.
+    - **Categorizing Data (Deductive Analysis)**: Transcribing recorded data and classifying it into pre-defined themes or categories to answer study goals.
+    - **Analyzing Critical Incidents**: Identifying specific significant incidents in the data for detailed analysis, using the rest of the data as context.
+- **Analytic Frameworks**: Help analyze and interpret qualitative data.
+    - **Conversation Analysis (CA)**: Examines the semantics of conversation in fine detail, focusing on structure (e.g., turn-taking).
+    - **Discourse Analysis**: Focuses on dialogue, the meaning of what is said, and how words convey meaning, strongly interpretive and context-dependent.
+    - **Content Analysis**: Classifying data into themes/categories and studying the frequency of their occurrences across various media (text, video, images, sound).
+    - **Interaction Analysis**: Inductive process investigating human interactions with each other and objects, based on video recordings, deriving generalizations from naturally occurring activities.
+    - **Grounded Theory**: Develops theory from systematic analysis and interpretation of empirical data, an inductive approach that involves alternating data collection and data analysis through "coding" (open, axial, selective).
+    - **Systems-Based Frameworks**: For understanding whole socio-technical systems at scale, such as socio-technical systems theory and Distributed Cognition of Teamwork.
+- **Interpreting and Presenting Findings**:
+    - **Three Presentation Styles**:
+        - **Using Structured Notations**: Such as Unified Modeling Language (UML) or work models. Provide well-defined symbols and enforce precision, but may de-emphasize other aspects or be unfamiliar to the audience. Often combined with stories.
+        - **Using Stories (Narratives or Scenarios)**: An easy and intuitive way to communicate ideas and experiences. Stories can be told by participants, constructed from observations, or built from snippets of data.
+        - **Summarizing**: Usually a combination of styles, using graphical representations, demographics, data excerpts, workflows, or quotations to expand on a narrative.
+
+### **9. Designing Prototypes and Construction**
+- **Placement in Design Process**: Falls within the **Develop phase of the double diamond of design**, where solutions are created, prototyped, tested, and iterated.
+- **Aspects of Design**:
+    - **Conceptual Design**: Develops an **outline of what people can do with a product and the concepts needed to understand how to interact with it**. It emerges from understanding the problem space and functional requirements. Key components include metaphors/analogies, concepts, their relationships, and mappings to UX.
+    - **Concrete Design**: Specifies the **details of the design** such as layout and navigation.
+- **Prototyping**:
+    - Allows designers to **communicate ideas** and users to **try them out**, supporting designers in **choosing between alternatives** and clarifying requirements.
+    - Often quoted: "Users can’t tell you what they want, but when they see something and get to use it, they soon know what they don’t want".
+    - **Forms of Prototypes**: Can range from a **paper-based storyboard to a complex piece of software** or a 3D mockup.
+    - **Fidelity of Prototypes**: Refers to how closely a prototype conveys the look-and-feel and functionality of the final product.
+        - **Low-Fidelity Prototyping**:
+            - **Does not look much like the final product** and offers limited functionality (e.g., paper and cardboard mockups).
+            - **Advantages**: Simple, cheap, quick to produce, allows quick revisions, evaluates multiple design concepts, useful for communication, proof of concept.
+            - **Disadvantages**: Limited error checking, poor detailed specification, facilitator-driven, limited for usability tests, navigational/flow limitations.
+            - **Examples**:
+                - **Storyboards**: Series of sketches showing user task progression, often used with scenarios.
+                - **Card-based prototypes**: Using index cards to explore interaction elements like dialog exchanges. Can form **design maps** (customer journey/experience maps) with personas.
+                - **Wizard of Oz**: A human operator simulates software responses to a user interacting with a software prototype, useful for analyzing gestural behavior or human-robot interaction.
+        - **High-Fidelity Prototyping**:
+            - **Closely resembles the final design** in detail and functionality (e.g., software developed in Python).
+            - **Advantages**: (Almost) complete functionality, fully interactive, user-driven, clear navigation, serves as a "living" specification, marketing tool.
+            - **Disadvantages**: Resource-intensive, time-consuming to modify, inefficient for proof-of-concept, can be mistaken for the final product leading to inappropriate expectations.
+    - **Development Philosophies**:
+        - **Evolutionary Prototyping**: A prototype evolves directly into the final product with rigorous testing at each stage.
+        - **Throwaway Prototyping**: Prototypes are steppingstones, discarded after use, and the final product is built from scratch.
+    - **Tools for Prototyping**: Adobe XD, InVision, Sketch, Figma. They support basic user testing, design wireframes, simulate interactions, collaboration, and even code generation.
+- **Involving Users in Design**:
+    - **Participatory Design**: All stakeholders (employees, customers, end-users, designers) are actively involved, emphasizing mutual learning and understanding the user's point of view.
+    - **Design Thinking**: A non-linear, iterative process with five stages to understand users, challenge assumptions, redefine problems, and create innovative solutions.
+        1. **Empathize**: Research users' needs.
+        2. **Define**: State users' needs and problems.
+        3. **Ideate**: Challenge assumptions and create ideas.
+        4. **Prototype**: Start to create solutions.
+        5. **Test**: Try solutions out.
+
+### **10. Evaluating Designs**
+- **Importance of Evaluation**:
+    - Integral to the design process and the **last phase of the double diamond**.
+    - Involves collecting and analyzing data about users' experiences to **improve the design artifact**.
+    - Focuses on both the **usability of the system and the users' experiences**.
+    - **Well-designed products are easy to sell**, and improving customer journeys can significantly increase satisfaction, revenue, and lower costs.
+- **What to Evaluate**: Ranges from low-tech prototypes to complete systems, depending on the product type.
+- **Where to Evaluate**:
+    - **Controlled settings (Lab environment)**: For testing specific characteristics like web accessibility. Experiments and user tests control user activities to test hypotheses.
+    - **Natural settings ("in-the-wild" studies)**: For evaluating user experience aspects in real-world use with little control over user activities. Data collected via notes, audio/video, or diaries.
+    - **Remote studies**: For online behavior (e.g., social networking).
+- **When to Evaluate**:
+    - **Formative evaluations**: Conducted **during design** to check if the product meets user needs.
+    - **Summative evaluations**: Carried out to **assess the success of a finished product**.
+- **Methods of Evaluation**:
+    - **Usability Testing**: Traditionally in controlled labs, emphasizes how usable a product is by its intended users for designed tasks, and user satisfaction.
+    - **Crowdsourcing**: Uses the internet to gain quick feedback from thousands of participants.
+    - **Evaluating without Users**: Conducted when a researcher has to imagine or model how an interface might be used. Data collected via heuristics, remote data, or predictive models. Popular methods include:
+        - **Heuristic Evaluation**: Evaluates user-interface elements against a set of usability principles known as **heuristics** (e.g., Jakob Nielsen's 10 Usability Heuristics: Visibility of System Status, Match Between System and the Real World, User Control and Freedom, Consistency and Standards, Error Prevention, Recognition Rather Than Recall, Flexibility and Efficiency of Use, Aesthetic and Minimalist Design, Help Users Recognize, Diagnose, and Recover from Errors, Help and Documentation).
+        - **Walk-Throughs**: Predict user problems without user testing by stepping through a task and noting issues.
+            - **Cognitive Walk-Throughs**: Simulate user problem-solving at each step, focusing on ease of learning through exploration. Involve asking four key questions about user intention, action visibility, association, and progress.
+            - **Pluralistic Walk-Throughs**: Users, developers, and researchers work together through a task scenario, each assuming a typical user role and documenting actions without conferring.
+        - **Analytics and A/B Testing**:
+            - **Interaction Logs / Web Analytics**: Software records user actions (key presses, mouse movements, time spent on pages) to analyze activity on websites (e.g., Google Analytics).
+            - **A/B Testing**: A large-scale controlled experiment comparing two different designs (control vs. experimental) with hundreds or thousands of participants to evaluate effectiveness (e.g., impact on download clicks).
