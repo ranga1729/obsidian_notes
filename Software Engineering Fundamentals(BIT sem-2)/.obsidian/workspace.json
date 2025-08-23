@@ -11,10 +11,14 @@
             "id": "4aa8fa1181506a3a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231201115713 1.png"
-              }
+                "file": "4. Requirement Engineering/4.4 Requirement Specification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.4 Requirement Specification"
             }
           }
         ]
@@ -36,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231201115713 1.png",
+                "file": "4. Requirement Engineering/4.4 Requirement Specification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 4.4 Requirement Specification"
             }
           },
           {
@@ -100,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231201115713 1.png",
+                "file": "4. Requirement Engineering/4.4 Requirement Specification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 4.4 Requirement Specification"
             }
           },
           {
@@ -113,8 +128,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -123,8 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231201115713 1.png"
-              }
+                "file": "4. Requirement Engineering/4.4 Requirement Specification.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 4.4 Requirement Specification"
             }
           }
         ]
@@ -141,33 +165,37 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "4aa8fa1181506a3a",
   "lastOpenFiles": [
-    "2024-09-10.md",
-    "2024-09-11.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "2. Software Process/2.7 Coping with Changes.md",
+    "4. Requirement Engineering/4.3 Requirement Elicitation.md",
+    "4. Requirement Engineering/4.2 Requirement Engineering Process.md",
+    "4. Requirement Engineering/4.1 Functional & Non-functional Requirements.md",
+    "4. Requirement Engineering/4.0 Intro.md",
+    "3. Agile Software Development/3.6 Scaling Agile Methods.md",
+    "3. Agile Software Development/3.5 SCRUM.md",
+    "3. Agile Software Development/3.4 Agile Project Management.md",
+    "3. Agile Software Development/3.3 eXtreme Programming(XP).md",
     "3. Agile Software Development/3.2 Agile Methods.md",
     "3. Agile Software Development/3.1 Intro.md",
     "2. Software Process/2.8 Process Improvement.md",
+    "2. Software Process/2.7 Coping with Changes.md",
     "2. Software Process/2.6 Process Activites.md",
     "2. Software Process/2.5 Reuse-Oriented Software Engineering(Integration and Configuration).md",
     "2. Software Process/2.4 Incremental Development.md",
     "2. Software Process/2.3 Waterfall Model.md",
     "2. Software Process/2.2 Software Process Models.md",
+    "2. Software Process/2.1 Software Process.md",
     "1. Introduction to Software Engineering/1.2 Software Engineering Ethics.md",
     "1. Introduction to Software Engineering/1.1 Professional Software Development.md",
-    "2. Software Process/2.1 Software Process.md",
-    "3. Agile Software Development/3.6 Scaling Agile Methods.md",
-    "3. Agile Software Development/3.5 SCRUM.md",
-    "3. Agile Software Development/3.4 Agile Project Management.md",
-    "3. Agile Software Development/3.3 eXtreme Programming(XP).md",
-    "4. Requirement Engineering/4.1 Functional & Non-functional Requirements.md",
+    "1. Introduction to Software Engineering/1.0 Intro.md",
+    "Pasted image 20231201115713 1.png",
+    "2024-09-10.md",
+    "2024-09-11.md",
+    "Untitled 1.md",
+    "Untitled.md",
     "4. Requirement Engineering/4.4 Requirement Specification.md",
     "Pasted image 20240630195909.png",
     "Pasted image 20240630195820.png",
@@ -178,12 +206,7 @@
     "Pasted image 20240630191137.png",
     "Pasted image 20240630183722.png",
     "Pasted image 20240630183541.png",
-    "Pasted image 20240630141128.png",
-    "4. Requirement Engineering/4.3 Requirement Elicitation.md",
-    "4. Requirement Engineering/4.2 Requirement Engineering Process.md",
-    "4. Requirement Engineering/4.0 Intro.md",
     "4. Requirement Engineering",
-    "1. Introduction to Software Engineering/1.0 Intro.md",
     "desktop.ini",
     "3. Agile Software Development",
     "2. Software Process",

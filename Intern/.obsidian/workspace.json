@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DevOps/1. Docker/1.1 Intro to Containerization.md",
+                "file": "LeetCode/1. Two Sums.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.1 Intro to Containerization"
+              "title": "1. Two Sums"
             }
           }
         ]
@@ -165,22 +165,28 @@
   },
   "active": "70e65eb27e59b66c",
   "lastOpenFiles": [
+    "Pasted image 20250715170522.png",
+    "Pasted image 20250715170506.png",
+    "Pasted image 20250715170444.png",
+    "Pasted image 20250715170413.png",
+    "Next JS/1. Overview.md",
+    "LeetCode/1. Two Sums.md",
+    "LeetCode",
+    "Next JS/2. File based routing.md",
+    "Pasted image 20250707153904.png",
+    "Pasted image 20250707153812.png",
+    "DevOps/1. Docker/1.1 Intro to Containerization.md",
+    "Next JS",
     "DevOps/2. Kubernetes/1. Why Kubernetes.md",
     "DevOps/1. Docker/4. Important docker commands.md",
     "DevOps/1. Docker/3. Port mapping.md",
     "DevOps/1. Docker/2. Docker Images and Containers.md",
-    "DevOps/1. Docker/1.1 Intro to Containerization.md",
     "DevOps/0. CI - CD.md",
     "Pasted image 20250430101452.png",
     "Pasted image 20250430090414.png",
     "Pasted image 20250425213706.png",
     "Pasted image 20250425213210.png",
     "Pasted image 20250425213108.png",
-    "Pasted image 20250425212751.png",
-    "Pasted image 20250425212621.png",
-    "Pasted image 20250425212514.png",
-    "Pasted image 20250425212300.png",
-    "Pasted image 20250425211848.png",
     "RTL.md",
     "6. Linux and DevOps/2. Linux File system hierarchy.md",
     "DevOps/1. Docker",
@@ -201,13 +207,9 @@
     "Interview Questions 2.md",
     "Interview Questions 1.md",
     "EasyBakcup.md",
-    "5. Security/5.1 Authentication and Authorization with JWTs.md",
     "5. Security",
-    "4. Core React Concepts/4.3 React Hooks.md",
-    "4. Core React Concepts/4.2 Component Life Cycle.md",
     "4. Core React Concepts",
     "3. EF Core",
-    "2. ASP.NET Core Basics",
-    "1. C-sharp Fundamentals"
+    "2. ASP.NET Core Basics"
   ]
 }

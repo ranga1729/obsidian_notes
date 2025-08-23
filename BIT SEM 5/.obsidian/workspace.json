@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "a2878d27d17782a2",
+    "id": "b56dbf76af575fcd",
     "type": "split",
     "children": [
       {
-        "id": "2d995947cc2333e9",
+        "id": "d8c3a998a6e1b57c",
         "type": "tabs",
         "children": [
           {
-            "id": "c37e61a64488f5ac",
+            "id": "db1eb89ac6fac9ea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical Pitch.md",
+                "file": "Professional Practices/1.2 The Computing Profession.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical Pitch"
-            }
-          },
-          {
-            "id": "108ab2c6ac54fcb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pitch 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "pitch 1"
+              "title": "1.2 The Computing Profession"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "2fda824c2c2de9b1",
+    "id": "ec89477dc9bfe879",
     "type": "split",
     "children": [
       {
-        "id": "83f2a86efce2ee06",
+        "id": "961f9e245979e740",
         "type": "tabs",
         "children": [
           {
-            "id": "924f7184a83d3627",
+            "id": "c8abf8d979b40489",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "d4edf500cc5a4650",
+            "id": "991a38ca433b03e3",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "f94d94f614cb9dc9",
+            "id": "d2c90f387f695e56",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,22 +78,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 219.5,
+    "collapsed": true
   },
   "right": {
-    "id": "d4b4311d23f8b939",
+    "id": "062518f78be6a367",
     "type": "split",
     "children": [
       {
-        "id": "97dafb351cc7b610",
+        "id": "367cafe7abc2497e",
         "type": "tabs",
         "children": [
           {
-            "id": "498cc8012f9db388",
+            "id": "0ed1adb551653c03",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Info Sec/1. Info Sec Concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,11 +105,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 1. Info Sec Concepts"
             }
           },
           {
-            "id": "37e874e2d5298fa6",
+            "id": "e57cf050aa546c3b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -135,7 +122,7 @@
             }
           },
           {
-            "id": "4d80fa9276f5d0eb",
+            "id": "22740d3b5d2784b3",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -150,7 +137,7 @@
             }
           },
           {
-            "id": "81d71386a17ba934",
+            "id": "82eda1f58f4296bf",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -172,59 +159,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "108ab2c6ac54fcb5",
+  "active": "db1eb89ac6fac9ea",
   "lastOpenFiles": [
-    "pitch 1.md",
-    "Technical Pitch.md",
-    "UI UX Design/3.2 Cognitive Frameworks.md",
-    "Pasted image 20250602124040.png",
-    "Pasted image 20250602124447.png",
-    "Pasted image 20250602123656.png",
-    "Pasted image 20250602123709.png",
-    "Pasted image 20250530145208.png",
-    "Pasted image 20250529142948.png",
-    "Pasted image 20250517140838.png",
-    "Pasted image 20250517130738.png",
-    "Pasted image 20250516193015.png",
-    "Pasted image 20250515175325.png",
-    "IT Project Management/1.4 The Role of the Project Manager.md",
-    "IT Project Management/3. Project Management Process Groups.md",
-    "IT Project Management/1.2 What is Project Management.md",
-    "Untitled 1.md",
-    "EAD/2. example.md",
-    "EAD/1. note 1.md",
-    "EAD/0. basic.md",
-    "EAD/4. differences.md",
-    "EAD/3. stateless vs stateful vs session.md",
-    "Network/7.1 Firewalls.md",
-    "EAD",
-    "Excalidraw/Drawing 2025-03-26 12.52.12.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-17 16.21.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-10 12.15.16.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-28 16.10.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 18.29.31.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 15.19.19.excalidraw.md",
-    "Excalidraw/Drawing 2025-04-03 14.51.18.excalidraw.md",
-    "Excalidraw/Drawing 2025-03-25 19.21.27.excalidraw.md",
-    "Excalidraw/Drawing 2025-06-18 09.43.22.excalidraw.md",
-    "Network/7.2 VPN.md",
-    "SDN - Summary.md",
-    "Network/8. Software Defined Networks.md",
-    "Network/7.3 Network Management Requirements.md",
-    "Network",
-    "Excalidraw",
-    "Agile/Untitled",
-    "UI UX Design",
-    "IT Project Management",
-    "Agile"
+    "Pasted image 20250823132439.png",
+    "Pasted image 20250823132314.png",
+    "Professional Practices/1.1 Law and government.md",
+    "Professional Practices/1.2 The Computing Profession.md",
+    "Pasted image 20250817005148.png",
+    "slide-1 1.jpg",
+    "slide-1.jpg",
+    "Info Sec/1. Info Sec Concepts.md",
+    "Management and Entrepreneurship",
+    "Sys and Network Administration",
+    "Info Sec",
+    "Professional Practices"
   ]
 }
