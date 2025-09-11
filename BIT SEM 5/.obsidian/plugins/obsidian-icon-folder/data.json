@@ -6,9 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiChartNetwork",
+      "LiNewspaper",
+      "LiGlobeLock",
       "LiBriefcaseBusiness",
-      "LiLaptop",
-      "LiUser"
+      "LiLaptop"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -34,5 +36,8 @@
   },
   "Professional Practices": "LiUser",
   "Sys and Network Administration": "LiLaptop",
-  "Management and Entrepreneurship": "LiBriefcaseBusiness"
+  "Management and Entrepreneurship": "LiBriefcaseBusiness",
+  "Cyber Sec": "LiGlobeLock",
+  "Article": "LiNewspaper",
+  "AI": "LiChartNetwork"
 }
