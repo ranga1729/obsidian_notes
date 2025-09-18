@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "82ef63e01ccad6cc",
+        "id": "e850d2d735c5a4b5",
         "type": "tabs",
         "children": [
           {
-            "id": "94e50376b1a4d3c4",
+            "id": "9a4e0e5444fdd599",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/WPA2 Handshake.md",
+                "file": "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WPA2 Handshake"
+              "title": "3.3.4 Access Control Lists(ACLs)"
             }
           },
           {
-            "id": "e91c332293f57e81",
+            "id": "dd4e8398fba2ae9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI/4. Linear Regression Model.md",
+                "file": "Sys and Network Administration/3. Host Management/3.3 File System.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Linear Regression Model"
+              "title": "3.3 File System"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#list",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Info Sec/1. Info Sec Concepts.md",
+                "file": "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 1. Info Sec Concepts"
+              "title": "Backlinks for 3.3.3 File Attributes"
             }
           },
           {
@@ -180,53 +179,52 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "e91c332293f57e81",
+  "active": "9a4e0e5444fdd599",
   "lastOpenFiles": [
-    "AI/3. Unsupervised Learning.md",
+    "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
+    "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
+    "Sys and Network Administration/3. Host Management/3.3 File System.md",
+    "Pasted image 20250917164618.png",
+    "Pasted image 20250917154438.png",
+    "Pasted image 20250917153116.png",
+    "Pasted image 20250917144948.png",
+    "Sys and Network Administration/3. Host Management/3.3.2 File Types.md",
+    "Pasted image 20250917135544.png",
+    "Pasted image 20250917134808.png",
+    "Pasted image 20250917133722.png",
+    "Pasted image 20250917133407.png",
+    "Pasted image 20250917133200.png",
+    "Pasted image 20250917123040.png",
+    "Article/Linux commands.md",
+    "Sys and Network Administration/3. Host Management/3.2.1 Components of a Process Control.md",
+    "Cyber Sec/Linux Basics/3. Text Manipulation.md",
+    "Cyber Sec/Linux Basics/2. Basic Commands.md",
+    "Sys and Network Administration/2. Installing an OS.md",
+    "AI/4. Linear Regression Model.md",
+    "AI/5. Cost function formula.md",
     "Article/WPA2 Handshake.md",
+    "AI/3. Unsupervised Learning.md",
     "AI/2. Supervised Learning.md",
     "Cyber Sec/WiFi/0. Fundamentals.md",
     "Cyber Sec/WiFi/1. Deep Dive into WPA2 4-way handshake and  Wi-Fi Password Cracking.md",
     "Cyber Sec/WiFi/1. WEP Cracking.md",
     "Cyber Sec/WiFi/2. Packet sniffing & Reconnaissance.md",
-    "AI/4. Linear Regression Model.md",
-    "AI/5. Cost function formula.md",
     "Kavindra/1. test.md",
     "Kavindra/Pseudo code explanation.md",
     "Kavindra/Random forest inner working.md",
-    "Pasted image 20250914103546.png",
-    "Pasted image 20250914102228.png",
     "Cyber Sec/WiFi/5. De-Auth Attacks.md",
-    "Pasted image 20250914093433.png",
     "Excalidraw/Drawing 2025-09-14 09.28.56.excalidraw.md",
-    "Pasted image 20250912184739.png",
-    "Pasted image 20250912184642.png",
-    "Pasted image 20250912184540.png",
-    "Pasted image 20250912150338.png",
     "Cyber Sec/WiFi/4. Evil Twin commands.md",
     "Cyber Sec/WiFi/3. Evil Twin Attacks.md",
-    "Pasted image 20250912092656.png",
     "Cyber Sec/Linux Basics/1. Linux File System.md",
-    "Cyber Sec/Linux Basics/2. Basic Commands.md",
-    "Sys and Network Administration/3. Host Management/3.2 File System.md",
-    "Sys and Network Administration/3. Host Management/3.2.1 Components of a Process Control.md",
-    "Pasted image 20250911145106.png",
-    "Pasted image 20250911143029.png",
     "Kavindra/1. test.pdf",
     "Kavindra",
-    "AI/1. What is Machine Learning ?.md",
     "AI",
-    "Cyber Sec/Bluetooth/0. Fundamentals.md",
     "Cyber Sec/Linux Basics",
-    "Cyber Sec/Untitled.md",
-    "Article/MD5 Hashing Algorithm.md",
-    "Excalidraw/Drawing 2025-09-07 16.48.08.excalidraw.md",
     "Excalidraw",
-    "Sys and Network Administration/3. Host Management/3.1.4 Modern Access Control.md",
     "Sys and Network Administration/3. Host Management",
     "Sys and Network Administration",
     "Management and Entrepreneurship",
