@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
+                "file": "Article/ML Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.3.4 Access Control Lists(ACLs)"
-            }
-          },
-          {
-            "id": "dd4e8398fba2ae9b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sys and Network Administration/3. Host Management/3.3 File System.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3.3 File System"
+              "title": "ML Basics"
             }
           }
         ]
@@ -173,6 +159,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -184,9 +171,16 @@
   },
   "active": "9a4e0e5444fdd599",
   "lastOpenFiles": [
-    "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
-    "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
+    "Sys and Network Administration/3. Host Management/3.5.1 The passwd file.md",
+    "Article/ML Basics.md",
+    "Sys and Network Administration/3. Host Management/3.4.3 Software Localization and configuration.md",
+    "Sys and Network Administration/3. Host Management/3.4.2 High level linux package managers.md",
+    "Sys and Network Administration/3. Host Management/3.4.1 Managing packages and Linux Package manager systems.md",
     "Sys and Network Administration/3. Host Management/3.3 File System.md",
+    "Pasted image 20250918130003.png",
+    "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
+    "Pasted image 20250918111901.png",
+    "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
     "Pasted image 20250917164618.png",
     "Pasted image 20250917154438.png",
     "Pasted image 20250917153116.png",
@@ -196,8 +190,6 @@
     "Pasted image 20250917134808.png",
     "Pasted image 20250917133722.png",
     "Pasted image 20250917133407.png",
-    "Pasted image 20250917133200.png",
-    "Pasted image 20250917123040.png",
     "Article/Linux commands.md",
     "Sys and Network Administration/3. Host Management/3.2.1 Components of a Process Control.md",
     "Cyber Sec/Linux Basics/3. Text Manipulation.md",
@@ -215,11 +207,6 @@
     "Kavindra/1. test.md",
     "Kavindra/Pseudo code explanation.md",
     "Kavindra/Random forest inner working.md",
-    "Cyber Sec/WiFi/5. De-Auth Attacks.md",
-    "Excalidraw/Drawing 2025-09-14 09.28.56.excalidraw.md",
-    "Cyber Sec/WiFi/4. Evil Twin commands.md",
-    "Cyber Sec/WiFi/3. Evil Twin Attacks.md",
-    "Cyber Sec/Linux Basics/1. Linux File System.md",
     "Kavindra/1. test.pdf",
     "Kavindra",
     "AI",
