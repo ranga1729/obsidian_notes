@@ -4,21 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e850d2d735c5a4b5",
+        "id": "9008455fd858642a",
         "type": "tabs",
         "children": [
           {
-            "id": "9a4e0e5444fdd599",
+            "id": "82a70eaff879c46b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Article/ML Basics.md",
+                "file": "Sys and Network Administration/3. Host Management/3.5.8 Centralized Account Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ML Basics"
+              "title": "3.5.8 Centralized Account Management"
+            }
+          },
+          {
+            "id": "7f050f217d5cdafd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sys and Network Administration/3. Host Management/3.5.2 The shadow file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3.5.2 The shadow file"
             }
           }
         ]
@@ -53,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#list",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -159,63 +173,63 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "9a4e0e5444fdd599",
+  "active": "82a70eaff879c46b",
   "lastOpenFiles": [
+    "Pasted image 20251023164705.png",
+    "Pasted image 20251023164655.png",
+    "Sys and Network Administration/3. Host Management/3.5.7 PAM.md",
+    "Sys and Network Administration/3. Host Management/3.5.8 Centralized Account Management.md",
+    "Pasted image 20251023161805.png",
+    "Sys and Network Administration/3. Host Management/3.5.6 User Login Lockout.md",
+    "Pasted image 20251023155812.png",
+    "Sys and Network Administration/3. Host Management/3.5.5 Removing Users.md",
+    "Sys and Network Administration/3. Host Management/3.5.4 Adding Users.md",
+    "Sys and Network Administration/3. Host Management/3.5.3 The group file.md",
+    "Pasted image 20251023113111.png",
+    "Sys and Network Administration/3. Host Management/3.5.2 The shadow file.md",
+    "Pasted image 20251023111819.png",
+    "Pasted image 20251023105115.png",
     "Sys and Network Administration/3. Host Management/3.5.1 The passwd file.md",
-    "Article/ML Basics.md",
-    "Sys and Network Administration/3. Host Management/3.4.3 Software Localization and configuration.md",
-    "Sys and Network Administration/3. Host Management/3.4.2 High level linux package managers.md",
-    "Sys and Network Administration/3. Host Management/3.4.1 Managing packages and Linux Package manager systems.md",
-    "Sys and Network Administration/3. Host Management/3.3 File System.md",
-    "Pasted image 20250918130003.png",
-    "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
-    "Pasted image 20250918111901.png",
-    "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
-    "Pasted image 20250917164618.png",
-    "Pasted image 20250917154438.png",
-    "Pasted image 20250917153116.png",
-    "Pasted image 20250917144948.png",
-    "Sys and Network Administration/3. Host Management/3.3.2 File Types.md",
-    "Pasted image 20250917135544.png",
-    "Pasted image 20250917134808.png",
-    "Pasted image 20250917133722.png",
-    "Pasted image 20250917133407.png",
-    "Article/Linux commands.md",
-    "Sys and Network Administration/3. Host Management/3.2.1 Components of a Process Control.md",
-    "Cyber Sec/Linux Basics/3. Text Manipulation.md",
-    "Cyber Sec/Linux Basics/2. Basic Commands.md",
-    "Sys and Network Administration/2. Installing an OS.md",
-    "AI/4. Linear Regression Model.md",
-    "AI/5. Cost function formula.md",
+    "Cyber Sec/plan.md",
+    "Pasted image 20251023103803.png",
+    "Cyber Sec/Nmap/2. Basic Commands.md",
+    "Cyber Sec/Nmap/1. Intro.md",
+    "Article/cryptography.md",
     "Article/WPA2 Handshake.md",
-    "AI/3. Unsupervised Learning.md",
-    "AI/2. Supervised Learning.md",
-    "Cyber Sec/WiFi/0. Fundamentals.md",
-    "Cyber Sec/WiFi/1. Deep Dive into WPA2 4-way handshake and  Wi-Fi Password Cracking.md",
-    "Cyber Sec/WiFi/1. WEP Cracking.md",
-    "Cyber Sec/WiFi/2. Packet sniffing & Reconnaissance.md",
-    "Kavindra/1. test.md",
-    "Kavindra/Pseudo code explanation.md",
-    "Kavindra/Random forest inner working.md",
+    "Article/ML 2.md",
+    "Article/MD5 Hashing Algorithm.md",
+    "Article/Linux commands.md",
+    "Article/Introduction to Machine Learning 1.md",
+    "Cyber Sec/Nmap",
+    "Pasted image 20251019124249.png",
+    "Cyber Sec/WiFi/5. De-Auth Attacks.md",
+    "Excalidraw/Drawing 2025-10-09 09.28.21.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 13.56.08.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 14.04.52.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 13.46.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 13.56.07.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 12.43.01.excalidraw.md",
+    "Excalidraw/Drawing 2025-10-07 13.46.44.excalidraw.md",
+    "Pasted Image 20250924034539_069.png",
+    "Pasted Image 20250924034116_684.png",
+    "Untitled.base",
+    "Untitled",
     "Kavindra/1. test.pdf",
     "Kavindra",
     "AI",
     "Cyber Sec/Linux Basics",
     "Excalidraw",
     "Sys and Network Administration/3. Host Management",
-    "Sys and Network Administration",
-    "Management and Entrepreneurship",
-    "Cyber Sec/WiFi",
-    "Cyber Sec/Bluetooth"
+    "Sys and Network Administration"
   ]
 }
