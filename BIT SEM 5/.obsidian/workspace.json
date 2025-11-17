@@ -4,38 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "9008455fd858642a",
+        "id": "0264e369eb42e09f",
         "type": "tabs",
         "children": [
           {
-            "id": "82a70eaff879c46b",
+            "id": "00c5130c855603ac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sys and Network Administration/3. Host Management/3.5.8 Centralized Account Management.md",
+                "file": "Cyber Sec/Bluetooth/1. Jammers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5.8 Centralized Account Management"
+              "title": "1. Jammers"
             }
           },
           {
-            "id": "7f050f217d5cdafd",
+            "id": "329c0bc671201f1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sys and Network Administration/3. Host Management/3.5.2 The shadow file.md",
+                "file": "Sys and Network Administration/3. Host Management/3.6 Logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.5.2 The shadow file"
+              "title": "3.6 Logging"
+            }
+          },
+          {
+            "id": "95ce213b56d57416",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,25 +196,36 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "82a70eaff879c46b",
+  "active": "95ce213b56d57416",
   "lastOpenFiles": [
-    "Pasted image 20251023164705.png",
-    "Pasted image 20251023164655.png",
-    "Sys and Network Administration/3. Host Management/3.5.7 PAM.md",
+    "Cyber Sec/Bluetooth/0. Fundamentals.md",
+    "AI/Course",
+    "Cyber Sec/Bluetooth/1. Jammers.md",
+    "Sys and Network Administration/3. Host Management/3.6 Logging.md",
     "Sys and Network Administration/3. Host Management/3.5.8 Centralized Account Management.md",
-    "Pasted image 20251023161805.png",
+    "Management and Entrepreneurship/3. Organizing.md",
+    "Pasted image 20251106133619.png",
+    "Pasted image 20251106133305.png",
+    "Pasted image 20251106132851.png",
+    "Pasted image 20251106132039.png",
+    "Pasted image 20251106132013.png",
+    "Pasted image 20251106131945.png",
+    "Pasted image 20251106131926.png",
+    "Management and Entrepreneurship/2. Planning.md",
+    "Pasted image 20251106132135.png",
+    "Pasted image 20251106114414.png",
+    "Pasted image 20251106114154.png",
+    "Management and Entrepreneurship/1. Intro.md",
+    "Article/how airdrop works.md",
+    "Sys and Network Administration/3. Host Management/3.5.2 The shadow file.md",
+    "Article/Critical Path Management(CPM) vs Critical Chain Management(CCM).md",
+    "Sys and Network Administration/3. Host Management/3.5.7 PAM.md",
     "Sys and Network Administration/3. Host Management/3.5.6 User Login Lockout.md",
-    "Pasted image 20251023155812.png",
     "Sys and Network Administration/3. Host Management/3.5.5 Removing Users.md",
     "Sys and Network Administration/3. Host Management/3.5.4 Adding Users.md",
     "Sys and Network Administration/3. Host Management/3.5.3 The group file.md",
-    "Pasted image 20251023113111.png",
-    "Sys and Network Administration/3. Host Management/3.5.2 The shadow file.md",
-    "Pasted image 20251023111819.png",
-    "Pasted image 20251023105115.png",
     "Sys and Network Administration/3. Host Management/3.5.1 The passwd file.md",
     "Cyber Sec/plan.md",
-    "Pasted image 20251023103803.png",
     "Cyber Sec/Nmap/2. Basic Commands.md",
     "Cyber Sec/Nmap/1. Intro.md",
     "Article/cryptography.md",
@@ -211,17 +235,6 @@
     "Article/Linux commands.md",
     "Article/Introduction to Machine Learning 1.md",
     "Cyber Sec/Nmap",
-    "Pasted image 20251019124249.png",
-    "Cyber Sec/WiFi/5. De-Auth Attacks.md",
-    "Excalidraw/Drawing 2025-10-09 09.28.21.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 13.56.08.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 14.04.52.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 13.46.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 13.56.07.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 12.43.01.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 13.46.44.excalidraw.md",
-    "Pasted Image 20250924034539_069.png",
-    "Pasted Image 20250924034116_684.png",
     "Untitled.base",
     "Untitled",
     "Kavindra/1. test.pdf",
@@ -229,7 +242,6 @@
     "AI",
     "Cyber Sec/Linux Basics",
     "Excalidraw",
-    "Sys and Network Administration/3. Host Management",
-    "Sys and Network Administration"
+    "Sys and Network Administration/3. Host Management"
   ]
 }

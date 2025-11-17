@@ -1,5 +1,8 @@
 {
   "enabledCssSnippets": [
     "latex"
-  ]
+  ],
+  "theme": "obsidian",
+  "accentColor": "",
+  "showViewHeader": true
 }
