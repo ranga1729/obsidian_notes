@@ -8,47 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "00c5130c855603ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Sec/Bluetooth/1. Jammers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Jammers"
-            }
-          },
-          {
             "id": "329c0bc671201f1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sys and Network Administration/3. Host Management/3.6 Logging.md",
+                "file": "Article/how airdrop works.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.6 Logging"
-            }
-          },
-          {
-            "id": "95ce213b56d57416",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "how airdrop works"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 219.5,
-    "collapsed": true
+    "width": 219.5
   },
   "right": {
     "id": "062518f78be6a367",
@@ -196,12 +168,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "95ce213b56d57416",
+  "active": "329c0bc671201f1b",
   "lastOpenFiles": [
+    "Article/WPA2 Handshake.md",
+    "Sys and Network Administration/3. Host Management/3.6 Logging.md",
+    "Pasted image 20251117191745.png",
+    "Pasted image 20251117165758.png",
     "Cyber Sec/Bluetooth/0. Fundamentals.md",
     "AI/Course",
     "Cyber Sec/Bluetooth/1. Jammers.md",
-    "Sys and Network Administration/3. Host Management/3.6 Logging.md",
     "Sys and Network Administration/3. Host Management/3.5.8 Centralized Account Management.md",
     "Management and Entrepreneurship/3. Organizing.md",
     "Pasted image 20251106133619.png",
@@ -213,8 +188,6 @@
     "Pasted image 20251106131926.png",
     "Management and Entrepreneurship/2. Planning.md",
     "Pasted image 20251106132135.png",
-    "Pasted image 20251106114414.png",
-    "Pasted image 20251106114154.png",
     "Management and Entrepreneurship/1. Intro.md",
     "Article/how airdrop works.md",
     "Sys and Network Administration/3. Host Management/3.5.2 The shadow file.md",
@@ -229,7 +202,6 @@
     "Cyber Sec/Nmap/2. Basic Commands.md",
     "Cyber Sec/Nmap/1. Intro.md",
     "Article/cryptography.md",
-    "Article/WPA2 Handshake.md",
     "Article/ML 2.md",
     "Article/MD5 Hashing Algorithm.md",
     "Article/Linux commands.md",
