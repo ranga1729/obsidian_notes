@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "3e3ec43396d3ab90",
+    "type": "split",
+    "children": [
+      {
+        "id": "942436f3b098cfda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04befd4945e1e478",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-18 15.11.58.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-18 15.11.58.excalidraw"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2240d339df3cb59b",
+    "type": "split",
+    "children": [
+      {
+        "id": "496caaad5e7aa898",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4e4328910a694b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "faac7c83dd8269aa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9dc4c0bc1b4d2ce",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d021bc412f71deb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c36f0c5d925fcedd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c58d9073ad5de0d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Project Details.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Project Details"
+            }
+          },
+          {
+            "id": "485ad7c00a2ef7cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Project Details.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Project Details"
+            }
+          },
+          {
+            "id": "614d44fbe2993915",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a84f49b46085d96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "fc5136cc11aa72d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Project Details.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Project Details"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "04befd4945e1e478",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2026-02-19 13.38.28.excalidraw.md",
+    "Factory Design Pattern.md",
+    "2026-02-19.md",
+    "Excalidraw/Drawing 2026-02-18 15.11.58.excalidraw.md",
+    "Flutter/2. Flutter basics.md",
+    "Excalidraw/Drawing 2026-02-13 10.57.48.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-18 08.26.01.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-16 08.50.17.excalidraw.md",
+    "ESP32/Fundamentals.md",
+    "ESP32",
+    "Excalidraw/Drawing 2026-02-13 09.35.31.excalidraw.md",
+    "Excalidraw/Drawing 2026-02-13 09.46.38.excalidraw.md",
+    "Pasted Image 20260213094644_160.png",
+    "Excalidraw",
+    "Flutter/1. Dart Fundamentals.md",
+    "MyDrive IA leverage.md",
+    "Flutter",
+    "MyDrive model reusability.md",
+    "Project Details.md",
+    "2026-02-09.md",
+    "2026-02-10.md",
+    "Pasted image 20260209172711.png",
+    "Pasted image 20260209170211.png"
+  ]
+}

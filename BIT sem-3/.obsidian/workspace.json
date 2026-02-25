@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Management Systems/4. DDBS.md",
+                "file": "OOD/2. Object Oriented Software Development Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. DDBS"
+              "title": "2. Object Oriented Software Development Process"
             }
           }
         ]
@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ]
@@ -165,21 +165,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "c350ef28f85395e2",
   "lastOpenFiles": [
+    "Data Management Systems/4. DDBS.md",
+    "Data Management Systems/3.2 Indexing.md",
     "Data Management Systems/3.1 Disk Storage and Basic File Structures.md",
     "Data Management Systems/2. DB Constraints and Triggers.md",
+    "COMMs/Essentails.md",
+    "OOD/9. Behavioral State Machine.md",
     "Excalidraw/Drawing 2025-02-28 21.49.47.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 00.21.28.excalidraw.md",
     "Excalidraw/Drawing 2025-02-01 00.22.49.excalidraw.md",
@@ -199,14 +202,10 @@
     "d22a5711-2d48-495d-b86e-f31c37afcbf2_2000x1123.jpg",
     "Disk+Storage+Devices+Different+sector+organizations+on+disk.jpg",
     "Pasted image 20250201103511.png",
-    "OOD/9. Behavioral State Machine.md",
     "OOD/8. Behavioral modeling using Interaction diagrams.md",
     "OOD/3. Computer Aided System Engineering(CASE).md",
-    "Data Management Systems/3.2 Indexing.md",
-    "Data Management Systems/4. DDBS.md",
     "Web Application Development/Web Application Security/Secure Web Applications/2. HTTP Authentication - Storing Usernames and Passwords.md",
     "Web Application Development/Web Application Security/Secure Web Applications/4. Injections.md",
-    "COMMs/Essentails.md",
     "Web Application Development/Web Application Security/Secure Web Applications/15. Sanitizing Variables.md",
     "COMMs",
     "Web Application Development/Web Application Security/Secure Web Applications/14. Handling errors safely.md",

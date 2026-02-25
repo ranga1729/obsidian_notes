@@ -1,0 +1,2 @@
+- Modern switches has a mechanism to stop layer 2 loops. That the 'STP protocol'
+- 

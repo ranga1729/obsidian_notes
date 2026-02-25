@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "b56dbf76af575fcd",
+    "id": "9d9f01e534bf0df6",
     "type": "split",
     "children": [
       {
-        "id": "2eb7acac17c5ede4",
+        "id": "4ef8c136e93e2e7b",
         "type": "tabs",
         "children": [
           {
-            "id": "58db653b19047831",
+            "id": "38103298a092aacc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "ec89477dc9bfe879",
+    "id": "a18c503689f00b91",
     "type": "split",
     "children": [
       {
-        "id": "961f9e245979e740",
+        "id": "3292798ed5749ca4",
         "type": "tabs",
         "children": [
           {
-            "id": "c8abf8d979b40489",
+            "id": "b9ae14bf112cfe42",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,12 +48,12 @@
             }
           },
           {
-            "id": "991a38ca433b03e3",
+            "id": "f222c5c19e79e995",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "shado",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "d2c90f387f695e56",
+            "id": "df46f55b836a1add",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,23 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 305.5
+    "width": 300
   },
   "right": {
-    "id": "062518f78be6a367",
+    "id": "f982e61e6cbb3989",
     "type": "split",
     "children": [
       {
-        "id": "367cafe7abc2497e",
+        "id": "a2566e57e2af4b97",
         "type": "tabs",
         "children": [
           {
-            "id": "0ed1adb551653c03",
+            "id": "68597805ae175f70",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
+                "file": "CCNA/Module 3 - Protocols and Models/3.1 The Rules.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 3.3.3 File Attributes"
+              "title": "Backlinks for 3.1 The Rules"
             }
           },
           {
-            "id": "e57cf050aa546c3b",
+            "id": "7abcd63016530097",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CCNA/Module 3 - Protocols and Models/3.1 The Rules.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 3.1 The Rules"
             }
           },
           {
-            "id": "22740d3b5d2784b3",
+            "id": "152ab3621389288a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,17 +137,32 @@
             }
           },
           {
-            "id": "82eda1f58f4296bf",
+            "id": "b91f2b5414f5267b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ccbfa5bb3dcbbf75",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "CCNA/Module 3 - Protocols and Models/3.1 The Rules.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3.1 The Rules"
             }
           }
         ]
@@ -158,64 +174,53 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "bases:Create new base": false
     }
   },
-  "active": "58db653b19047831",
+  "active": "38103298a092aacc",
   "lastOpenFiles": [
+    "Cyber Sec/plan.md",
+    "CCNA/Module 3 - Protocols and Models/3.1 The Rules.md",
+    "AI/5. Cost function formula.md",
+    "AI/Mahasen.md",
+    "ESP32/Fundamentals.md",
+    "ESP32",
+    "AI/Course",
+    "AI/4. Linear Regression Model.md",
+    "AI/3. Unsupervised Learning.md",
+    "AI/2. Supervised Learning.md",
+    "AI",
+    "Article/MD5 Hashing Algorithm.md",
+    "Article/ML 2.md",
+    "Article/WPA2 Handshake.md",
+    "Article/Linux commands.md",
+    "Article/Introduction to Machine Learning 1.md",
+    "Article/how airdrop works.md",
+    "Article/cryptography.md",
+    "Article/Critical Path Management(CPM) vs Critical Chain Management(CCM).md",
+    "Article",
+    "Timetable.md",
+    "Pasted image 20260208180351.png",
+    "Cyber Sec/WiFi/5. De-Auth Attacks.md",
     "Cyber Sec/WiFi/4. Evil Twin commands.md",
     "Cyber Sec/WiFi/3. Evil Twin Attacks.md",
     "Cyber Sec/WiFi/2. Packet sniffing & Reconnaissance.md",
-    "Final/Management.md",
-    "Final/InfoSec.md",
-    "Final/InfoSec Algorithms.md",
-    "Final/Linux Commands.md",
-    "Final/Possible Management Concepts.md",
-    "imageedit_1_4378283074.png",
-    "Final",
-    "Sys and Network Administration/4. Network Management/4.1 Networking.md",
-    "Sys and Network Administration/4. Network Management/4.4 Web Hosting.md",
-    "Sys and Network Administration/3. Host Management/3.7 Storage.md",
-    "Sys and Network Administration/3. Host Management/3.2.1 Components of a Process Control.md",
-    "Sys and Network Administration/3. Host Management/3.5.8 Centralized Account Management.md",
-    "Sys and Network Administration/3. Host Management/3.5.6 User Login Lockout.md",
-    "Sys and Network Administration/3. Host Management/3.6 Logging.md",
-    "Sys and Network Administration/3. Host Management/3.5.7 PAM.md",
-    "Sys and Network Administration/3. Host Management/3.5.5 Removing Users.md",
-    "Sys and Network Administration/3. Host Management/3.5.4 Adding Users.md",
-    "Sys and Network Administration/3. Host Management/3.5.3 The group file.md",
-    "Sys and Network Administration/3. Host Management/3.4.1 Managing packages and Linux Package manager systems.md",
-    "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
-    "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
-    "Sys and Network Administration/3. Host Management/3.3.2 File Types.md",
-    "Sys and Network Administration/3. Host Management/3.3.1 File System.md",
-    "Sys and Network Administration/3. Host Management/3.1.4 Modern Access Control.md",
-    "Sys and Network Administration/3. Host Management/3.1.3 Extension to the Standard Access Control Model.md",
-    "Pasted image 20251229200205.png",
-    "Pasted image 20251228215411.png",
-    "Pasted image 20251228201345.png",
-    "Pasted image 20251228165016.png",
-    "Pasted image 20251228164433.png",
-    "Pasted image 20251228164126.png",
-    "Pasted image 20251228125807.png",
-    "Pasted image 20251228020703.png",
-    "Pasted image 20251228020636.png",
-    "InfoSec",
-    "Sys and Network Administration/4. Network Management",
-    "Untitled.canvas",
-    "Sys and Network Administration/6. Virtualization and Cloud",
-    "Sys and Network Administration/5. Automating system Administration",
-    "Professional Practices/4. Software License and Contracts",
-    "Professional Practices/3. HR Issues",
-    "Professional Practices/2. Structure and Management of IT Organizations",
-    "CCNA/Module 2",
-    "CCNA/Lecture Notes"
+    "Cyber Sec/WiFi/1. WEP Cracking.md",
+    "Cyber Sec/WiFi/1. Deep Dive into WPA2 4-way handshake and  Wi-Fi Password Cracking.md",
+    "Cyber Sec/Nmap/2. Basic Commands.md",
+    "Cyber Sec/WiFi/0. Fundamentals.md",
+    "Cyber Sec/Nmap/1. Intro.md",
+    "Cyber Sec/WiFi",
+    "Cyber Sec/Nmap",
+    "Cyber Sec/Linux Basics",
+    "Cyber Sec/Bluetooth",
+    "Cyber Sec",
+    "CCNA/Packet Tracer"
   ]
 }
