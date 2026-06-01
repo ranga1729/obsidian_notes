@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Sec/WiFi/5. De-Auth Attacks.md",
+                "file": "Project/errors.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. De-Auth Attacks"
+              "title": "errors"
             }
           }
         ]
@@ -170,6 +170,10 @@
   },
   "active": "58db653b19047831",
   "lastOpenFiles": [
+    "Project/Learning points.md",
+    "Project/Problems.md",
+    "Project/errors.md",
+    "Cyber Sec/WiFi/5. De-Auth Attacks.md",
     "Cyber Sec/WiFi/4. Evil Twin commands.md",
     "Cyber Sec/WiFi/3. Evil Twin Attacks.md",
     "Cyber Sec/WiFi/2. Packet sniffing & Reconnaissance.md",
@@ -194,10 +198,6 @@
     "Sys and Network Administration/3. Host Management/3.4.1 Managing packages and Linux Package manager systems.md",
     "Sys and Network Administration/3. Host Management/3.3.4 Access Control Lists(ACLs).md",
     "Sys and Network Administration/3. Host Management/3.3.3 File Attributes.md",
-    "Sys and Network Administration/3. Host Management/3.3.2 File Types.md",
-    "Sys and Network Administration/3. Host Management/3.3.1 File System.md",
-    "Sys and Network Administration/3. Host Management/3.1.4 Modern Access Control.md",
-    "Sys and Network Administration/3. Host Management/3.1.3 Extension to the Standard Access Control Model.md",
     "Pasted image 20251229200205.png",
     "Pasted image 20251228215411.png",
     "Pasted image 20251228201345.png",
