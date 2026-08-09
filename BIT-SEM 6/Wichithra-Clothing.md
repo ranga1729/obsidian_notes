@@ -94,13 +94,13 @@ model Order {
   updatedAt       DateTime      @updatedAt @db.Timestamptz(6)
 
   user                User                 @relation(fields: [userId], references: [id])
-  coupon              Coupon?              @relation(fields: [couponId], references: [id])
+  //coupon              Coupon?              @relation(fields: [couponId], references: [id])
   orderItems          OrderItem[]
   orderAddresses      OrderAddress[]
   orderStatusHistory  OrderStatusHistory[]
   payments            Payment[]
-  shipments           Shipment[]
-  returnRequests      ReturnRequest[]
+  //shipments           Shipment[] //do not include this relation for now.
+  //returnRequests      ReturnRequest[] //do not include this relation for now.
 
   @@index([userId])
   @@index([status])
@@ -113,6 +113,7 @@ model OrderItem {
   orderId         String   @db.Uuid
   inventoryId     String   @db.Uuid
   // Snapshot fields — preserve state at purchase time
+  sku             String   @db.VarChar(100) // snapshot
   productName     String   @db.VarChar(200)
   sizeName        String   @db.VarChar(10)
   colorName       String   @db.VarChar(50)

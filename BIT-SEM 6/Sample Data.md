@@ -154,7 +154,13 @@ VALUES
 
 # Products
 ```postgresql
-INSERT INTO products ( "id", "name", "slug", "description", "categoryId", "sizeGuide", "gender", "ageGroup", "brand", "material", "careInstructions", "discountPercentage", "isFeatured", "status", "metaTitle", "metaDescription", "deletedAt", "createdAt", "updatedAt" ) VALUES ('a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', 'Classic Cotton T-Shirt', 'classic-cotton-t-shirt', 'A soft, breathable everyday t-shirt made from 100% combed cotton. Perfect for casual wear or layering.', '1d4b016c-f21a-4e56-bb08-57dbec757b93', NULL, 'UNISEX', 'ADULT', 'Wichithra', '100% Combed Cotton', 'Machine wash cold with like colors. Tumble dry low. Do not bleach.', 0, false, 'AVAILABLE', 'Classic Cotton T-Shirt | Buy Online | Wichithra', 'Soft and breathable 100% combed cotton t-shirt for everyday comfort.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('b0eebc99-9c0b-4ef8-bb6d-6bb9bd380a22', 'Slim Fit Denim Jeans', 'slim-fit-denim-jeans', 'Classic five-pocket jeans with a modern slim fit. Durable denim with a hint of stretch for all-day comfort.', '9dbf615d-5ae3-4d7c-9f28-cf452e450c23', NULL, 'UNISEX', 'ADULT', 'Denim Co.', '98% Cotton, 2% Elastane', 'Machine wash cold inside out. Tumble dry medium. Wash with similar colors.', 0, false, 'AVAILABLE', 'Slim Fit Denim Jeans | Wichithra', 'Modern slim-fit jeans with stretch denim – comfortable and stylish for daily wear.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('c0eebc99-9c0b-4ef8-bb6d-6bb9bd380a33', 'Floral Print Summer Dress', 'floral-print-summer-dress', 'Lightweight chiffon dress with a vibrant floral pattern. Features a flowy skirt and short sleeves – ideal for warm days.', 'dae90135-bc99-41df-a2d7-b8cb0c73bfc2', NULL, 'FEMALE', 'ADULT', 'Bloom & Co.', '100% Polyester Chiffon', 'Hand wash cold or use delicate cycle. Hang dry. Do not iron directly on print.', 0, false, 'AVAILABLE', 'Floral Print Summer Dress | Feminine & Flowy | Wichithra', 'Vibrant floral chiffon dress with a flowy skirt – perfect for summer outings.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('d0eebc99-9c0b-4ef8-bb6d-6bb9bd380a44', 'Heavyweight Hoodie', 'heavyweight-hoodie', 'Super soft fleece hoodie with a kangaroo pocket and adjustable drawstring hood. Great for lounging or active days.', '76d46ff9-7324-4923-aed2-9eba3e74fca6', NULL, 'UNISEX', 'ADULT', 'Urban Warmth', '80% Cotton, 20% Polyester', 'Machine wash warm. Tumble dry low. Do not use fabric softener.', 0, false, 'AVAILABLE', 'Heavyweight Hoodie | Cozy Fleece | Wichithra', 'Ultra-soft fleece hoodie with adjustable hood – your go‑to for comfort.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('e0eebc99-9c0b-4ef8-bb6d-6bb9bd380a55', 'Lightweight Bomber Jacket', 'lightweight-bomber-jacket', 'Classic bomber silhouette with a water‑resistant shell, ribbed cuffs, and a zip front. Perfect for transitional weather.', 'd0825318-5425-4d95-bacd-6bb91f240ae4', NULL, 'UNISEX', 'ADULT', 'Flight Style', '100% Nylon', 'Spot clean only. Machine wash cold on gentle cycle if needed. Line dry.', 0, false, 'AVAILABLE', 'Lightweight Bomber Jacket | Water‑Resistant | Wichithra', 'Classic bomber jacket with water‑resistant nylon shell and ribbed trims.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('f0eebc99-9c0b-4ef8-bb6d-6bb9bd380a66', 'Tailored Blazer', 'tailored-blazer', 'Sharp single‑breasted blazer with a notched lapel and subtle structure. Elevates any smart‑casual or office outfit.', '68a1d048-0ad5-4be1-a0b2-8d857f808bb4', NULL, 'UNISEX', 'ADULT', 'Executive Edge', '70% Polyester, 30% Viscose', 'Dry clean only. Low iron if needed.', 0, false, 'AVAILABLE', 'Tailored Blazer | Smart Casual | Wichithra', 'Sharp single‑breasted blazer for office or evening – structured yet comfortable.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a77', 'Stretch Chino Trousers', 'stretch-chino-trousers', 'Versatile chinos with a hint of stretch for freedom of movement. Classic fit, ideal for both office and weekend.', 'cda13fe7-800b-40a3-b8f4-1c479c584c1d', NULL, 'UNISEX', 'ADULT', 'Modern Fit', '97% Cotton, 3% Elastane', 'Machine wash cold. Tumble dry low. Warm iron if needed.', 0, false, 'AVAILABLE', 'Stretch Chino Trousers | Comfort Fit | Wichithra', 'Classic chinos with stretch – perfect for work or casual days.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('b1eebc99-9c0b-4ef8-bb6d-6bb9bd380a88', 'Cable Knit Sweater', 'cable-knit-sweater', 'Classic cable‑knit texture with a relaxed fit. Warm and breathable – a timeless winter essential.', '0017cee6-7e21-4bf1-987d-2f03ae4c16b4', NULL, 'UNISEX', 'ADULT', 'Heritage Knits', '100% Acrylic', 'Machine wash cold on gentle. Lay flat to dry. Do not iron.', 0, false, 'AVAILABLE', 'Cable Knit Sweater | Winter Essential | Wichithra', 'Timeless cable‑knit sweater – warm, breathable, and perfect for layering.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('c1eebc99-9c0b-4ef8-bb6d-6bb9bd380a99', 'High-Waist Leggings', 'high-waist-leggings', 'Buttery‑soft, squat‑proof leggings with a wide high‑waistband. Perfect for yoga, gym, or everyday wear.', 'c0f6bd52-6b71-49f4-8a6a-2e21ad81f81c', NULL, 'FEMALE', 'ADULT', 'Active Flow', '75% Nylon, 25% Spandex', 'Machine wash cold with like colors. Do not use fabric softener. Tumble dry low.', 0, false, 'AVAILABLE', 'High-Waist Leggings | Squat‑Proof | Wichithra', 'Buttery‑soft high‑waist leggings – ideal for yoga, gym, or all‑day comfort.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('d1eebc99-9c0b-4ef8-bb6d-6bb9bd380a00', 'Performance Polo Shirt', 'performance-polo-shirt', 'Moisture‑wicking polo with a classic three‑button placket and ribbed collar. Keeps you cool and sharp.', 'fe799ed7-7dc2-4110-b776-6ed3f56d4b9e', NULL, 'MALE', 'ADULT', 'Sportech', '100% Pique Cotton', 'Machine wash cold. Do not bleach. Tumble dry low. Cool iron if needed.', 0, false, 'AVAILABLE', 'Performance Polo Shirt | Moisture‑Wicking | Wichithra', 'Breathable pique cotton polo – moisture‑wicking and perfect for work or golf.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30');
+INSERT INTO products ( "id", "name", "slug", "description", "categoryId", "sizeGuide", "gender", "ageGroup", "brand", "material", "careInstructions", "discountPercentage", "isFeatured", "status", "metaTitle", "metaDescription", "deletedAt", "createdAt", "updatedAt" ) VALUES ('a0eebc99-9c0b-4ef8-bb6d-6bb9bd380a11', 'Classic Cotton T-Shirt', 'classic-cotton-t-shirt', 'A soft, breathable everyday t-shirt made from 100% combed cotton. Perfect for casual wear or layering.', '1d4b016c-f21a-4e56-bb08-57dbec757b93', NULL, 'UNISEX', 'ADULT', 'Wichithra', '100% Combed Cotton', 'Machine wash cold with like colors. Tumble dry low. Do not bleach.', 0, false, 'AVAILABLE', 'Classic Cotton T-Shirt | Buy Online | Wichithra', 'Soft and breathable 100% combed cotton t-shirt for everyday comfort.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), 
+
+('b0eebc99-9c0b-4ef8-bb6d-6bb9bd380a22', 'Slim Fit Denim Jeans', 'slim-fit-denim-jeans', 'Classic five-pocket jeans with a modern slim fit. Durable denim with a hint of stretch for all-day comfort.', '9dbf615d-5ae3-4d7c-9f28-cf452e450c23', NULL, 'UNISEX', 'ADULT', 'Denim Co.', '98% Cotton, 2% Elastane', 'Machine wash cold inside out. Tumble dry medium. Wash with similar colors.', 0, false, 'AVAILABLE', 'Slim Fit Denim Jeans | Wichithra', 'Modern slim-fit jeans with stretch denim – comfortable and stylish for daily wear.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), 
+
+('c0eebc99-9c0b-4ef8-bb6d-6bb9bd380a33', 'Floral Print Summer Dress', 'floral-print-summer-dress', 'Lightweight chiffon dress with a vibrant floral pattern. Features a flowy skirt and short sleeves – ideal for warm days.', 'dae90135-bc99-41df-a2d7-b8cb0c73bfc2', NULL, 'FEMALE', 'ADULT', 'Bloom & Co.', '100% Polyester Chiffon', 'Hand wash cold or use delicate cycle. Hang dry. Do not iron directly on print.', 0, false, 'AVAILABLE', 'Floral Print Summer Dress | Feminine & Flowy | Wichithra', 'Vibrant floral chiffon dress with a flowy skirt – perfect for summer outings.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'),
+
+ ('d0eebc99-9c0b-4ef8-bb6d-6bb9bd380a44', 'Heavyweight Hoodie', 'heavyweight-hoodie', 'Super soft fleece hoodie with a kangaroo pocket and adjustable drawstring hood. Great for lounging or active days.', '76d46ff9-7324-4923-aed2-9eba3e74fca6', NULL, 'UNISEX', 'ADULT', 'Urban Warmth', '80% Cotton, 20% Polyester', 'Machine wash warm. Tumble dry low. Do not use fabric softener.', 0, false, 'AVAILABLE', 'Heavyweight Hoodie | Cozy Fleece | Wichithra', 'Ultra-soft fleece hoodie with adjustable hood – your go‑to for comfort.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('e0eebc99-9c0b-4ef8-bb6d-6bb9bd380a55', 'Lightweight Bomber Jacket', 'lightweight-bomber-jacket', 'Classic bomber silhouette with a water‑resistant shell, ribbed cuffs, and a zip front. Perfect for transitional weather.', 'd0825318-5425-4d95-bacd-6bb91f240ae4', NULL, 'UNISEX', 'ADULT', 'Flight Style', '100% Nylon', 'Spot clean only. Machine wash cold on gentle cycle if needed. Line dry.', 0, false, 'AVAILABLE', 'Lightweight Bomber Jacket | Water‑Resistant | Wichithra', 'Classic bomber jacket with water‑resistant nylon shell and ribbed trims.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('f0eebc99-9c0b-4ef8-bb6d-6bb9bd380a66', 'Tailored Blazer', 'tailored-blazer', 'Sharp single‑breasted blazer with a notched lapel and subtle structure. Elevates any smart‑casual or office outfit.', '68a1d048-0ad5-4be1-a0b2-8d857f808bb4', NULL, 'UNISEX', 'ADULT', 'Executive Edge', '70% Polyester, 30% Viscose', 'Dry clean only. Low iron if needed.', 0, false, 'AVAILABLE', 'Tailored Blazer | Smart Casual | Wichithra', 'Sharp single‑breasted blazer for office or evening – structured yet comfortable.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a77', 'Stretch Chino Trousers', 'stretch-chino-trousers', 'Versatile chinos with a hint of stretch for freedom of movement. Classic fit, ideal for both office and weekend.', 'cda13fe7-800b-40a3-b8f4-1c479c584c1d', NULL, 'UNISEX', 'ADULT', 'Modern Fit', '97% Cotton, 3% Elastane', 'Machine wash cold. Tumble dry low. Warm iron if needed.', 0, false, 'AVAILABLE', 'Stretch Chino Trousers | Comfort Fit | Wichithra', 'Classic chinos with stretch – perfect for work or casual days.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('b1eebc99-9c0b-4ef8-bb6d-6bb9bd380a88', 'Cable Knit Sweater', 'cable-knit-sweater', 'Classic cable‑knit texture with a relaxed fit. Warm and breathable – a timeless winter essential.', '0017cee6-7e21-4bf1-987d-2f03ae4c16b4', NULL, 'UNISEX', 'ADULT', 'Heritage Knits', '100% Acrylic', 'Machine wash cold on gentle. Lay flat to dry. Do not iron.', 0, false, 'AVAILABLE', 'Cable Knit Sweater | Winter Essential | Wichithra', 'Timeless cable‑knit sweater – warm, breathable, and perfect for layering.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('c1eebc99-9c0b-4ef8-bb6d-6bb9bd380a99', 'High-Waist Leggings', 'high-waist-leggings', 'Buttery‑soft, squat‑proof leggings with a wide high‑waistband. Perfect for yoga, gym, or everyday wear.', 'c0f6bd52-6b71-49f4-8a6a-2e21ad81f81c', NULL, 'FEMALE', 'ADULT', 'Active Flow', '75% Nylon, 25% Spandex', 'Machine wash cold with like colors. Do not use fabric softener. Tumble dry low.', 0, false, 'AVAILABLE', 'High-Waist Leggings | Squat‑Proof | Wichithra', 'Buttery‑soft high‑waist leggings – ideal for yoga, gym, or all‑day comfort.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30'), ('d1eebc99-9c0b-4ef8-bb6d-6bb9bd380a00', 'Performance Polo Shirt', 'performance-polo-shirt', 'Moisture‑wicking polo with a classic three‑button placket and ribbed collar. Keeps you cool and sharp.', 'fe799ed7-7dc2-4110-b776-6ed3f56d4b9e', NULL, 'MALE', 'ADULT', 'Sportech', '100% Pique Cotton', 'Machine wash cold. Do not bleach. Tumble dry low. Cool iron if needed.', 0, false, 'AVAILABLE', 'Performance Polo Shirt | Moisture‑Wicking | Wichithra', 'Breathable pique cotton polo – moisture‑wicking and perfect for work or golf.', NULL, '2026-05-29 12:00:00+05:30', '2026-05-29 12:00:00+05:30');
 ```
 
 ```postgresql
@@ -830,4 +836,1028 @@ INSERT INTO product_variants (
     'LIGHTWEIGHT_RAIN_JACKET_LIME_XS',
     69.99, NULL, FALSE, TRUE, NOW(), NOW()
 );
+```
+
+## Order, OrderItem, OrderAddress, OrderStatusHistory
+```postgresql
+-- =====================================================
+-- Single order with 4 items, address, status history, payment
+-- Explicitly generates UUID for ALL id columns
+-- =====================================================
+
+WITH
+-- 1. Pick an existing user (any active user)
+selected_user AS (
+    SELECT "id" AS user_id
+    FROM users
+    WHERE "deletedAt" IS NULL
+    LIMIT 1
+),
+
+-- 2. Define the 4 inventory items (data directly from CSVs)
+order_items_data AS (
+    SELECT
+        i."id" AS inventory_id,
+        pv."sku",
+        pr."name" AS product_name,
+        sz."name" AS size_name,
+        cl."name" AS color_name,
+        NULL::varchar AS image_url,
+        1 AS quantity,
+        pv."sellingPrice" AS unit_price,
+        0 AS discount_amount
+    FROM (VALUES
+        ('03c9123e-e112-4583-95b6-8b1454590dbb'::uuid, '79119d27-bef1-4052-afef-6f220df90bf9'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '4115386c-9ef6-4e68-928c-339392a4b708'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid, 'LACE_TRIM_CAMI_WHITE_S', 19.99),
+        ('046b324d-f7e3-40ce-8972-0b0b7db164d7'::uuid, '2ef665d0-78c5-46eb-8c3a-54fa4443d54f'::uuid, 'c2eebc99-9c0b-4ef8-bb6d-6bb9bd380a33'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid, 'CARGO_UTILITY_PANTS_GREEN_L', 54.99),
+        ('078db6e4-b7b3-417b-9f39-ef4dc9b42c74'::uuid, '2af5a689-db40-4057-b83d-21575ff94818'::uuid, 'f5eebc99-9c0b-4ef8-bb6d-6bb9bd380a44'::uuid, '6662b302-0a77-42ff-a6ff-307f36f36151'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid, 'HIGH_NECK_SLEEVELESS_TOP_TEAL_M', 39.99),
+        ('0c7b2cf0-d2bd-4404-ba98-ed75e3be08fc'::uuid, '542e4b56-c5ea-46b5-8df3-aedaa09fdcdf'::uuid, 'b2eebc99-9c0b-4ef8-bb6d-6bb9bd380a22'::uuid, 'eb0a594f-3a7e-4ca4-9d45-301826765b2a'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid, 'COTTON_BLEND_BLOUSE_PINK_XS', 29.99)
+    ) AS t(inv_id, var_id, prod_id, col_id, sz_id, sku_code, price)
+    JOIN inventory i ON i."id" = t.inv_id
+    JOIN product_variants pv ON pv."id" = t.var_id
+    JOIN products pr ON pr."id" = t.prod_id
+    JOIN sizes sz ON sz."id" = t.sz_id
+    JOIN colors cl ON cl."id" = t.col_id
+),
+
+-- 3. Compute order totals
+order_totals AS (
+    SELECT
+        SUM(unit_price * quantity) AS subtotal,
+        SUM(unit_price * quantity) * 0.05 AS tax_amount,
+        0::decimal(10,2) AS shipping_fee,
+        SUM(unit_price * quantity) + (SUM(unit_price * quantity) * 0.05) AS total_amount
+    FROM order_items_data
+),
+
+-- 4. Insert the order with explicit UUID for "id"
+inserted_order AS (
+    INSERT INTO orders (
+        "id",
+        "orderNumber",
+        "userId",
+        "status",
+        "paymentStatus",
+        "subtotal",
+        "discountAmount",
+        "shippingFee",
+        "taxAmount",
+        "totalAmount",
+        "notes",
+        "cancelReason",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        'ORD-2026-TEST001'::varchar,
+        su.user_id,
+        'PENDING'::order_status,
+        'PENDING'::payment_status,
+        ot.subtotal,
+        0,
+        ot.shipping_fee,
+        ot.tax_amount,
+        ot.total_amount,
+        'Test order with 4 items',
+        NULL,
+        NOW(),
+        NOW()
+    FROM selected_user su
+    CROSS JOIN order_totals ot
+    RETURNING "id"
+),
+
+-- 5. Insert order items (4 rows) – explicit id
+inserted_order_items AS (
+    INSERT INTO order_items (
+        "id",
+        "orderId",
+        "inventoryId",
+        "sku",
+        "productName",
+        "sizeName",
+        "colorName",
+        "imageUrl",
+        "quantity",
+        "unitPrice",
+        "discountAmount",
+        "totalPrice",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        io."id",
+        oid.inventory_id,
+        oid.sku,
+        oid.product_name,
+        oid.size_name,
+        oid.color_name,
+        oid.image_url,
+        oid.quantity,
+        oid.unit_price,
+        oid.discount_amount,
+        oid.unit_price * oid.quantity,
+        NOW()
+    FROM inserted_order io
+    CROSS JOIN order_items_data oid
+    RETURNING "id"
+),
+
+-- 6. Insert order address – explicit id
+inserted_order_address AS (
+    INSERT INTO order_addresses (
+        "id",
+        "orderId",
+        "type",
+        "houseNo",
+        "addressLine1",
+        "addressLine2",
+        "city",
+        "province",
+        "zipcode",
+        "country",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        io."id",
+        'DELIVERY'::address_type,
+        '42',
+        'Main Street',
+        'Apt 3B',
+        'Colombo',
+        'Western',
+        '00100',
+        'Sri Lanka',
+        NOW()
+    FROM inserted_order io
+    RETURNING "id"
+),
+
+-- 7. Insert order status history – explicit id
+inserted_status_history AS (
+    INSERT INTO order_status_history (
+        "id",
+        "orderId",
+        "status",
+        "notes",
+        "createdBy",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        io."id",
+        'PENDING'::order_status,
+        'Order created via test script',
+        NULL,
+        NOW()
+    FROM inserted_order io
+    RETURNING "id"
+),
+
+-- 8. Insert payment – explicit id
+inserted_payment AS (
+    INSERT INTO payments (
+        "id",
+        "orderId",
+        "amount",
+        "currency",
+        "method",
+        "status",
+        "gatewayProvider",
+        "gatewayTransactionId",
+        "gatewayResponse",
+        "failureReason",
+        "paidAt",
+        "refundedAt",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        io."id",
+        ot.total_amount,
+        'LKR',
+        'CARD'::payment_method,
+        'PENDING'::payment_status,
+        'PayHere',
+        'txn_test_' || gen_random_uuid()::text,
+        '{"test": true}'::jsonb,
+        NULL,
+        NULL,
+        NULL,
+        NOW(),
+        NOW()
+    FROM inserted_order io
+    CROSS JOIN order_totals ot
+    RETURNING "id"
+)
+
+-- Final output: show what was inserted
+SELECT 'Order inserted with ID: ' || "id"::text AS result FROM inserted_order
+UNION ALL
+SELECT 'Order items inserted: 4' WHERE EXISTS (SELECT 1 FROM inserted_order_items)
+UNION ALL
+SELECT 'Order address inserted' WHERE EXISTS (SELECT 1 FROM inserted_order_address)
+UNION ALL
+SELECT 'Status history inserted' WHERE EXISTS (SELECT 1 FROM inserted_status_history)
+UNION ALL
+SELECT 'Payment inserted' WHERE EXISTS (SELECT 1 FROM inserted_payment);
+```
+
+```postgresql
+-- =====================================================
+-- Insert 10 orders, each with 3 order items,
+-- address, status history, and payment
+-- Fixed ambiguous column reference
+-- =====================================================
+
+WITH
+-- 1. List of available inventory items (use the same IDs as before)
+available_inventory AS (
+    SELECT
+        i."id" AS inventory_id,
+        pv."sku",
+        pr."name" AS product_name,
+        sz."name" AS size_name,
+        cl."name" AS color_name,
+        NULL::varchar AS image_url,
+        pv."sellingPrice" AS unit_price
+    FROM (VALUES
+        ('03c9123e-e112-4583-95b6-8b1454590dbb'::uuid, '79119d27-bef1-4052-afef-6f220df90bf9'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '4115386c-9ef6-4e68-928c-339392a4b708'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid),
+        ('046b324d-f7e3-40ce-8972-0b0b7db164d7'::uuid, '2ef665d0-78c5-46eb-8c3a-54fa4443d54f'::uuid, 'c2eebc99-9c0b-4ef8-bb6d-6bb9bd380a33'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('078db6e4-b7b3-417b-9f39-ef4dc9b42c74'::uuid, '2af5a689-db40-4057-b83d-21575ff94818'::uuid, 'f5eebc99-9c0b-4ef8-bb6d-6bb9bd380a44'::uuid, '6662b302-0a77-42ff-a6ff-307f36f36151'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid),
+        ('0c7b2cf0-d2bd-4404-ba98-ed75e3be08fc'::uuid, '542e4b56-c5ea-46b5-8df3-aedaa09fdcdf'::uuid, 'b2eebc99-9c0b-4ef8-bb6d-6bb9bd380a22'::uuid, 'eb0a594f-3a7e-4ca4-9d45-301826765b2a'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('0d02fc09-8b69-4ebd-bcb2-2da7456e49f1'::uuid, '078290d2-7429-47ff-8af3-25b48648bcb8'::uuid, 'a5eebc99-9c0b-4ef8-bb6d-6bb9bd380a99'::uuid, 'a3dbbeea-ba0a-4dea-bfa4-ab0cdfcb2616'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid),
+        ('0e988692-9b02-49f2-a389-de1213b93167'::uuid, '017516e4-a5ea-4244-8e2d-fa9c669c0695'::uuid, 'd4eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('0fa9d690-e4fa-4ae0-9b14-d6ba54249bd1'::uuid, 'fb68408d-c4d3-4d6e-b00f-0fdc1b01b14e'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '709681ad-cde8-4af3-a986-642fec48e0e3'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('11e48741-5687-4b20-ad43-e88417e309d8'::uuid, 'b03d597d-908b-414b-9a0d-cad544ab06c2'::uuid, 'b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '3facc0f8-0db8-4d5f-b01e-4393b78b2feb'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('18671034-b971-4480-b1be-6f9aad26f35a'::uuid, '67bef8f7-7e59-4bc4-8906-53e00819e6cd'::uuid, 'a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a77'::uuid, '0c30e6a5-5e10-4a96-88f2-6f9823bc77f5'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('21375214-1aea-4642-bbb3-6e66d9774134'::uuid, '0caa3378-690b-4afd-bf03-c86a45cef878'::uuid, 'b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '5cc348b9-236e-454e-97a7-5bdfad371be1'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid)
+    ) AS t(inv_id, var_id, prod_id, col_id, sz_id)
+    JOIN inventory i ON i."id" = t.inv_id
+    JOIN product_variants pv ON pv."id" = t.var_id
+    JOIN products pr ON pr."id" = t.prod_id
+    JOIN sizes sz ON sz."id" = t.sz_id
+    JOIN colors cl ON cl."id" = t.col_id
+),
+
+-- 2. Random user lookup (any active user)
+random_user AS (
+    SELECT "id" AS user_id FROM users WHERE "deletedAt" IS NULL ORDER BY random() LIMIT 1
+),
+
+-- 3. Generate 10 orders with random statuses
+order_definitions AS (
+    SELECT
+        generate_series(1, 10) AS order_index,
+        (ARRAY['PENDING', 'CONFIRMED', 'PROCESSING', 'SHIPPED', 'DELIVERED', 'CANCELLED'])[floor(random() * 6 + 1)]::order_status AS order_status,
+        (ARRAY['PENDING', 'COMPLETED', 'FAILED', 'PARTIALLY_REFUNDED'])[floor(random() * 4 + 1)]::payment_status AS payment_status
+),
+
+-- 4. For each order, generate 3 random inventory items and compute totals
+order_items_data AS (
+    SELECT
+        od.order_index,
+        ai.inventory_id,
+        ai.sku,
+        ai.product_name,
+        ai.size_name,
+        ai.color_name,
+        ai.image_url,
+        (floor(random() * 3 + 1))::int AS quantity,
+        ai.unit_price,
+        0 AS discount_amount
+    FROM order_definitions od
+    CROSS JOIN LATERAL (
+        SELECT * FROM available_inventory ORDER BY random() LIMIT 3
+    ) ai
+),
+
+order_totals AS (
+    SELECT
+        order_index,
+        SUM(unit_price * quantity) AS subtotal,
+        SUM(unit_price * quantity) * 0.05 AS tax_amount,
+        CASE WHEN random() > 0.7 THEN 0 ELSE (floor(random() * 500 + 1))::decimal(10,2) END AS shipping_fee,
+        SUM(unit_price * quantity) + (SUM(unit_price * quantity) * 0.05) +
+            CASE WHEN random() > 0.7 THEN 0 ELSE (floor(random() * 500 + 1))::decimal(10,2) END AS total_amount
+    FROM order_items_data
+    GROUP BY order_index
+),
+
+-- 5. Insert orders (explicitly qualify order_index)
+inserted_orders AS (
+    INSERT INTO orders (
+        "id",
+        "orderNumber",
+        "userId",
+        "status",
+        "paymentStatus",
+        "subtotal",
+        "discountAmount",
+        "shippingFee",
+        "taxAmount",
+        "totalAmount",
+        "notes",
+        "cancelReason",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        'ORD-2026-' || lpad(od.order_index::text, 4, '0'),  -- use od.order_index
+        (SELECT user_id FROM random_user),
+        od.order_status,
+        od.payment_status,
+        ot.subtotal,
+        0,
+        ot.shipping_fee,
+        ot.tax_amount,
+        ot.total_amount,
+        'Test order ' || od.order_index,
+        CASE WHEN od.order_status = 'CANCELLED' THEN 'Cancelled by test' ELSE NULL END,
+        NOW() - (random() * interval '30 days'),
+        NOW() - (random() * interval '30 days')
+    FROM order_definitions od
+    JOIN order_totals ot ON od.order_index = ot.order_index
+    RETURNING "id", "orderNumber"
+),
+
+-- attach order_index for mapping
+order_index_map AS (
+    SELECT
+        io."id" AS order_id,
+        (substring(io."orderNumber" from 'ORD-2026-(\d+)$')::int) AS order_index
+    FROM inserted_orders io
+),
+
+-- 6. Insert order items (3 per order)
+inserted_order_items AS (
+    INSERT INTO order_items (
+        "id",
+        "orderId",
+        "inventoryId",
+        "sku",
+        "productName",
+        "sizeName",
+        "colorName",
+        "imageUrl",
+        "quantity",
+        "unitPrice",
+        "discountAmount",
+        "totalPrice",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        oid.inventory_id,
+        oid.sku,
+        oid.product_name,
+        oid.size_name,
+        oid.color_name,
+        oid.image_url,
+        oid.quantity,
+        oid.unit_price,
+        oid.discount_amount,
+        oid.unit_price * oid.quantity,
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    JOIN order_items_data oid ON oim.order_index = oid.order_index
+    RETURNING "id"
+),
+
+-- 7. Insert order addresses
+inserted_order_addresses AS (
+    INSERT INTO order_addresses (
+        "id",
+        "orderId",
+        "type",
+        "houseNo",
+        "addressLine1",
+        "addressLine2",
+        "city",
+        "province",
+        "zipcode",
+        "country",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        'DELIVERY'::address_type,
+        (floor(random() * 200 + 1))::text,
+        'Street ' || floor(random() * 100)::text,
+        CASE WHEN random() > 0.5 THEN 'Apt ' || floor(random() * 20)::text ELSE NULL END,
+        (ARRAY['Colombo', 'Kandy', 'Galle', 'Jaffna'])[floor(random() * 4 + 1)],
+        (ARRAY['Western', 'Central', 'Southern', 'Northern'])[floor(random() * 4 + 1)],
+        (ARRAY['00100', '20000', '80000', '40000'])[floor(random() * 4 + 1)],
+        'Sri Lanka',
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    RETURNING "id"
+),
+
+-- 8. Insert order status history (initial status)
+inserted_status_history AS (
+    INSERT INTO order_status_history (
+        "id",
+        "orderId",
+        "status",
+        "notes",
+        "createdBy",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        od.order_status,
+        'Order created',
+        NULL,
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    JOIN order_definitions od ON oim.order_index = od.order_index
+    RETURNING "id"
+),
+
+-- 9. Insert payments
+inserted_payments AS (
+    INSERT INTO payments (
+        "id",
+        "orderId",
+        "amount",
+        "currency",
+        "method",
+        "status",
+        "gatewayProvider",
+        "gatewayTransactionId",
+        "gatewayResponse",
+        "failureReason",
+        "paidAt",
+        "refundedAt",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        ot.total_amount,
+        'LKR',
+        (ARRAY['CARD'::payment_method, 'BANK_TRANSFER', 'CASH_ON_DELIVERY', 'PAYHERE'])[floor(random() * 4 + 1)],
+        od.payment_status,
+        CASE WHEN od.payment_status IN ('COMPLETED','FAILED') THEN 'PayHere' ELSE NULL END,
+        CASE WHEN od.payment_status IN ('COMPLETED','FAILED') THEN 'txn_' || gen_random_uuid()::text ELSE NULL END,
+        '{"test": true}'::jsonb,
+        CASE WHEN od.payment_status = 'FAILED' THEN 'Payment failure test' ELSE NULL END,
+        CASE WHEN od.payment_status = 'COMPLETED' THEN NOW() - (random() * interval '10 days') ELSE NULL END,
+        NULL,
+        NOW() - (random() * interval '30 days'),
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    JOIN order_totals ot ON oim.order_index = ot.order_index
+    JOIN order_definitions od ON oim.order_index = od.order_index
+    RETURNING "id"
+)
+
+-- Final summary
+SELECT 'Orders inserted: 10' AS result
+UNION ALL
+SELECT 'Order items inserted: ' || COUNT(*)::text FROM inserted_order_items
+UNION ALL
+SELECT 'Order addresses inserted: ' || COUNT(*)::text FROM inserted_order_addresses
+UNION ALL
+SELECT 'Status history inserted: ' || COUNT(*)::text FROM inserted_status_history
+UNION ALL
+SELECT 'Payments inserted: ' || COUNT(*)::text FROM inserted_payments;
+```
+```postgresql
+-- =====================================================
+-- Insert 10 orders (status = PROCESSING), each with 3 order items,
+-- address, status history, and payment
+-- =====================================================
+
+WITH
+-- 1. List of available inventory items (same IDs as before)
+available_inventory AS (
+    SELECT
+        i."id" AS inventory_id,
+        pv."sku",
+        pr."name" AS product_name,
+        sz."name" AS size_name,
+        cl."name" AS color_name,
+        NULL::varchar AS image_url,
+        pv."sellingPrice" AS unit_price
+    FROM (VALUES
+        ('03c9123e-e112-4583-95b6-8b1454590dbb'::uuid, '79119d27-bef1-4052-afef-6f220df90bf9'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '4115386c-9ef6-4e68-928c-339392a4b708'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid),
+        ('046b324d-f7e3-40ce-8972-0b0b7db164d7'::uuid, '2ef665d0-78c5-46eb-8c3a-54fa4443d54f'::uuid, 'c2eebc99-9c0b-4ef8-bb6d-6bb9bd380a33'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('078db6e4-b7b3-417b-9f39-ef4dc9b42c74'::uuid, '2af5a689-db40-4057-b83d-21575ff94818'::uuid, 'f5eebc99-9c0b-4ef8-bb6d-6bb9bd380a44'::uuid, '6662b302-0a77-42ff-a6ff-307f36f36151'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid),
+        ('0c7b2cf0-d2bd-4404-ba98-ed75e3be08fc'::uuid, '542e4b56-c5ea-46b5-8df3-aedaa09fdcdf'::uuid, 'b2eebc99-9c0b-4ef8-bb6d-6bb9bd380a22'::uuid, 'eb0a594f-3a7e-4ca4-9d45-301826765b2a'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('0d02fc09-8b69-4ebd-bcb2-2da7456e49f1'::uuid, '078290d2-7429-47ff-8af3-25b48648bcb8'::uuid, 'a5eebc99-9c0b-4ef8-bb6d-6bb9bd380a99'::uuid, 'a3dbbeea-ba0a-4dea-bfa4-ab0cdfcb2616'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid),
+        ('0e988692-9b02-49f2-a389-de1213b93167'::uuid, '017516e4-a5ea-4244-8e2d-fa9c669c0695'::uuid, 'd4eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('0fa9d690-e4fa-4ae0-9b14-d6ba54249bd1'::uuid, 'fb68408d-c4d3-4d6e-b00f-0fdc1b01b14e'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '709681ad-cde8-4af3-a986-642fec48e0e3'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('11e48741-5687-4b20-ad43-e88417e309d8'::uuid, 'b03d597d-908b-414b-9a0d-cad544ab06c2'::uuid, 'b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '3facc0f8-0db8-4d5f-b01e-4393b78b2feb'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('18671034-b971-4480-b1be-6f9aad26f35a'::uuid, '67bef8f7-7e59-4bc4-8906-53e00819e6cd'::uuid, 'a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a77'::uuid, '0c30e6a5-5e10-4a96-88f2-6f9823bc77f5'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('21375214-1aea-4642-bbb3-6e66d9774134'::uuid, '0caa3378-690b-4afd-bf03-c86a45cef878'::uuid, 'b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '5cc348b9-236e-454e-97a7-5bdfad371be1'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid)
+    ) AS t(inv_id, var_id, prod_id, col_id, sz_id)
+    JOIN inventory i ON i."id" = t.inv_id
+    JOIN product_variants pv ON pv."id" = t.var_id
+    JOIN products pr ON pr."id" = t.prod_id
+    JOIN sizes sz ON sz."id" = t.sz_id
+    JOIN colors cl ON cl."id" = t.col_id
+),
+
+-- 2. Random user lookup (any active user)
+random_user AS (
+    SELECT "id" AS user_id FROM users WHERE "deletedAt" IS NULL ORDER BY random() LIMIT 1
+),
+
+-- 3. Generate 10 orders with PROCESSING status and random payment status
+order_definitions AS (
+    SELECT
+        generate_series(11, 20) AS order_index,   -- start from 11 to avoid conflict
+        'PROCESSING'::order_status AS order_status,
+        (ARRAY['PENDING', 'COMPLETED', 'FAILED', 'PARTIALLY_REFUNDED'])[floor(random() * 4 + 1)]::payment_status AS payment_status
+),
+
+-- 4. For each order, generate 3 random inventory items and compute totals
+order_items_data AS (
+    SELECT
+        od.order_index,
+        ai.inventory_id,
+        ai.sku,
+        ai.product_name,
+        ai.size_name,
+        ai.color_name,
+        ai.image_url,
+        (floor(random() * 3 + 1))::int AS quantity,
+        ai.unit_price,
+        0 AS discount_amount
+    FROM order_definitions od
+    CROSS JOIN LATERAL (
+        SELECT * FROM available_inventory ORDER BY random() LIMIT 3
+    ) ai
+),
+
+order_totals AS (
+    SELECT
+        order_index,
+        SUM(unit_price * quantity) AS subtotal,
+        SUM(unit_price * quantity) * 0.05 AS tax_amount,
+        CASE WHEN random() > 0.7 THEN 0 ELSE (floor(random() * 500 + 1))::decimal(10,2) END AS shipping_fee,
+        SUM(unit_price * quantity) + (SUM(unit_price * quantity) * 0.05) +
+            CASE WHEN random() > 0.7 THEN 0 ELSE (floor(random() * 500 + 1))::decimal(10,2) END AS total_amount
+    FROM order_items_data
+    GROUP BY order_index
+),
+
+-- 5. Insert orders (status = PROCESSING)
+inserted_orders AS (
+    INSERT INTO orders (
+        "id",
+        "orderNumber",
+        "userId",
+        "status",
+        "paymentStatus",
+        "subtotal",
+        "discountAmount",
+        "shippingFee",
+        "taxAmount",
+        "totalAmount",
+        "notes",
+        "cancelReason",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        'ORD-2026-PROC-' || lpad(od.order_index::text, 4, '0'),
+        (SELECT user_id FROM random_user),
+        od.order_status,
+        od.payment_status,
+        ot.subtotal,
+        0,
+        ot.shipping_fee,
+        ot.tax_amount,
+        ot.total_amount,
+        'Processing order ' || od.order_index,
+        NULL,
+        NOW() - (random() * interval '30 days'),
+        NOW() - (random() * interval '30 days')
+    FROM order_definitions od
+    JOIN order_totals ot ON od.order_index = ot.order_index
+    RETURNING "id", "orderNumber"
+),
+
+-- attach order_index for mapping
+order_index_map AS (
+    SELECT
+        io."id" AS order_id,
+        (substring(io."orderNumber" from 'ORD-2026-PROC-(\d+)$')::int) AS order_index
+    FROM inserted_orders io
+),
+
+-- 6. Insert order items (3 per order)
+inserted_order_items AS (
+    INSERT INTO order_items (
+        "id",
+        "orderId",
+        "inventoryId",
+        "sku",
+        "productName",
+        "sizeName",
+        "colorName",
+        "imageUrl",
+        "quantity",
+        "unitPrice",
+        "discountAmount",
+        "totalPrice",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        oid.inventory_id,
+        oid.sku,
+        oid.product_name,
+        oid.size_name,
+        oid.color_name,
+        oid.image_url,
+        oid.quantity,
+        oid.unit_price,
+        oid.discount_amount,
+        oid.unit_price * oid.quantity,
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    JOIN order_items_data oid ON oim.order_index = oid.order_index
+    RETURNING "id"
+),
+
+-- 7. Insert order addresses
+inserted_order_addresses AS (
+    INSERT INTO order_addresses (
+        "id",
+        "orderId",
+        "type",
+        "houseNo",
+        "addressLine1",
+        "addressLine2",
+        "city",
+        "province",
+        "zipcode",
+        "country",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        'DELIVERY'::address_type,
+        (floor(random() * 200 + 1))::text,
+        'Street ' || floor(random() * 100)::text,
+        CASE WHEN random() > 0.5 THEN 'Apt ' || floor(random() * 20)::text ELSE NULL END,
+        (ARRAY['Colombo', 'Kandy', 'Galle', 'Jaffna'])[floor(random() * 4 + 1)],
+        (ARRAY['Western', 'Central', 'Southern', 'Northern'])[floor(random() * 4 + 1)],
+        (ARRAY['00100', '20000', '80000', '40000'])[floor(random() * 4 + 1)],
+        'Sri Lanka',
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    RETURNING "id"
+),
+
+-- 8. Insert order status history (initial status = PROCESSING)
+inserted_status_history AS (
+    INSERT INTO order_status_history (
+        "id",
+        "orderId",
+        "status",
+        "notes",
+        "createdBy",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        'PROCESSING'::order_status,
+        'Order is being processed',
+        NULL,
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    RETURNING "id"
+),
+
+-- 9. Insert payments
+inserted_payments AS (
+    INSERT INTO payments (
+        "id",
+        "orderId",
+        "amount",
+        "currency",
+        "method",
+        "status",
+        "gatewayProvider",
+        "gatewayTransactionId",
+        "gatewayResponse",
+        "failureReason",
+        "paidAt",
+        "refundedAt",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        ot.total_amount,
+        'LKR',
+        (ARRAY['CARD'::payment_method, 'BANK_TRANSFER', 'CASH_ON_DELIVERY', 'PAYHERE'])[floor(random() * 4 + 1)],
+        od.payment_status,
+        CASE WHEN od.payment_status IN ('COMPLETED','FAILED') THEN 'PayHere' ELSE NULL END,
+        CASE WHEN od.payment_status IN ('COMPLETED','FAILED') THEN 'txn_' || gen_random_uuid()::text ELSE NULL END,
+        '{"test": true}'::jsonb,
+        CASE WHEN od.payment_status = 'FAILED' THEN 'Payment failure test' ELSE NULL END,
+        CASE WHEN od.payment_status = 'COMPLETED' THEN NOW() - (random() * interval '10 days') ELSE NULL END,
+        NULL,
+        NOW() - (random() * interval '30 days'),
+        NOW() - (random() * interval '30 days')
+    FROM order_index_map oim
+    JOIN order_totals ot ON oim.order_index = ot.order_index
+    JOIN order_definitions od ON oim.order_index = od.order_index
+    RETURNING "id"
+)
+
+-- Final summary
+SELECT 'Orders inserted (PROCESSING): 10' AS result
+UNION ALL
+SELECT 'Order items inserted: ' || COUNT(*)::text FROM inserted_order_items
+UNION ALL
+SELECT 'Order addresses inserted: ' || COUNT(*)::text FROM inserted_order_addresses
+UNION ALL
+SELECT 'Status history inserted: ' || COUNT(*)::text FROM inserted_status_history
+UNION ALL
+SELECT 'Payments inserted: ' || COUNT(*)::text FROM inserted_payments;
+```
+```postgresql
+-- =====================================================
+-- Insert 20 orders, each with 2 order items,
+-- random status from: PENDING, CONFIRMED, PROCESSING,
+-- SHIPPED, DELIVERED, CANCELLED
+-- =====================================================
+
+WITH
+-- 1. Available inventory items (same set as before)
+available_inventory AS (
+    SELECT
+        i."id" AS inventory_id,
+        pv."sku",
+        pr."name" AS product_name,
+        sz."name" AS size_name,
+        cl."name" AS color_name,
+        NULL::varchar AS image_url,
+        pv."sellingPrice" AS unit_price
+    FROM (VALUES
+        ('03c9123e-e112-4583-95b6-8b1454590dbb'::uuid, '79119d27-bef1-4052-afef-6f220df90bf9'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '4115386c-9ef6-4e68-928c-339392a4b708'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid),
+        ('046b324d-f7e3-40ce-8972-0b0b7db164d7'::uuid, '2ef665d0-78c5-46eb-8c3a-54fa4443d54f'::uuid, 'c2eebc99-9c0b-4ef8-bb6d-6bb9bd380a33'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('078db6e4-b7b3-417b-9f39-ef4dc9b42c74'::uuid, '2af5a689-db40-4057-b83d-21575ff94818'::uuid, 'f5eebc99-9c0b-4ef8-bb6d-6bb9bd380a44'::uuid, '6662b302-0a77-42ff-a6ff-307f36f36151'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid),
+        ('0c7b2cf0-d2bd-4404-ba98-ed75e3be08fc'::uuid, '542e4b56-c5ea-46b5-8df3-aedaa09fdcdf'::uuid, 'b2eebc99-9c0b-4ef8-bb6d-6bb9bd380a22'::uuid, 'eb0a594f-3a7e-4ca4-9d45-301826765b2a'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('0d02fc09-8b69-4ebd-bcb2-2da7456e49f1'::uuid, '078290d2-7429-47ff-8af3-25b48648bcb8'::uuid, 'a5eebc99-9c0b-4ef8-bb6d-6bb9bd380a99'::uuid, 'a3dbbeea-ba0a-4dea-bfa4-ab0cdfcb2616'::uuid, '550e8400-e29b-41d4-a716-446655440011'::uuid),
+        ('0e988692-9b02-49f2-a389-de1213b93167'::uuid, '017516e4-a5ea-4244-8e2d-fa9c669c0695'::uuid, 'd4eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '019e4ca6-fd4a-4ae7-ad58-9dd68d8d0e5d'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('0fa9d690-e4fa-4ae0-9b14-d6ba54249bd1'::uuid, 'fb68408d-c4d3-4d6e-b00f-0fdc1b01b14e'::uuid, 'b5eebc99-9c0b-4ef8-bb6d-6bb9bd380a00'::uuid, '709681ad-cde8-4af3-a986-642fec48e0e3'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('11e48741-5687-4b20-ad43-e88417e309d8'::uuid, 'b03d597d-908b-414b-9a0d-cad544ab06c2'::uuid, 'b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '3facc0f8-0db8-4d5f-b01e-4393b78b2feb'::uuid, '550e8400-e29b-41d4-a716-446655440013'::uuid),
+        ('18671034-b971-4480-b1be-6f9aad26f35a'::uuid, '67bef8f7-7e59-4bc4-8906-53e00819e6cd'::uuid, 'a1eebc99-9c0b-4ef8-bb6d-6bb9bd380a77'::uuid, '0c30e6a5-5e10-4a96-88f2-6f9823bc77f5'::uuid, '550e8400-e29b-41d4-a716-446655440010'::uuid),
+        ('21375214-1aea-4642-bbb3-6e66d9774134'::uuid, '0caa3378-690b-4afd-bf03-c86a45cef878'::uuid, 'b6eebc99-9c0b-4ef8-bb6d-6bb9bd380a66'::uuid, '5cc348b9-236e-454e-97a7-5bdfad371be1'::uuid, '550e8400-e29b-41d4-a716-446655440012'::uuid)
+    ) AS t(inv_id, var_id, prod_id, col_id, sz_id)
+    JOIN inventory i ON i."id" = t.inv_id
+    JOIN product_variants pv ON pv."id" = t.var_id
+    JOIN products pr ON pr."id" = t.prod_id
+    JOIN sizes sz ON sz."id" = t.sz_id
+    JOIN colors cl ON cl."id" = t.col_id
+),
+
+-- 2. Random user
+random_user AS (
+    SELECT "id" AS user_id FROM users WHERE "deletedAt" IS NULL ORDER BY random() LIMIT 1
+),
+
+-- 3. Generate 20 orders with random status from the allowed list
+order_definitions AS (
+    SELECT
+        generate_series(31, 50) AS order_index,
+        (ARRAY['PENDING', 'CONFIRMED', 'PROCESSING', 'SHIPPED', 'DELIVERED', 'CANCELLED'])[floor(random() * 6 + 1)]::order_status AS order_status,
+        (ARRAY['PENDING', 'COMPLETED', 'FAILED', 'PARTIALLY_REFUNDED'])[floor(random() * 4 + 1)]::payment_status AS payment_status
+),
+
+-- 4. For each order, generate 2 random inventory items
+order_items_data AS (
+    SELECT
+        od.order_index,
+        ai.inventory_id,
+        ai.sku,
+        ai.product_name,
+        ai.size_name,
+        ai.color_name,
+        ai.image_url,
+        (floor(random() * 3 + 1))::int AS quantity,   -- quantity 1-3
+        ai.unit_price,
+        0 AS discount_amount
+    FROM order_definitions od
+    CROSS JOIN LATERAL (
+        SELECT * FROM available_inventory ORDER BY random() LIMIT 2   -- exactly 2 items
+    ) ai
+),
+
+order_totals AS (
+    SELECT
+        order_index,
+        SUM(unit_price * quantity) AS subtotal,
+        SUM(unit_price * quantity) * 0.05 AS tax_amount,
+        CASE WHEN random() > 0.7 THEN 0 ELSE (floor(random() * 500 + 1))::decimal(10,2) END AS shipping_fee,
+        SUM(unit_price * quantity) + (SUM(unit_price * quantity) * 0.05) +
+            CASE WHEN random() > 0.7 THEN 0 ELSE (floor(random() * 500 + 1))::decimal(10,2) END AS total_amount
+    FROM order_items_data
+    GROUP BY order_index
+),
+
+-- 5. Insert orders
+inserted_orders AS (
+    INSERT INTO orders (
+        "id",
+        "orderNumber",
+        "userId",
+        "status",
+        "paymentStatus",
+        "subtotal",
+        "discountAmount",
+        "shippingFee",
+        "taxAmount",
+        "totalAmount",
+        "notes",
+        "cancelReason",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        'ORD-2026-RND-' || lpad(od.order_index::text, 4, '0'),
+        (SELECT user_id FROM random_user),
+        od.order_status,
+        od.payment_status,
+        ot.subtotal,
+        0,
+        ot.shipping_fee,
+        ot.tax_amount,
+        ot.total_amount,
+        'Random status order ' || od.order_index,
+        CASE WHEN od.order_status = 'CANCELLED' THEN 'Cancelled by system test' ELSE NULL END,
+        NOW() - (random() * interval '90 days'),
+        NOW() - (random() * interval '60 days')
+    FROM order_definitions od
+    JOIN order_totals ot ON od.order_index = ot.order_index
+    RETURNING "id", "orderNumber"
+),
+
+-- attach order_index for mapping
+order_index_map AS (
+    SELECT
+        io."id" AS order_id,
+        (substring(io."orderNumber" from 'ORD-2026-RND-(\d+)$')::int) AS order_index
+    FROM inserted_orders io
+),
+
+-- 6. Insert order items (2 per order)
+inserted_order_items AS (
+    INSERT INTO order_items (
+        "id",
+        "orderId",
+        "inventoryId",
+        "sku",
+        "productName",
+        "sizeName",
+        "colorName",
+        "imageUrl",
+        "quantity",
+        "unitPrice",
+        "discountAmount",
+        "totalPrice",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        oid.inventory_id,
+        oid.sku,
+        oid.product_name,
+        oid.size_name,
+        oid.color_name,
+        oid.image_url,
+        oid.quantity,
+        oid.unit_price,
+        oid.discount_amount,
+        oid.unit_price * oid.quantity,
+        NOW() - (random() * interval '90 days')
+    FROM order_index_map oim
+    JOIN order_items_data oid ON oim.order_index = oid.order_index
+    RETURNING "id"
+),
+
+-- 7. Insert order addresses
+inserted_order_addresses AS (
+    INSERT INTO order_addresses (
+        "id",
+        "orderId",
+        "type",
+        "houseNo",
+        "addressLine1",
+        "addressLine2",
+        "city",
+        "province",
+        "zipcode",
+        "country",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        'DELIVERY'::address_type,
+        (floor(random() * 200 + 1))::text,
+        'Street ' || floor(random() * 100)::text,
+        CASE WHEN random() > 0.5 THEN 'Apt ' || floor(random() * 20)::text ELSE NULL END,
+        (ARRAY['Colombo', 'Kandy', 'Galle', 'Jaffna'])[floor(random() * 4 + 1)],
+        (ARRAY['Western', 'Central', 'Southern', 'Northern'])[floor(random() * 4 + 1)],
+        (ARRAY['00100', '20000', '80000', '40000'])[floor(random() * 4 + 1)],
+        'Sri Lanka',
+        NOW() - (random() * interval '90 days')
+    FROM order_index_map oim
+    RETURNING "id"
+),
+
+-- 8. Insert order status history (initial status)
+inserted_status_history AS (
+    INSERT INTO order_status_history (
+        "id",
+        "orderId",
+        "status",
+        "notes",
+        "createdBy",
+        "createdAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        od.order_status,
+        'Order created with initial status: ' || od.order_status,
+        NULL,
+        NOW() - (random() * interval '90 days')
+    FROM order_index_map oim
+    JOIN order_definitions od ON oim.order_index = od.order_index
+    RETURNING "id"
+),
+
+-- 9. Insert payments
+inserted_payments AS (
+    INSERT INTO payments (
+        "id",
+        "orderId",
+        "amount",
+        "currency",
+        "method",
+        "status",
+        "gatewayProvider",
+        "gatewayTransactionId",
+        "gatewayResponse",
+        "failureReason",
+        "paidAt",
+        "refundedAt",
+        "createdAt",
+        "updatedAt"
+    )
+    SELECT
+        gen_random_uuid(),
+        oim.order_id,
+        ot.total_amount,
+        'LKR',
+        (ARRAY['CARD'::payment_method, 'BANK_TRANSFER', 'CASH_ON_DELIVERY', 'PAYHERE'])[floor(random() * 4 + 1)],
+        od.payment_status,
+        CASE WHEN od.payment_status IN ('COMPLETED','FAILED') THEN 'PayHere' ELSE NULL END,
+        CASE WHEN od.payment_status IN ('COMPLETED','FAILED') THEN 'txn_' || gen_random_uuid()::text ELSE NULL END,
+        '{"test": true}'::jsonb,
+        CASE WHEN od.payment_status = 'FAILED' THEN 'Payment failure' ELSE NULL END,
+        CASE WHEN od.payment_status = 'COMPLETED' THEN NOW() - (random() * interval '80 days') ELSE NULL END,
+        NULL,
+        NOW() - (random() * interval '90 days'),
+        NOW() - (random() * interval '60 days')
+    FROM order_index_map oim
+    JOIN order_totals ot ON oim.order_index = ot.order_index
+    JOIN order_definitions od ON oim.order_index = od.order_index
+    RETURNING "id"
+)
+
+-- Final summary
+SELECT 'Orders inserted (random status, 20): ' || COUNT(*)::text FROM inserted_orders
+UNION ALL
+SELECT 'Order items inserted: ' || COUNT(*)::text FROM inserted_order_items
+UNION ALL
+SELECT 'Order addresses inserted: ' || COUNT(*)::text FROM inserted_order_addresses
+UNION ALL
+SELECT 'Status history inserted: ' || COUNT(*)::text FROM inserted_status_history
+UNION ALL
+SELECT 'Payments inserted: ' || COUNT(*)::text FROM inserted_payments;
 ```

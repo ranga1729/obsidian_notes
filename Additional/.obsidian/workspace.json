@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCNA/Module 4 - Physical Layer/4.4 UTP Cabling.md",
+                "file": "CCNA/Module 4 - Physical Layer/4.6 Wireless Media.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4.4 UTP Cabling"
+              "title": "4.6 Wireless Media"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -186,19 +188,23 @@
   },
   "active": "7e5f8063ce0c5d74",
   "lastOpenFiles": [
-    "CCNA/Module 4 - Physical Layer/4.3 Copper Cabling.md",
+    "CCNA/practicals/Create a Vlan.md",
+    "CCNA/practicals/16th April.md",
+    "CCNA/Module 4 - Physical Layer/4.6 Wireless Media.md",
+    "CCNA/Module 4 - Physical Layer/4.5 Fiber-Optics Cabling.md",
+    "Pasted image 20260809171844.png",
+    "Pasted image 20260809171519.png",
+    "Pasted image 20260809171432.png",
+    "Pasted image 20260809165608.png",
+    "Pasted image 20260809165502.png",
     "CCNA/Module 4 - Physical Layer/4.4 UTP Cabling.md",
-    "Pasted image 20260525010936.png",
-    "Pasted image 20260525010810.png",
-    "Pasted image 20260525010321.png",
-    "Pasted image 20260525005842.png",
-    "Pasted image 20260525005632.png",
-    "Pasted image 20260524234438.png",
-    "Pasted image 20260524234408.png",
-    "Pasted image 20260524234354.png",
-    "Pasted image 20260524234017.png",
+    "Pasted image 20260809164157.png",
+    "Pasted image 20260809164133.png",
+    "Pasted image 20260809164106.png",
+    "Pasted image 20260809163644.png",
+    "Pasted image 20260809163502.png",
+    "CCNA/Module 4 - Physical Layer/4.3 Copper Cabling.md",
     "CCNA/Module 4 - Physical Layer/4.2 Characteristics.md",
-    "Pasted image 20260524223927.png",
     "CCNA/Module 4 - Physical Layer/4.1 Purpose of the Physcal layer.md",
     "CCNA/Module 3 - Protocols and Models/3.6 Data Encapsulation.md",
     "CCNA/Module 3 - Protocols and Models/3.5 Reference Models.md",
@@ -208,7 +214,6 @@
     "CCNA/Module 3 - Protocols and Models/3.4 Standard Organizations.md",
     "CCNA/Module 3 - Protocols and Models/3.2 Protocols.md",
     "CCNA/Module 3 - Protocols and Models/3.1 The Rules.md",
-    "CCNA/practicals/Create a Vlan.md",
     "CCNA/Module 1/1.8 Network Security.md",
     "CCNA/Module 1/1.6 Network Architecture.md",
     "CCNA/Module 1/1.5 Internet Connections.md",
@@ -220,9 +225,6 @@
     "CCNA/Module 1/1.3 Network Representation and Topologies.md",
     "CCNA/Lecture Notes/Networking Today.md",
     "CCNA/Lecture Notes/day 8.md",
-    "CCNA/Lecture Notes/Day 2.md",
-    "CCNA/practicals/16th April.md",
-    "Classes/Grade 8/Untitled.md",
     "Classes/Grade 11",
     "Classes/Grade 10",
     "Classes/Grade 9",

@@ -69,16 +69,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "FactN Assistant/ChatN.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "ChatN"
+            }
+          },
+          {
+            "id": "6781af76000cd845",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.4"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -135,8 +149,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "d021bc412f71deb5",
@@ -254,13 +267,14 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1ad9f2c022e50a96",
+  "active": "6781af76000cd845",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "FactN Assistant/ChatN.md",
     "FactN Assistant/Technical specification.md",
     "FactN Assistant/SRS Non-tech.md",
     "FactN Assistant/Prompts.md",
     "FactN Assistant/new chnages.md",
-    "Untitled 2.md",
     "FactN Assistant/Issues.md",
     "FactN Assistant/Why.md",
     "FactN Assistant/WebSocket Protocol.md",
@@ -284,7 +298,6 @@
     "2026-02-19.md",
     "# LiveChat API — WebSocket Integration Guide.md",
     "FactN Assistant/route inspections.md",
-    "Excalidraw/Drawing 2026-04-25 12.21.55.excalidraw.md",
     "FactN Assistant",
     "Untitled.canvas",
     "ESP32",
